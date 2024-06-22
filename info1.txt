@@ -3712,12 +3712,15 @@ Papercraft Mob Stickers Add-On ( Jigarbov Productions ) - Addon 2c1b0abb-c954-45
 Essentials ( Unlinked ) - Addon 2e1f786f-7f12-4573-91b4-4e356302737b
 Secret Doors Add-On ( Mod Block ) - Addon a2371d2c-39bc-4540-996a-b15ebc729081
 Telelanterns Add-On ( Logdotzip ) - Addon 581ac520-536b-4d79-83d8-0d2c03262e8e
+Dark Mode ( MelonBP ) - TexturePack 005a30aa-598d-4116-a5f8-f527b77ce567
 15 Year Journey ( Minecraft ) - DLC 68b4c786-53b4-4d73-b95c-b060d7cc99c6
 15 Year Party Supplies ( Minecraft ) - Addon 4ecbca45-ecd1-497e-b62d-61845859e10e
 Planes Pro Add-On ( AriaCreations ) - Addon 3a8a8c98-85eb-4d86-8310-c61d839bd53c
 Roads + Add-On ( MobBlocks ) - Addon 965de5c6-a5c1-4b02-a4d3-083c659a07c1
 Backpack Add-On ( Block Factory ) - Addon fa9abff4-e940-4a04-bb40-10f7544c5faa
 Heat Wave Survival ( Pathway Studios ) - DLC 7974c137-4239-4d5c-94d1-7aa5ed9d7285
+TRIMS [ADD-ON] ( Blocky ) - Addon a504b8b6-619b-4e15-86b2-dbd24b403c35
+Furniture Add-On ( Honeyfrost ) - Addon e048b07d-1553-41e7-9728-1cc92a62674f
 My Pet Dragons ( The Craft Stars ) - Addon 80c3effc-dd86-4cc3-bc2a-6b672c4592cb
 Minecraft Monument Challenge ( Minecraft ) - DLC fd04d2e3-86aa-4ec9-9c68-90223fb51995
 NETHER REIMAGINED ( Kubo Studios ) - DLC 83f4a333-952c-4244-894e-a1d0ddb64f6d
@@ -3726,3 +3729,4 @@ World Builder Add-On ( Oreville Studios ) - Addon c71645fb-e3ed-4777-a475-1545ad
 Dexi Ville ( Shapescape ) - DLC 000dcb9d-6cf6-4d18-bb0d-cf5061f9592a
 Dragons! Biomes ( Cynosia ) - Addon 12678d9b-a82d-485a-8e15-b7c6ba9def4b
 Tetris Add-On ( Minecraft ) - Addon f3e05d62-6ff0-4de5-a2ff-ad5cecc7d01c
+Craftable Houses Add-On ( Pixell Studio ) - Addon 5031a461-4bbe-445a-947b-23ae28375e49
