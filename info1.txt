@@ -3778,6 +3778,7 @@ Jump and Run Adventure ( Pixelbiester ) - DLC 99b8c90d-a91c-411e-b94e-c0b005049b
 Medieval Village Roleplay ( Syclone Studios ) - DLC 78ee3ff6-e4de-44c7-b6d3-611c7aa1a5fc
 Tutorial Lab: Mobs! ( House of How ) - DLC 1f9c4f07-7f21-48e7-92cb-bd18ce4343e2
 Four Kingdoms ( Shaliquinn's Schematics ) - DLC 484ebb80-6db5-4e7c-ab2b-f7ecc557e55e
+Farm Life - Roleplay ( Pixelbiester ) - DLC cfec740d-cf60-424b-9d5a-58e26a54f043
 Spaceship Survival ( A Foxy Toast ) - DLC de6e4e1e-3afb-4fc0-8da2-fa0ff19bf4f7
 Pendulum ( Shaliquinn's Schematics ) - DLC 0ce934f5-9d92-432a-b144-f873cf16e2d3
 Hero Story ( Cyclone ) - DLC d3ba3b4c-d863-4b44-b495-8532d086ec7b
@@ -3788,10 +3789,17 @@ Gear City ( Team Visionary ) - DLC f6e070bc-3df8-4d30-bf5f-e1522c95de3e
 Radiant Cathedral ( Shaliquinn's Schematics ) - DLC 04e58e51-5b08-43b7-940d-ee685d1bf504
 Rising City ( Glowfischdesigns ) - DLC 97f09a77-7189-42af-90b3-b7a00114cd68
 Take the Citadel ( Lifeboat ) - DLC 3b515b6f-bb19-4b41-a43a-f92f3ea1d1a4
+Simple Spawns: Redwood Village ( Razzleberries ) - DLC a724267f-6720-477c-a36a-bdbc48187817
+Simple Spawns: Magic Forest ( Razzleberries ) - DLC 840a6369-14da-4c7a-91b0-89aa80b292cb
 Prison Escape 3 - Luxury City ( InPvP ) - DLC b0d72972-4008-4cb7-a977-bd7ea9f4ab54
 Extreme Speed Runner ( Jigarbov Productions ) - DLC c349cc36-dc12-4283-b27f-0cb7b205167c
+Simple Spawns: Green Grove ( Razzleberries ) - DLC 9c03c7c4-e76e-437b-9217-fc561caba233
+Simple Spawns: Forest Fortress ( Razzleberries ) - DLC aa9f57d7-1b92-4f1d-a6d3-d56c6d0e36b5
 Science Facility ( CubeCraft Games ) - DLC 6179e709-5339-437f-a6a2-4df8837a8dc2
+Simple Spawns: Wizard Tower ( Razzleberries ) - DLC 50b10e1a-5cff-4f45-a2a1-be28552771b6
 miniMEGA Arcade ( Pathway Studios ) - DLC 90589a4c-611f-493e-9ab8-5f624f5dd8e3
+Simple Spawns: Winter Castle ( Razzleberries ) - DLC fcd8b61a-9524-4046-b75d-127e6cde3be1
+Magic Mansion ( Dodo Studios ) - DLC adb7b0e1-9489-40c2-9446-4131b92b4c17
 Quarry ( Monster Egg Studios ) - DLC b83442c3-20f2-453d-99ae-dbc9dff5a1c5
 Technopunk ( BBB Studios ) - DLC 729373c4-8ff2-4bdc-acd7-007cac269efa
 Realistic Skyblock ( Razzleberries ) - DLC 68e962fc-a33f-4987-89a1-b9068ac79b13
@@ -3817,6 +3825,7 @@ Luckyblock Skyblock ( ChewMingo ) - DLC fa4cfb69-b3c1-40d7-b156-af5c7cb09d29
 PVP Fantasy Resource Pack ( Giggle Block Studios ) - TexturePack 87b7e8db-c7ba-4828-ab67-a39293586683
 Cushy Fuzz Texture Pack ( Giggle Block Studios ) - TexturePack 2f4e9290-daf9-43a7-97f2-0f65c0d4ea8d
 Broken Craft ( GoE-Craft ) - TexturePack a71d01a4-dcc9-4f08-b024-ba24dd5076de
+ReBlocks ( RareLoot ) - TexturePack 45c873c8-5001-4718-921e-ba11f3b1eacd
 Millionaire Secret Base ( Foxel Games ) - DLC cde0a9ff-aa02-4185-93d6-950b963f8cdb
 Hacker Texture Pack ( Giggle Block Studios ) - TexturePack 841e5777-013a-4831-8077-6ec520baab31
 Futuristic ( Tetrascape ) - TexturePack 7a02d57a-303b-4389-a28f-88a4f7469bf9
@@ -3831,16 +3840,20 @@ Grayscale Texture Pack ( GoE-Craft ) - TexturePack 29c98453-408d-4a5d-91bc-2c0af
 Candy Skulls Texture Pack ( Giggle Block Studios ) - TexturePack a1caa033-017e-451b-9077-daf431559d3d
 Frameworks ( Giggle Block Studios ) - TexturePack 2637c0a4-7f4c-4631-8232-35f02f66683b
 PURE Textures ( Giggle Block Studios ) - TexturePack 660ba05d-3b1f-444d-ba8b-792725513664
+Emulation Story Texture Pack ( Next Studio ) - TexturePack f4782a82-0ea8-43f1-a0c6-bfb35ebc91b2
 Advanced Mechanics ( The Craft Stars ) - TexturePack edc378c8-f8ea-4074-9cbf-69967dfe181e
 Hacker Craft ( GoE-Craft ) - TexturePack 345d3b56-341c-4702-abd9-d640ee16ea51
 Medieval - Old Age Textures ( Pathway Studios ) - TexturePack a15f5f18-b214-445c-8525-dbce8bc0df30
 Skyblock+ ( Wonder ) - DLC 80498f59-980c-4136-b0e5-a121fbe3372b
 Creator Resources ( Giggle Block Studios ) - TexturePack d301878b-03fd-4bac-a50d-bb6ea7b01f08
 Find The Keys ( Doctor Benx ) - DLC 9d5aca75-2b7f-477b-a07f-109152845dbd
+Ultra Vanilla Texture Pack ( Cyclone ) - TexturePack 2e1ebc9c-7c47-418e-80ec-8461bb10ee78
+Ultra Realistic Texture Pack ( Cyclone ) - TexturePack f9845064-c414-40af-9527-f8b0077e05a6
 Simplex ( In Mine ) - TexturePack ead7962a-b694-44d5-8c13-a2e6c2f9b84d
 Flat Lucky Block World! ( KA Studios ) - DLC 7bb112a3-2487-43ef-b6f4-38775d66cbaf
 Luxury Resources ( Giggle Block Studios ) - TexturePack 66fd195a-5ac2-4b96-a369-83e4ddf915c9
 Simply Bits ( Pathway Studios ) - TexturePack 7953b7a2-ef9f-4d14-9140-d67bb30caf51
+Earthy Texture Pack ( Superbusy Studios ) - TexturePack 24b631a6-8206-484d-9bd4-c7ac63388c62
 Alphabet Backrooms ( Logdotzip ) - DLC a71977ce-feb2-460c-9c73-e1af10a566a0
 Realism ( Wonder ) - DLC ac09e7da-32bb-4ffe-be52-86d3dedaf78b
 Vanilla 8x ( Giggle Block Studios ) - TexturePack e714ceb0-5c8e-4979-962c-40ca0a1d9aa9
@@ -3869,6 +3882,7 @@ Wooden Texture Pack ( Giggle Block Studios ) - TexturePack 20513525-7c1c-4baf-a3
 Heatwave ( Giggle Block Studios ) - TexturePack e28df616-7f34-44fb-84d6-8a2f09780306
 Rainbow Eclipse PvP Pack ( CubeCraft Games ) - TexturePack 14071f7c-665d-4ec3-95f4-729bfdb37920
 Crazy Mobs ( MelonBP ) - TexturePack b340b028-678a-46de-ab73-11a445a65a07
+PVP: Dragons Tooth ( Tetrascape ) - TexturePack eba219c8-2e35-4429-af95-4ea88b92dc70
 Mini Battles PvP ( MelonBP ) - TexturePack 36f68ab9-73d5-4991-9577-01cd28b43516
 Daydream Textures ( Heropixel Games ) - TexturePack 438f4e43-a66b-4595-beaa-752cde62f6c4
 Grit ( Giggle Block Studios ) - TexturePack 40f1a2ef-b590-4ebf-b2fe-67584ac6202e
@@ -3882,13 +3896,17 @@ Cubed Frames Textures ( Heropixel Games ) - TexturePack 120273c7-201c-4fd6-b9f8-
 Kawaii Anime ( Tetrascape ) - TexturePack 6a13d760-a58e-499f-acaf-f3368e9d85a5
 Funky Halloween ( Giggle Block Studios ) - TexturePack e05046b4-5299-4a1b-a809-eab32fb41801
 Zeus 16x PvP Pack ( CubeCraft Games ) - TexturePack 06e583cd-3685-4eb8-836f-6872793b2e32
+Ultra Anime Texture Pack ( Cyclone ) - TexturePack b96f8b78-562f-495c-bf38-d4208ed83bc4
 CANT LEAVE THE CIRCLE SURVIVAL ( The Craft Stars ) - DLC d037a51a-d9e8-4684-9c39-08ac51573526
 Magic and Beyond Texture Pack ( CaptainSparklez ) - TexturePack 8b90eb4b-8815-4284-b439-21153ffb890f
 Paragon Resource Pack ( Paragonia ) - TexturePack 6a1e9f98-601f-4943-b432-4d8b2f88176a
+Project MELIOR ( CubeCraft Games ) - TexturePack 006ecced-f3ba-4c97-b8e7-5ab3ceeb0d62
+Lo-Bit 8-bit ( Tetrascape ) - TexturePack 71fb8013-935c-49ca-87e7-b81e810e2641
 Realism Shades ( MelonBP ) - TexturePack e42fb977-3168-4b5b-b4fc-c52b32975dfc
 Vanilla Pro Textures ( MelonBP ) - TexturePack d7a687ef-03db-4a04-ad42-e97e9d5a3f6e
 OP SWORDS ( Maca Designs ) - DLC 1995c8af-45d5-4b28-9add-adbe3839421a
 Frosted ( Giggle Block Studios ) - TexturePack bc637b1e-149f-479c-a80e-36fbe7bd4213
+Autumn Horrors ( In Mine ) - TexturePack c0aad9f3-b8fd-4930-82dc-5fd8f781a12f
 Ancient Monsters ( Giggle Block Studios ) - TexturePack fa2303a2-16f4-4a2a-b814-a9948ac34d78
 Plastic Punch ( Giggle Block Studios ) - TexturePack 165cdec9-ef6d-4706-a97c-96e9379e4a51
 Pixel+ Texture Pack ( Giggle Block Studios ) - TexturePack 67a3451b-732c-4b35-8791-9510116b7d68
@@ -3896,8 +3914,10 @@ Summer Beach ( Giggle Block Studios ) - TexturePack 33219eef-4b3f-40e1-a052-9ecd
 Skyblock Texture Pack ( Mine-North ) - TexturePack cd77f29c-7f97-4cb9-b663-9a4cb3660865
 Pixel Glitch Texture Pack ( Giggle Block Studios ) - TexturePack f5d0e44d-69b2-4428-879b-23ca48c3359f
 Cute Craft Texture Pack ( Some Game Studio ) - TexturePack 33af5119-1c9d-4fe2-948f-9f55f864f81d
+Kingdoms ( Odd Block ) - TexturePack 3a9df2d1-184f-4bad-8b9c-5c6bc2fd5eec
 Clean and Bright ( Giggle Block Studios ) - TexturePack a7b67799-4426-4626-8087-a1d295f9473e
 Gingerbread Town ( Giggle Block Studios ) - TexturePack f3295582-ade7-43b1-84df-8e6fa8e55452
+Super Simple Texture Pack ( Some Game Studio ) - TexturePack 81197f6a-11e8-4582-ac49-a72472bcade6
 CHERRY TOOLS ( ChewMingo ) - DLC f3304057-97e0-4ec7-aa36-12d33fdce6ba
 Shader-Like Fog ( Heropixel Games ) - TexturePack d00f5b16-671e-4b62-9a3b-ba1922839379
 Foodie ( Giggle Block Studios ) - TexturePack f949c4d6-160d-4f5e-955c-6f9dc4a0407c
@@ -3916,6 +3936,7 @@ Noche Estrellada ( CubeCraft Games ) - TexturePack 5cadbfb7-e211-4074-acdf-666a8
 Simple Modern ( Giggle Block Studios ) - TexturePack 82e7d272-e0d4-4dcf-94bd-1b8c5a8db274
 Modern Resource Pack ( Bunny Studios ) - TexturePack 582fc55c-47a3-44db-90a4-5f46522c9a0c
 Ultimate Textures 8x8 ( Glowfischdesigns ) - TexturePack 43b39332-c08b-4b29-bc74-22988c3f8538
+Super Cute Fantasy TexturePack ( Some Game Studio ) - TexturePack 702d5163-e481-42e2-b0a0-5c7618e10527
 Quantum PvP ( GoE-Craft ) - TexturePack e6a5e899-9305-45e6-abce-d97906e60cdb
 Pixel Mania Texture Pack ( Mine-North ) - TexturePack cd80d4d2-c055-4125-9f2b-73dd685c1b21
 8Bit Modern ( Heropixel Games ) - TexturePack fe207291-bae0-4dd5-bd1a-fb036b83020e
@@ -3926,11 +3947,13 @@ Harvest Texture Pack ( Giggle Block Studios ) - TexturePack 5a11ff9e-2217-4e6b-a
 Overgrown ( Giggle Block Studios ) - TexturePack 105c45b4-f7d0-4f58-a6a1-2bbe9fe5b435
 Winter Lights ( Giggle Block Studios ) - TexturePack de75ec72-49e5-48d0-b23c-949754f3775a
 Moonrise ( Giggle Block Studios ) - TexturePack 7f4ddb1f-6e13-4173-9640-a038e8a0cae4
+Luxury Modern HD ( Team VoidFeather ) - TexturePack 11271728-55ed-4009-ae66-adbf8c74664b
 Boba Tea Town ( Wonder ) - DLC ada2dad8-f52b-45b1-a8e7-4133b38c840e
 Simple Cute Texture Pack ( Mine-North ) - TexturePack 64024016-5d74-4081-b667-be179b5a0f49
 Rose 16x PvP Pack ( CubeCraft Games ) - TexturePack f79719c9-38e6-4afc-92df-cb148e551245
 8bit Texture Pack ( Mine-North ) - TexturePack d16cb07f-358e-4638-98c3-4469232d6dd0
 Heritage Texture Pack ( Team Visionary ) - TexturePack a16b6220-6904-490a-8c36-636202df706a
+Luminosity Realism ( GoE-Craft ) - TexturePack 543e977b-8fd4-4dfd-9a32-f7a3ef52bf93
 Advanced PVP ( The Craft Stars ) - TexturePack cd7dfcb0-a626-4e25-a380-32f2fdfa9ee9
 COMBINE ORES Add-On ( Red Eagle Studios ) - Addon 338de759-0783-47a3-b926-bc7f0bd7837d
 Yoshiya ( DeliSoft Studios ) - TexturePack f011e358-cfae-4261-818c-7ce14e658810
@@ -3940,9 +3963,11 @@ Cyberpunk Texture Pack ( Mine-North ) - TexturePack 3688cd19-ffb4-48e3-8133-67c4
 Enhanced Textures ( Tristan Productions ) - TexturePack 2de3766d-3f44-4361-950b-97981235e59a
 Crimsoft Texture Pack ( RareLoot ) - TexturePack 18299b23-2020-4a80-a88a-fb446e547018
 Tranquility - Calm Textures ( Pathway Studios ) - TexturePack ea10fa3a-a749-40f0-86c7-c8e44773172b
+World of Cubes Texture Pack ( Some Game Studio ) - TexturePack 68cef7bb-47e8-4c11-9edf-fc46ffbbfb6b
 Gardenscape ( Giggle Block Studios ) - TexturePack c651e856-035a-4c67-856a-d6977d48c242
 HUGE LUCKY BLOCK ( Kubo Studios ) - DLC ac299b81-aa33-48c8-b017-5616f9e967d4
 Dragon Celebration ( Giggle Block Studios ) - TexturePack 0fc50573-7cac-4cf0-b786-71fc33ad2704
+Old School Pixels Texture Pack ( Some Game Studio ) - TexturePack 51131a36-e5de-4135-a3b1-d75bbedaaaaa
 Serenity ( Kora Studios ) - TexturePack 6e5fd48d-7651-4245-a972-5306c52f164c
 Pure PvP Vanilla ( Pixelusion ) - TexturePack 87bacfb1-af4a-46e4-98e7-a3b759ff1b82
 PvP: Epic 3D ( Tomhmagic Creations ) - TexturePack dcc3f4c1-7b6d-4a29-975e-27b8ad9d5d71
@@ -3971,6 +3996,7 @@ BOB'S FARMING ( Team Workbench ) - Addon 6de5dad7-91bb-4035-bef4-eb9eca88025e
 Info Items Add-On ( Polymaps ) - Addon 45dddb5f-f59a-4256-a4c9-3f2c198e1cd9
 Health Bars Add-On ( Oreville Studios ) - Addon 903a4949-71d7-4b8a-bf63-7f38d06e710f
 Realight Reimagined ( Tomhmagic Creations ) - Addon 0803db10-440f-4c1d-8315-2fdcff184ff1
+Supreme HD Textures ( Pathway Studios ) - TexturePack 94bb598a-e284-46fc-bba1-732416f52161
 Difficulty: Upside Down! ( MelonBP ) - DLC 4aa3d9f8-0349-4f5c-94d6-2cc0437dffaf
 Beast PvP ( Sapphire Studios ) - TexturePack 77e6337c-db90-412f-9ddd-3f65384404f1
 Trial Chamber Legends ( Minecraft ) - DLC 201db89f-0542-4718-841d-34cca5a2d32d
