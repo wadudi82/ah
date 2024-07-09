@@ -3960,6 +3960,7 @@ Yoshiya ( DeliSoft Studios ) - TexturePack f011e358-cfae-4261-818c-7ce14e658810
 Dragon PvP ( Heropixel Games ) - TexturePack 6f3defe7-33fe-4373-8a60-ff9a79bb4445
 BECOME BIGFOOT ( Nitric Concepts ) - DLC 702c1b9e-4f3c-473f-821f-3ca29382f521
 Cyberpunk Texture Pack ( Mine-North ) - TexturePack 3688cd19-ffb4-48e3-8133-67c445e4fbea
+Top Hat ( Minecraft ) - DLC b1f77be3-c520-4fc8-86fb-897bc4513918
 Enhanced Textures ( Tristan Productions ) - TexturePack 2de3766d-3f44-4361-950b-97981235e59a
 Crimsoft Texture Pack ( RareLoot ) - TexturePack 18299b23-2020-4a80-a88a-fb446e547018
 Tranquility - Calm Textures ( Pathway Studios ) - TexturePack ea10fa3a-a749-40f0-86c7-c8e44773172b
@@ -3993,10 +3994,17 @@ Excalibur ( Syclone Studios ) - TexturePack bc756e7f-ab6d-4316-8a0f-9541c3bfe118
 Element Bending ( Lostduckies ) - Addon 411524c7-70d8-4174-a941-efa3e90d2808
 HORROR SURVIVAL ( Mythicus ) - Addon a1da6f9b-d454-48cf-b0eb-d140020602d9
 BOB'S FARMING ( Team Workbench ) - Addon 6de5dad7-91bb-4035-bef4-eb9eca88025e
+Anime Blades ( Kubo Studios ) - DLC 2d747036-41a4-458d-9cae-86532abf521c
 Info Items Add-On ( Polymaps ) - Addon 45dddb5f-f59a-4256-a4c9-3f2c198e1cd9
 Health Bars Add-On ( Oreville Studios ) - Addon 903a4949-71d7-4b8a-bf63-7f38d06e710f
 Realight Reimagined ( Tomhmagic Creations ) - Addon 0803db10-440f-4c1d-8315-2fdcff184ff1
+BACKROOMS INFINITY ( Maca Designs ) - DLC 6e92586f-5cb8-4463-bdbe-0d7ecb89c5da
 Supreme HD Textures ( Pathway Studios ) - TexturePack 94bb598a-e284-46fc-bba1-732416f52161
 Difficulty: Upside Down! ( MelonBP ) - DLC 4aa3d9f8-0349-4f5c-94d6-2cc0437dffaf
 Beast PvP ( Sapphire Studios ) - TexturePack 77e6337c-db90-412f-9ddd-3f65384404f1
+Beyond the End Dimension ( Cubed Creations ) - DLC 34780227-0524-4131-93ab-888e1721208d
+100 Days! ( Builders Horizon ) - DLC 9215b376-4c53-4115-8cfc-95bade65cd7f
+Mickey's Horror City ( Mine-North ) - DLC ebf62e18-64f9-4080-bf63-c3d4df3a7097
+The Mimic ( Pathway Studios ) - DLC 77fe81c9-a56f-4ee3-8fea-800c37da8794
+Epic Wands ( BLOCKLAB Studios ) - DLC 14fd0bf6-16da-4cd5-a444-e4d298caab46
 Trial Chamber Legends ( Minecraft ) - DLC 201db89f-0542-4718-841d-34cca5a2d32d
