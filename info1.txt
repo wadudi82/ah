@@ -3837,6 +3837,7 @@ MORPH PACK 1.4 ( Panascais ) - DLC f6bc3d37-ddaf-4014-88a1-b54c23cba885
 Dragon Park ( Everbloom Games ) - DLC be183d3e-6eb5-422c-8bb9-d1b926f2713b
 Simplistic Future Texture Pack ( Giggle Block Studios ) - TexturePack 6ab543d9-4571-4f28-8f1b-bdc99f86c679
 Grayscale Texture Pack ( GoE-Craft ) - TexturePack 29c98453-408d-4a5d-91bc-2c0afa876be7
+It Lurks ( DeliSoft Studios ) - DLC b8b93bd2-8c2d-4ca8-8c86-f06546215370
 Candy Skulls Texture Pack ( Giggle Block Studios ) - TexturePack a1caa033-017e-451b-9077-daf431559d3d
 Frameworks ( Giggle Block Studios ) - TexturePack 2637c0a4-7f4c-4631-8232-35f02f66683b
 PURE Textures ( Giggle Block Studios ) - TexturePack 660ba05d-3b1f-444d-ba8b-792725513664
@@ -3848,6 +3849,7 @@ Skyblock+ ( Wonder ) - DLC 80498f59-980c-4136-b0e5-a121fbe3372b
 Creator Resources ( Giggle Block Studios ) - TexturePack d301878b-03fd-4bac-a50d-bb6ea7b01f08
 Find The Keys ( Doctor Benx ) - DLC 9d5aca75-2b7f-477b-a07f-109152845dbd
 Ultra Vanilla Texture Pack ( Cyclone ) - TexturePack 2e1ebc9c-7c47-418e-80ec-8461bb10ee78
+Ultimate PvP Pack ( Shapescape ) - TexturePack cc6f9bb2-05db-4e95-ac0d-2535d224fbf0
 Ultra Realistic Texture Pack ( Cyclone ) - TexturePack f9845064-c414-40af-9527-f8b0077e05a6
 Simplex ( In Mine ) - TexturePack ead7962a-b694-44d5-8c13-a2e6c2f9b84d
 Flat Lucky Block World! ( KA Studios ) - DLC 7bb112a3-2487-43ef-b6f4-38775d66cbaf
@@ -3893,6 +3895,7 @@ Roses ( Giggle Block Studios ) - TexturePack 10552b42-f2a9-43d1-85f3-556b3d67327
 Ultra Horror Texture Pack ( Cyclone ) - TexturePack fe8111bb-f005-4435-b563-ce495d7c29d2
 Kindergarten Texture Pack ( Heropixel Games ) - TexturePack c261dece-f7a1-4af1-a67f-06bd2e47a81f
 Cubed Frames Textures ( Heropixel Games ) - TexturePack 120273c7-201c-4fd6-b9f8-88d78328beaf
+Mentis ( CubeCraft Games ) - TexturePack 4c8f617c-3e40-4cb4-a954-aab2422788f1
 Kawaii Anime ( Tetrascape ) - TexturePack 6a13d760-a58e-499f-acaf-f3368e9d85a5
 Funky Halloween ( Giggle Block Studios ) - TexturePack e05046b4-5299-4a1b-a809-eab32fb41801
 Zeus 16x PvP Pack ( CubeCraft Games ) - TexturePack 06e583cd-3685-4eb8-836f-6872793b2e32
@@ -3935,6 +3938,7 @@ Cute Pastels ( Giggle Block Studios ) - TexturePack 729bb69d-905a-4a04-b5cd-8217
 Noche Estrellada ( CubeCraft Games ) - TexturePack 5cadbfb7-e211-4074-acdf-666a846e06b7
 Simple Modern ( Giggle Block Studios ) - TexturePack 82e7d272-e0d4-4dcf-94bd-1b8c5a8db274
 Modern Resource Pack ( Bunny Studios ) - TexturePack 582fc55c-47a3-44db-90a4-5f46522c9a0c
+Live Inside Mobs ( Next Studio ) - DLC db8e6737-954b-41cf-9d3b-8af1ed35d815
 Ultimate Textures 8x8 ( Glowfischdesigns ) - TexturePack 43b39332-c08b-4b29-bc74-22988c3f8538
 Super Cute Fantasy TexturePack ( Some Game Studio ) - TexturePack 702d5163-e481-42e2-b0a0-5c7618e10527
 Quantum PvP ( GoE-Craft ) - TexturePack e6a5e899-9305-45e6-abce-d97906e60cdb
@@ -3960,6 +3964,7 @@ Yoshiya ( DeliSoft Studios ) - TexturePack f011e358-cfae-4261-818c-7ce14e658810
 Dragon PvP ( Heropixel Games ) - TexturePack 6f3defe7-33fe-4373-8a60-ff9a79bb4445
 BECOME BIGFOOT ( Nitric Concepts ) - DLC 702c1b9e-4f3c-473f-821f-3ca29382f521
 Cyberpunk Texture Pack ( Mine-North ) - TexturePack 3688cd19-ffb4-48e3-8133-67c445e4fbea
+Tiny Dungeon ( Mob Pie ) - DLC 13d1627b-c79a-4a75-a52c-d16d80d1ab70
 Top Hat ( Minecraft ) - DLC b1f77be3-c520-4fc8-86fb-897bc4513918
 Enhanced Textures ( Tristan Productions ) - TexturePack 2de3766d-3f44-4361-950b-97981235e59a
 Crimsoft Texture Pack ( RareLoot ) - TexturePack 18299b23-2020-4a80-a88a-fb446e547018
@@ -3978,6 +3983,8 @@ More Villages ( Shapescape ) - DLC 5dce0422-4e9d-43a2-a6ac-1addb85858bd
 Weapons Evolve Add-On ( HorizonBlocks ) - Addon 40f4e026-577e-4a67-baaf-c1a483eec3c1
 Ultra City Texture Pack ( Cyclone ) - TexturePack 39bda09f-83cb-4a02-93ff-ac70d41a150a
 Vehicles Add-On ( Dalibu Studios ) - Addon 75e727ce-e573-44b1-a9f2-60762eeec99d
+2D Survival ( Diveblocks ) - DLC bf5c5ded-635b-4c15-823f-1176ca3e3da5
+The Circus ( DeliSoft Studios ) - DLC ba8752ea-1716-40a9-925a-eba41b7c3a15
 AI Texturepack ( Lostduckies ) - TexturePack 94f31b8c-1861-4f3f-982d-0b26edd39107
 Arigato Resourcepack ( Lostduckies ) - TexturePack 4ea571ef-1e1f-4760-83ef-36be0a0a4096
 Crystal Gateways ( In Mine ) - Addon 8ad90a1a-b8ef-444e-8fd1-899e14443699
@@ -3992,12 +3999,15 @@ FURNITURE HD Add-On ( Square Dreams ) - Addon f7f549a0-8ea4-472d-aff0-554c709b59
 Money Add-On ( Dig Down Studios ) - Addon 7a9936c5-580a-4396-a155-65f36254d93b
 Excalibur ( Syclone Studios ) - TexturePack bc756e7f-ab6d-4316-8a0f-9541c3bfe118
 Element Bending ( Lostduckies ) - Addon 411524c7-70d8-4174-a941-efa3e90d2808
+Half Heart Survival ( Duh ) - DLC fafa314c-231b-4f28-a27b-55b7483843ff
 HORROR SURVIVAL ( Mythicus ) - Addon a1da6f9b-d454-48cf-b0eb-d140020602d9
+Colorful Concrete ( Block Perfect Studios ) - Addon cc269bc0-b7dc-4847-91b4-a6748a7a9691
 BOB'S FARMING ( Team Workbench ) - Addon 6de5dad7-91bb-4035-bef4-eb9eca88025e
 Anime Blades ( Kubo Studios ) - DLC 2d747036-41a4-458d-9cae-86532abf521c
 Info Items Add-On ( Polymaps ) - Addon 45dddb5f-f59a-4256-a4c9-3f2c198e1cd9
 Health Bars Add-On ( Oreville Studios ) - Addon 903a4949-71d7-4b8a-bf63-7f38d06e710f
 Realight Reimagined ( Tomhmagic Creations ) - Addon 0803db10-440f-4c1d-8315-2fdcff184ff1
+Light Furniture ( Diveblocks ) - Addon 0ef65220-0650-4079-9e21-d4e10328c26b
 BACKROOMS INFINITY ( Maca Designs ) - DLC 6e92586f-5cb8-4463-bdbe-0d7ecb89c5da
 Supreme HD Textures ( Pathway Studios ) - TexturePack 94bb598a-e284-46fc-bba1-732416f52161
 Difficulty: Upside Down! ( MelonBP ) - DLC 4aa3d9f8-0349-4f5c-94d6-2cc0437dffaf
@@ -4005,6 +4015,9 @@ Beast PvP ( Sapphire Studios ) - TexturePack 77e6337c-db90-412f-9ddd-3f65384404f
 Beyond the End Dimension ( Cubed Creations ) - DLC 34780227-0524-4131-93ab-888e1721208d
 100 Days! ( Builders Horizon ) - DLC 9215b376-4c53-4115-8cfc-95bade65cd7f
 Mickey's Horror City ( Mine-North ) - DLC ebf62e18-64f9-4080-bf63-c3d4df3a7097
+FOOD EXPANSION ( Minty ) - Addon 3f3412b7-c72b-41f2-81b1-01c9bfd1efeb
 The Mimic ( Pathway Studios ) - DLC 77fe81c9-a56f-4ee3-8fea-800c37da8794
 Epic Wands ( BLOCKLAB Studios ) - DLC 14fd0bf6-16da-4cd5-a444-e4d298caab46
+Breeze Weapons ( Eescal Studios ) - DLC 8ae8a2f0-9a05-45fa-a82a-bdc077f35eb6
 Trial Chamber Legends ( Minecraft ) - DLC 201db89f-0542-4718-841d-34cca5a2d32d
+Unicorns ( Yeggs ) - DLC 16454c72-d704-4fac-accb-6f9b5a6e5578
