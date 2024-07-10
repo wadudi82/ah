@@ -3766,7 +3766,7 @@ Dragons! Biomes ( Cynosia ) - Addon 12678d9b-a82d-485a-8e15-b7c6ba9def4b
 Waypoints ( Diamond Studios ) - Addon abe1330b-46f9-4798-9724-4ee586850477
 Tetris Add-On ( Minecraft ) - Addon f3e05d62-6ff0-4de5-a2ff-ad5cecc7d01c
 Craftable Houses Add-On ( Pixell Studio ) - Addon 5031a461-4bbe-445a-947b-23ae28375e49
-Realism Craft 1.1 ( Spark Universe ) - Mashup 5eddc134-bdf3-4a84-b7c5-ee0504402be9
+RealismCraft 1.2 ( Spark Universe ) - Mashup 5eddc134-bdf3-4a84-b7c5-ee0504402be9
 Dragons Add-On ( Levelatics ) - Addon d790c8b7-6dcc-43c9-85fd-8ece6627ad42
 Sunnyside Academy ( Imagiverse ) - DLC 454ea3d6-0024-4666-b4a9-0f0b9d518a49
 Castle Architect ( Pathway Studios ) - DLC d67ba040-f170-4c3e-8e73-c566f68d0bfc
@@ -3869,6 +3869,7 @@ Wild West Texture Pack ( MelonBP ) - TexturePack 88c15b18-ec42-490e-ba78-cd1931f
 Emoverse Texture Pack ( Waypoint Studios ) - TexturePack 676b0abe-db04-406d-b5a4-b5c328233f42
 BEDROCK TOOLS ( ChewMingo ) - DLC d11b1415-d018-45b2-8fb7-1c598dda4a4c
 Highlighter Texture Pack ( Giggle Block Studios ) - TexturePack 9c64c4be-3b47-48fe-b88c-e90396b3d7cd
+Enchantments++ ( Cubed Creations ) - DLC 4155b007-34db-4782-8c03-bce794272682
 8x8 Tiny Textures ( Syclone Studios ) - TexturePack 8056cca4-c6f6-414e-8458-d9257ba00971
 Safari Texture Pack ( Eescal Studios ) - TexturePack b0a29e7b-742e-4192-a620-2565cdc66a70
 Lucky Block World ( Pixell Studio ) - DLC 3692a12f-358e-4b60-abe9-d49bbb406a3f
@@ -4006,6 +4007,7 @@ BOB'S FARMING ( Team Workbench ) - Addon 6de5dad7-91bb-4035-bef4-eb9eca88025e
 Anime Blades ( Kubo Studios ) - DLC 2d747036-41a4-458d-9cae-86532abf521c
 Info Items Add-On ( Polymaps ) - Addon 45dddb5f-f59a-4256-a4c9-3f2c198e1cd9
 Health Bars Add-On ( Oreville Studios ) - Addon 903a4949-71d7-4b8a-bf63-7f38d06e710f
+Sculk Dinosaurs ( Shapescape ) - DLC c296e715-da6e-49ae-9fb8-f6263bac16dd
 Realight Reimagined ( Tomhmagic Creations ) - Addon 0803db10-440f-4c1d-8315-2fdcff184ff1
 Light Furniture ( Diveblocks ) - Addon 0ef65220-0650-4079-9e21-d4e10328c26b
 BACKROOMS INFINITY ( Maca Designs ) - DLC 6e92586f-5cb8-4463-bdbe-0d7ecb89c5da
@@ -4015,9 +4017,12 @@ Beast PvP ( Sapphire Studios ) - TexturePack 77e6337c-db90-412f-9ddd-3f65384404f
 Beyond the End Dimension ( Cubed Creations ) - DLC 34780227-0524-4131-93ab-888e1721208d
 100 Days! ( Builders Horizon ) - DLC 9215b376-4c53-4115-8cfc-95bade65cd7f
 Mickey's Horror City ( Mine-North ) - DLC ebf62e18-64f9-4080-bf63-c3d4df3a7097
+DISASTERS ( Kreatik Studios ) - DLC 222d165f-3537-4b87-ba53-236a8b856436
 FOOD EXPANSION ( Minty ) - Addon 3f3412b7-c72b-41f2-81b1-01c9bfd1efeb
 The Mimic ( Pathway Studios ) - DLC 77fe81c9-a56f-4ee3-8fea-800c37da8794
 Epic Wands ( BLOCKLAB Studios ) - DLC 14fd0bf6-16da-4cd5-a444-e4d298caab46
+Craftee Items [DX] ( Logdotzip ) - DLC 3503e4c6-824b-4f6e-837e-b38df8597f41
 Breeze Weapons ( Eescal Studios ) - DLC 8ae8a2f0-9a05-45fa-a82a-bdc077f35eb6
+Mob Suits ( Cubed Creations ) - DLC 377bf274-d5d3-4f46-9499-fd8f49defbd8
 Trial Chamber Legends ( Minecraft ) - DLC 201db89f-0542-4718-841d-34cca5a2d32d
 Unicorns ( Yeggs ) - DLC 16454c72-d704-4fac-accb-6f9b5a6e5578
