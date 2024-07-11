@@ -4179,3 +4179,13 @@ bf5c5ded-635b-4c15-823f-1176ca3e3da5	7c409116-388f-42ff-8f87-f1ff8bf3282c	world_
 377bf274-d5d3-4f46-9499-fd8f49defbd8	df044726-ded9-4050-8c9e-34988ada982e	world_template	xB0andm0urieYOo4FsLKXzf426Qc1Jyh
 3503e4c6-824b-4f6e-837e-b38df8597f41	0d76e3dd-3efd-4562-8722-eb6eb2900a85	world_template	zC5q3Zv94ZBn5MS85AKMK7pIEVJ6Amq6
 c296e715-da6e-49ae-9fb8-f6263bac16dd	205ccf28-03d4-4a4e-99b9-cce835a1e2b6	world_template	lQ9NYkt5rFPdxMaZbzHqK5pYmIC3eEfU
+f158af15-b0ab-4565-bbea-0408dce54171	1b24ece5-f4ee-4656-85f9-14e37c23ea9b	world_template	qW78a4MCOxelUf0nxRaEeRaIMo6ubhZP
+673d626f-8fb5-4393-8f4f-71501b45ee89	edc47dfd-92a1-4e94-9ccf-d432cd8d5115	world_template	kH1jeyTr8AVZbfiiYNc4OQY8rVadpuev
+6ae808c5-bc6d-46f8-be0f-75879d5f6ebc	adf4fbd3-a22c-4766-9551-830e1916eb4e	world_template	fL3wwpixOx1J6Laf9bGq4tzsu8iBYa1t
+a41c9636-d400-4822-8b2b-ac537a8a0b16	2c56a863-bfdf-456c-a3c4-4b5b3d227063	world_template	aU9UZydmHufP2WPZsbQF4trzVueF0gZq
+346f4cea-ab3f-4e6d-b82c-caee539a08e3	3f1d92f8-ccdf-4b84-87c1-afdaceac3daf	world_template	aR8GwUf4b5U8A8dOvYsqJS6yzUWXi3V6
+93670550-c868-4d73-9c5f-ebe14ec4e87d	2e9cf20f-4e6f-4dc3-a4cf-4a9907115ff5	world_template	bW8r4FgPQfxfRikckMyX3a1Lsc1IBmnu
+dd4828b3-e7d9-442e-a760-61a816efdb6c	99e460e5-c6b7-4ce5-b68b-84911ae659da	world_template	zC8LfYt8CpmTi0Ew8goVA63x395fCm6p
+5d5e3194-b6db-443b-a7df-a497bbfae4a4	b59dbdcd-8544-4166-8349-16cf64260e70	world_template	rP0cXKLYjSPCQnb0b2qxoiX4FXHUpwTV
+6e75c7c6-9889-4430-8f3e-4cacd7dadc97	3ed5ef17-7ca8-478b-b666-90864da76442	world_template	pB9Zn1uks9z2loWiZliSY6KgnaRAKXiC
+26151ccd-45d3-4d52-96f7-c1d1bedd035a	ecedcfda-5dd5-4d2b-9607-ec2d110ee078	world_template	gU2d7EpOK0IAHiP8iAAoa9Ytl43LIhdi
