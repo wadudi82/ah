@@ -4024,6 +4024,7 @@ MEGA TNT Add-On ( Heropixel Games ) - Addon 2e8c343a-0a4b-479b-999f-240243b6a1fb
 Realight Reimagined ( Tomhmagic Creations ) - Addon 0803db10-440f-4c1d-8315-2fdcff184ff1
 Skibidi Toilet ( RareLoot ) - DLC 5d5e3194-b6db-443b-a7df-a497bbfae4a4
 Cat Vs Mouse ( Tomhmagic Creations ) - DLC 6e75c7c6-9889-4430-8f3e-4cacd7dadc97
+Armor++ ( Doctor Benx ) - Addon 1e99890c-9a76-498f-b509-1597f5a083b7
 Light Furniture ( Diveblocks ) - Addon 0ef65220-0650-4079-9e21-d4e10328c26b
 BACKROOMS INFINITY ( Maca Designs ) - DLC 6e92586f-5cb8-4463-bdbe-0d7ecb89c5da
 Supreme HD Textures ( Pathway Studios ) - TexturePack 94bb598a-e284-46fc-bba1-732416f52161
@@ -4043,4 +4044,37 @@ Mob Suits ( Cubed Creations ) - DLC 377bf274-d5d3-4f46-9499-fd8f49defbd8
 Trial Chamber Legends ( Minecraft ) - DLC 201db89f-0542-4718-841d-34cca5a2d32d
 Unicorns ( Yeggs ) - DLC 16454c72-d704-4fac-accb-6f9b5a6e5578
 Battle Boats ( Lifeboat ) - DLC 26151ccd-45d3-4d52-96f7-c1d1bedd035a
-Armor++ ( Doctor Benx ) - Addon 1e99890c-9a76-498f-b509-1597f5a083b7
+Dr. Splice's Lab Escape ( 57Digital ) - DLC a759da1c-236f-440b-8a77-dbdf362b3ecb
+SKYBLOCK SURVIVAL ( Pickaxe Studios ) - DLC 4f528867-f132-430f-88f6-fc7aeae57d72
+REALISM ONE BLOCK ( ChewMingo ) - DLC 6c51ff92-b89e-489a-963a-8cef155d7791
+One Block ( 4KS Studios ) - DLC e0dd68c2-a6d8-4563-994a-5e0bd9a86e6a
+Lucky Sky Block ( Fall Studios ) - DLC 1495dbb9-5305-4507-aee6-f2e2073ad263
+One Block!! ( 4KS Studios ) - DLC 1b922c13-0784-4aab-be9b-edd866046024
+World in a Cube ( Odyssey Builds ) - DLC 10a68231-21a8-42fc-a78c-b8b5bd0aca69
+SKY BLOCK 1 BLOCK! ( Pickaxe Studios ) - DLC f82cee86-94f8-434a-8d67-49dbc8fedc8c
+One Block Challenge ( Netherpixel ) - DLC f48aff17-f39c-4a92-aad7-f47c0501687f
+MORPH into MOBS ( ChewMingo ) - DLC 35355146-8bf8-4db7-b90f-919f5e8d24c9
+LUCKY BLOCKS WORLD! ( Chunklabs ) - DLC 2ac7c17b-fc81-4dbb-83e2-0389d5a86567
+CUSTOM DIAMONDS! ( Chunklabs ) - DLC ef3b0073-5834-4fe3-8863-b5b4b1a88d2f
+Mystic Wolves ( StacyPlays ) - DLC d77942ee-0a74-47fb-abc7-91653248c78f
+One Block+ ( 4KS Studios ) - DLC b345c46b-c766-4253-9ed6-94d6ff07ad7e
+Modern X-ray ( Mine-North ) - DLC eb9b6fba-5363-4ee7-9441-124a986c8d97
+Bedwars ( ChewMingo ) - DLC 5ff13f23-617a-4d70-9abc-14fc6460d51a
+Capybara Resort ( Yeggs ) - DLC 1b953051-a696-4028-b087-3265125a7eef
+Morph into Mobs! ( Team VoidFeather ) - DLC a30b1545-975f-4592-a78b-7ddcbfe68d57
+Custom Diamonds ( Dodo Studios ) - DLC 68570866-e296-44da-8afc-a117424ce051
+Secret Doors ( Dodo Studios ) - DLC e1cd4927-3ed8-458b-851d-e82e02c73340
+One Block [?] ( MelonBP ) - DLC 0fce6fc1-52b8-4059-8fea-9b03c3e3e410
+MOB PETS ( Wonder ) - DLC f4d6cd77-84e7-4521-b2ca-c7f516c1e27b
+Wings+ ( Floruit ) - DLC 9b6ee545-cea6-438e-87e2-1f3f47240b8f
+DRAGONS ( Mythicus ) - DLC 96747aed-76eb-45c6-b5b0-3458d6b7b9f0
+Megalodon ( Razzleberries ) - DLC 68ea6f79-707d-490b-be61-22a6ba383de9
+Giant Chests ( Chillcraft ) - DLC e6594e9a-24be-42a5-a690-86d07d4d111c
+70+ Portals ( The Craft Stars ) - DLC b0fc3cf9-e9a0-4bde-ad95-ae9720582959
+Mutant Mobs ( Cubed Creations ) - DLC 16b34786-2d2d-4fa0-ace0-c510c12f4102
+Infinity Weapons ( Kubo Studios ) - DLC 6188c321-185e-4fc6-bdeb-2f4e0dbd962a
+Ultimate Security Technologies ( Pixell Studio ) - DLC 8ca07807-8606-4c60-8053-6998b265ffe2
+Be A Vampire ( Eescal Studios ) - DLC 93649f42-a769-4ed9-acf9-946085e5dc73
+Neon Dragons ( CubeCraft Games ) - DLC 6c514691-d48a-4cc2-a8c5-f309d780db0f
+Mob Armor [DX] ( Logdotzip ) - DLC a1a3b55e-f2ad-4a96-912e-70e25eeba681
+BACKPACK+ ( Pickaxe Studios ) - DLC 2c07ecc5-1a30-47f4-b540-6525a2531802
