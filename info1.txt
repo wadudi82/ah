@@ -2031,7 +2031,7 @@ Stoneblock 3 ( FTB ) - DLC 8350dd84-68e6-4e3a-a6d9-2ad9334da651
 Planet Earth III ( Minecraft ) - DLC 8c4a3edc-6cb4-43fa-a011-c7004e9bde61
 Green Energy City ( Blockworks ) - DLC 839705a3-1a7a-4a4e-bfbf-bbba4df38303
 Statue Holding Up Base ( Tristan Productions ) - DLC 86294b84-8d9c-458e-9b5f-79bd9bb858ad
-Naturalist Add-On ( Starfish Studios ) - Addon 7cb1d924-4a39-452d-88bc-daa5f8843f54
+Naturalist Add-On 2.0 ( Starfish Studios ) - Addon 7cb1d924-4a39-452d-88bc-daa5f8843f54
 SURVIVAL BUT NEW CIVILIZATIONS ( Mythicus ) - DLC 7c5e4fcf-8a53-47e0-833e-845b1b749709
 Ultimate Mob Arena ( Cubed Creations ) - DLC 8843d1ec-61a6-4143-b899-67dae2f70f6e
 Wings ( Levelatics ) - DLC 8a374cba-45d7-45a1-aca4-94e58ff9b90d
@@ -3766,7 +3766,7 @@ Dragons! Biomes ( Cynosia ) - Addon 12678d9b-a82d-485a-8e15-b7c6ba9def4b
 Waypoints ( Diamond Studios ) - Addon abe1330b-46f9-4798-9724-4ee586850477
 Tetris Add-On ( Minecraft ) - Addon f3e05d62-6ff0-4de5-a2ff-ad5cecc7d01c
 Craftable Houses Add-On ( Pixell Studio ) - Addon 5031a461-4bbe-445a-947b-23ae28375e49
-RealismCraft 1.2 ( Spark Universe ) - Mashup 5eddc134-bdf3-4a84-b7c5-ee0504402be9
+RealismCraft 1.3 ( Spark Universe ) - Mashup 5eddc134-bdf3-4a84-b7c5-ee0504402be9
 Dragons Add-On ( Levelatics ) - Addon d790c8b7-6dcc-43c9-85fd-8ece6627ad42
 Sunnyside Academy ( Imagiverse ) - DLC 454ea3d6-0024-4666-b4a9-0f0b9d518a49
 Castle Architect ( Pathway Studios ) - DLC d67ba040-f170-4c3e-8e73-c566f68d0bfc
@@ -4225,3 +4225,8 @@ Modern Mega Mansion ( CrackedCubes ) - DLC 91918bd3-bd4b-428a-bae2-f6ca2836c714
 OneBlock ( 2-Tail Productions ) - DLC 153613cc-1a8c-4ff2-897f-50ab9b41b2f7
 Atlantis ( Waypoint Studios ) - DLC 46a06d46-8ea1-4442-b9e4-b0a9046058c7
 Giant Bonsai Treehouse ( CrackedCubes ) - DLC e70d1b4b-51bc-470d-b874-0c2e21d8cad2
+Wild West Bedwars ( RareLoot ) - DLC 85ec8058-6c98-4e13-94a8-b057e373091f
+Magic Expansion ( Mine-North ) - DLC ccc16b43-60bd-45db-a244-610dcb9dda0e
+Mutant Zombie Dungeons ( Everbloom Games ) - DLC f53ebd90-d0ae-412c-b5d9-121f3df40913
+TRAPS ( Pickaxe Studios ) - DLC 259c0aef-1bda-4f85-8412-d126f202ec27
+Crazy House ( SandBlock Studios ) - DLC fe1efa9b-15de-47e5-a7d1-7c5f860d9d99
