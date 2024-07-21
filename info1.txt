@@ -4337,8 +4337,28 @@ Dyeable Mobs ( ASCENT ) - DLC f591bd4b-9724-4f9b-b420-232788a989d1
 Crazy House ( SandBlock Studios ) - DLC fe1efa9b-15de-47e5-a7d1-7c5f860d9d99
 Craftable Pets ( Foxel Games ) - DLC 095a24cb-4ff2-4c14-9244-262451d57703
 Fantasy Tools ( Giggle Block Studios ) - DLC 5d9afab7-55f8-4b77-b0fa-8423c417eed5
+Luckyblock ( ChewMingo ) - DLC 2038a569-6e5f-46af-830e-993810541d09
+Half Heart ( ChewMingo ) - DLC b1586953-dc4a-461f-8e16-381ce65a1691
+OneBlock LuckyBlock ( Piki Studios ) - DLC 805aa285-839d-4bc9-9b27-f52e8cbb8a8a
+Trains, Planes & Automobiles 3 ( Lifeboat ) - DLC c1a14cfd-55cc-43f4-8dca-c2c27e9da995
 Red Light - Green Light ( The Craft Stars ) - DLC 2cbbba36-3e45-4183-b260-a88bf6d62b45
 SkyBlock ( The Craft Stars ) - DLC fb096c65-2a28-4dcb-b574-67abca4790bf
+Warden Parkour ( CubeCraft Games ) - DLC 4673cda8-0193-4854-8188-5e4f468b92cd
+Sky Island Expansion ( 5 Frame Studios ) - DLC 0e714200-0fbf-4fba-8f29-d77a04228b06
+HACKS++ ( ChewMingo ) - DLC bd9effc6-1e4a-4c85-bc89-89d91e8cd1f3
+TNT WEAPONS ( Kreatik Studios ) - DLC aea7ecde-7240-4580-9ca9-26cb4ad98636
+Furniture Deluxe: Tropical ( Maca Designs ) - DLC d695c7c5-4e18-4443-82a5-35f074ab9e0e
+TNT Enhanced ( Wonder ) - DLC 50c6d192-a3aa-4753-83e7-f0aba4c9f1d0
+Battle Mini Game ( Dig Down Studios ) - DLC 4885a7fd-f457-4612-9da4-c014e0c8522f
+Craftable Spawner ( Razzleberries ) - DLC eb9d3940-1662-4359-af2c-d8f91b2f08d2
+Hide and Seek ( Waypoint Studios ) - DLC da8fdb37-0f45-42ac-bceb-aa732c8b1af8
+Barbara Island ( Project Moonboot ) - DLC d0d39ec2-5e7e-4df7-99ea-3cad4df194ca
+GAUNTLET TOOLS! ( ChewMingo ) - DLC 4fb61ed5-7f08-4b2c-8df3-e898fccf88a0
+Diamond Castle ( ChewMingo ) - DLC 75ab369a-ed42-45cc-973c-d30268c398a0
+GOLEMS++ ( ChewMingo ) - DLC 512c76dd-d619-4e23-8ec6-e7a68d008e5d
+Modern Japan ( Impulse ) - DLC d8b2ed54-ecf9-4889-9629-6a2e54d6969a
+ADVANCED ARMOR ( Kreatik Studios ) - DLC eb4d0989-757c-4518-825a-829d174a0520
+Skyblock Luckyblock ( Piki Studios ) - DLC ca566dd9-f4ab-472c-b635-ebfb50f12daa
 God Weapons ( ChewMingo ) - DLC 70281c3d-0a7f-4169-854e-a7b7d8586bff
 PRISON ( ChewMingo ) - DLC ad5a419d-f888-42ea-a882-8700f3303f0e
 Mythical ( In Mine ) - DLC d0a56804-3705-4961-805b-51f9bc27f746
@@ -4347,6 +4367,7 @@ Unicorn Castle ( Street Studios ) - DLC 931c03f8-be82-446a-9c9e-5d8935e3e131
 Craftable Expansion ( Giggle Block Studios ) - DLC 7592821f-a24e-425f-96c8-3714a224b5f8
 Cars+ ( RareLoot ) - DLC 6ba4f7e0-90ef-408c-a1ea-cecc46515056
 More Ores: Sapphire + Ruby ( Wonder ) - DLC 8ac6b8d0-789d-4b64-855d-aac0d9c86c6a
+Overpowered Tools ( Wonder ) - DLC 0e118685-0da6-463b-8cc3-2c0c00490241
 Security+ ( Tsunami Studios ) - DLC 4bab89b6-9514-4ab1-9af0-dd51e1bf5b74
 Parkour Speedrun ( Gearblocks ) - DLC 0b87d055-bf9f-4d1d-b7d3-3cf67e055556
 Planes Expansion ( Honeyfrost ) - DLC 570ee8d3-e112-4a21-817a-b62bb5e0d690
@@ -4363,6 +4384,7 @@ Warden Expansion ( The Craft Stars ) - DLC 1b77495e-43a0-43bd-bdf9-41e93e6ce337
 MORPH into MOBS! ( Chunklabs ) - DLC 7f2868ef-c725-4a09-b86c-4560964c87b9
 Lucky Block Race ( Lua Studios ) - DLC 68d693a0-6e74-4ee4-89be-0b93de94598a
 SURVIVAL GAMES: Medieval ( ChewMingo ) - DLC 1de0e18a-140f-43b5-ae7d-c75c36d1fbfd
+Barter Block ( FTB ) - DLC b2ff0536-3bfe-4367-a4e4-856d25b05d24
 CRAFTABLE WEAPONS ( Kreatik Studios ) - DLC 20c8d480-aed9-48ac-831c-14f916419021
 Expanded Storage ( FTB ) - DLC d8786098-c523-420b-868c-a430d192b640
 Custom Hearts ( RareLoot ) - DLC 5f43cace-56cb-4b85-b27b-6ee896b74ab4
@@ -4383,6 +4405,7 @@ Ant-Sized Survival ( Pixell Studio ) - DLC ddeb690c-7605-4686-bfdb-dbe949af75b5
 Castle Defender ( Pixelbiester ) - DLC dcf80236-3786-4a5b-91a1-f43c41ebd4ec
 Rainbow Pet Friends ( Builders Horizon ) - DLC c940571e-5045-46f8-be95-472115b0c7e5
 Bigger Tools ( The Craft Stars ) - DLC 055092ad-85d5-4a72-876c-860009215a14
+MIX the MOBS! ( Pixelbiester ) - DLC 5eda16db-1ebd-4b55-8c83-a5e4c4bec7c2
 Lucky Block Race ( 5 Frame Studios ) - DLC 43485140-3f15-4528-b32d-3d6733bb1d45
 Random Loot ( Chillcraft ) - DLC f6ee98ed-1d0e-4cdf-82c1-b4343d91ae74
 Expanding Skyblock ( Piki Studios ) - DLC 2b0ff7cb-20db-4f42-b1b6-c5ed90be5e10
@@ -4453,7 +4476,9 @@ One Block ( RareLoot ) - DLC 28dc2b87-861d-403e-87d5-8b9292be208d
 More TNT ( BLOCKLAB Studios ) - DLC 24366086-7ffe-43d6-b7f0-3d0283e1983d
 Raft Survival ( Wonder ) - DLC 9460096f-cc53-4cc3-9982-762f6f94d42e
 Size ( Wonder ) - DLC 9a603a68-ba60-4f8a-a036-74d8e968283a
+Ninja House ( Levelatics ) - DLC 9d7e11cd-dc4d-4d9d-a7bd-6022a8ef67cc
 One Block Captive ( MobBlocks ) - DLC 6f392cb8-816d-446f-9e4f-8c093ecf7e92
+Millionaire Stacked Layers ( 5 Frame Studios ) - DLC 67de659b-3404-4e89-820c-d110dd2ab0ee
 Lucky Block Hacker ( Chillcraft ) - DLC d301ce76-b7bb-4fc9-9a40-4f209dc87862
 Becoming Ice Dragon ( CubeCraft Games ) - DLC 6c7240de-ccbc-4e23-b8b8-5fc0dac4980a
 DEATHSWAP ( Dig Down Studios ) - DLC 2e382205-f82d-4e6c-b3b1-c8974899abf7
@@ -4496,17 +4521,50 @@ High School Roleplay ( Diamond Studios ) - DLC 047c9be1-ec62-4304-bb00-0979792aa
 Captive Skyblock ( Spark Universe ) - DLC 88b241e5-0185-4824-b280-eac62993588d
 Skyblock HD Mashup ( Honeyfrost ) - Mashup 87936efd-3667-41be-a41e-394f6d3f79ec
 Lucky Blocks! ( Eescal Studios ) - DLC f722399c-5ef9-4b5e-9991-c3268568bc04
+Penguin Adventure ( Yeggs ) - DLC a0a59df8-da6a-4b69-b393-fa0ca9c4dfb1
+Custom Hearts ( Cubed Creations ) - DLC 1ef067ff-bf3b-472a-b0e9-7b17ea8d1945
+Baby Dragons ( Razzleberries ) - DLC 9f288378-8b70-4e91-a7ba-42850bbcb166
+Only Up Parkour ( Eescal Studios ) - DLC 0d588c13-19ab-4fb0-9b7d-e7cc4abd0db8
+TNT City ( Vatonage ) - DLC 577d8849-c3c6-4052-a2be-2f4d92d4efda
 Hacker Skyblock ( GoE-Craft ) - DLC fde155ec-2d3e-40ab-9d6c-8364ca8a5bd4
+Bedwars 1V1 ( RareLoot ) - DLC 9647619f-66a5-4b3b-9cbd-29741cc0560f
+Freeze Tag ( JFCrafters ) - DLC 696b7e10-051d-4c23-8d3d-9aac363f90c5
 Death Swap 2 ( Senior Studios ) - DLC c7a3d4de-ae62-45e9-8156-316291c344d8
+Dragons In Survival ( Norvale ) - DLC c1ef5177-9173-46c0-8754-783faf90d455
+Lucky Blocks Rush ( BLOCKLAB Studios ) - DLC aae3f71e-e65a-4960-a525-6319cc19dc72
+Lucky Skyblock ( 2-Tail Productions ) - DLC 393dd4c5-473c-49f5-af67-78af89f29d71
+Police Underground Bunker ( Wonder ) - DLC a4151557-9acd-4172-a90b-d4b1c30428ba
+TRANSFORM INTO GIANTS ( Kreatik Studios ) - DLC 9e7de3f8-b71c-460f-a2a8-8fd28f81ac4d
 Craftable Spawn Eggs ( The Craft Stars ) - DLC b43c837e-a681-4e9d-8e69-01f471a94acf
 Halloween Skyblock ( GoE-Craft ) - DLC e5d379a0-ed29-4c91-8d38-a179c972836d
+Red Light Green Light ( MobBlocks ) - DLC 71e2b42a-f63a-43eb-b75d-943f3dd42c20
+Bigger Crafting 2 ( Cubed Creations ) - DLC d457f6ad-40e2-4689-a653-969f028d8955
+Secret Cactus Base ( Cubed Creations ) - DLC 478661e9-13a4-4ca5-9458-5f7d8cd6f277
+Iceberg Base ( Cynosia ) - DLC 516b13d4-0255-4ee2-b83b-5213d57c9ba9
+One Block Monsters ( Cynosia ) - DLC b177222e-46e7-4bab-b5a8-048657f9bb84
+Secret Village Bunker ( Snail Studios ) - DLC 61984320-d7ae-4e0c-abe4-a920bfe74796
+Oneblock 100 Days ( Rainbow Theory ) - DLC d5c6a95a-62ec-4dca-9607-12429413e95e
+5 Nights at Dolls: Nightmares ( RareLoot ) - DLC 37ae77c4-df3c-48fa-9265-e2ae489ec847
+Hacker Weapons ( Dalibu Studios ) - DLC 55988a47-8be1-41d5-9021-e62f94227e6b
+RGB TOOLS ( GoE-Craft ) - DLC dade52bb-738e-4a53-9a67-459951eec5e0
 Dragon Siege Bunker! ( The Craft Stars ) - DLC 5fadd716-9c40-4ad3-a93e-c9f5ff603b79
 Oneblock Realism ( Honeyfrost ) - Mashup d45633f9-5ab1-4adf-9f5d-cecf8158ae1e
+Respawn Puzzles ( Lifeboat ) - DLC 6edc7ade-f1d7-4f90-b6db-6db4ed81cde2
+MORPH INTO DINOSAURS ( Kreatik Studios ) - DLC a2e87fe6-c522-4a46-a318-5307e5f0f798
+CARNIVAL ( Red Eagle Studios ) - DLC 738a51fd-8643-4553-b10c-7ec7e7be8535
 Transformed End Portal ( The Craft Stars ) - DLC ad25d504-5ae7-4b87-bab0-c3bcc8a3ffb6
 Warden Base ( The Craft Stars ) - DLC 932bed60-1f77-4df8-9b67-12b319949c2a
 Japanese Mountain Village ( 5 Frame Studios ) - DLC 1b29ba47-9dcc-4433-9b9a-f660858cf725
+SPLEEF! ( Pickaxe Studios ) - DLC 3220c523-52e5-4f27-81be-d2b4d6dbd653
+Dino Labs ( Street Studios ) - DLC c450a655-d7cb-4a8f-877f-55ce8a24e770
+HIDE AND SEEK IN THE CITY ( Team VoidFeather ) - DLC 147475ee-dd7f-4636-999f-bfa49d100f47
 OneBlock Elements ( Eescal Studios ) - DLC 931697d3-b7a9-43cb-b6bc-1972f23cf548
+SIMPLE FURNITURE ( Maca Designs ) - DLC 63d7c547-26c1-4986-994e-a6a2a9283c3e
+Layer Survival ( 2-Tail Productions ) - DLC 1840a7f4-8099-45e1-b584-1ae87ad1fd81
+Furniture RGB ( Eescal Studios ) - DLC a19c85c6-655b-418b-92cc-abf849bd0376
 Hidden Doors Add-On ( Meraki ) - Addon 1a78543a-57cb-471a-b863-2cd00c280c05
 Golem Pets Add-On ( DeepwellBridge ) - Addon 93ce7e42-79ad-4052-88e9-cf77b9b6e3b8
 EVOLVING MOBS Add-On ( Maca Designs ) - Addon 64df09d1-a339-4939-99bd-f7c931f204b7
 End Parkour ( Waypoint Studios ) - DLC 584af542-b30f-4690-a914-fe78cd13bf9a
+Village Volcano ( Pickaxe Studios ) - DLC 60369c27-f3b9-436f-8fbc-49c6c88e2789
+100 Hidden Cats ( Waypoint Studios ) - DLC d8cef286-8d95-4f62-a932-b0ff37290018
