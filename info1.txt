@@ -4754,3 +4754,6 @@ Infinity Skyblock XL ( ASCENT ) - DLC 9076a2c1-3838-44dd-be0f-3fb38650eddc
 Infinity Arena ( Vatonage ) - DLC b214341f-dd61-4da7-ba02-bf73f57c7abb
 One Block Hacker ( Dark Lab Creations ) - DLC 9c09413f-3983-458f-87fb-115b291c57df
 The Cracked Forest ( Cynosia ) - DLC 95ac795b-ea83-496c-a824-00be26b873d2
+REALISM v1 \\ Fields + Forests ( Panascais ) - DLC e8be4fdc-3b1b-47df-bca4-9ae5d2702b3d
+Enderman Morph ( Cubed Creations ) - DLC 6634e81f-80e2-46ab-9402-66ec9f6c2b3b
+Backpacks ( Scai Quest ) - Addon 96d44e78-c0c9-4214-afe0-e5b4a77767cb
