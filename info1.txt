@@ -4630,6 +4630,7 @@ EVOLVING MOBS Add-On ( Maca Designs ) - Addon 64df09d1-a339-4939-99bd-f7c931f204
 End Parkour ( Waypoint Studios ) - DLC 584af542-b30f-4690-a914-fe78cd13bf9a
 Village Volcano ( Pickaxe Studios ) - DLC 60369c27-f3b9-436f-8fbc-49c6c88e2789
 100 Hidden Cats ( Waypoint Studios ) - DLC d8cef286-8d95-4f62-a932-b0ff37290018
+SnowQuake ( Wandering Wizards ) - DLC 57208baf-27d2-4cfb-abdf-df625b4dfe4e
 Crown Castle ( Pixelbiester ) - DLC 884f1f5b-fa0f-46a2-9ce6-4801ff96e0eb
 LUCKY BLOCK SKYBLOCK  ( Chunklabs ) - DLC c3af43a3-cc79-46ee-936e-514aec179e01
 Oakland Harbor ( Impulse ) - DLC 1c19d73b-42cc-41e7-97f0-cd7a31697d2a
@@ -4762,6 +4763,7 @@ Twisted Parkour2 ( Diluvian ) - DLC 6185af6b-d5a7-4da5-bcd7-336ac619bcdd
 Ultimate Hacker Client ( Razzleberries ) - DLC f85b4360-1019-40df-b33a-eb399e573462
 Skywars Ecodome! ( Piki Studios ) - DLC 796931df-9366-4b66-9bf0-d01e57d11b61
 Lucky Block Hardcore ( In Mine ) - DLC 0119c816-9761-4a4c-8f74-8407c7be4c30
+SCP-999 ( House of How ) - DLC 80d13925-9c5d-4330-b21c-4d3a55d1ce41
 Sweet Cute House ( Overtales Studio ) - DLC 08da70ca-4508-45f9-93a6-85be12be3870
 TITANS ( RareLoot ) - DLC 1ea98416-db06-4112-8a8b-8d5b05b706a7
 Lives ( Dig Down Studios ) - DLC f44b374f-2c59-4588-8c37-4cd9b5cbb225
@@ -4799,11 +4801,58 @@ Infinity Skyblock XL ( ASCENT ) - DLC 9076a2c1-3838-44dd-be0f-3fb38650eddc
 Infinity Arena ( Vatonage ) - DLC b214341f-dd61-4da7-ba02-bf73f57c7abb
 One Block Hacker ( Dark Lab Creations ) - DLC 9c09413f-3983-458f-87fb-115b291c57df
 The Cracked Forest ( Cynosia ) - DLC 95ac795b-ea83-496c-a824-00be26b873d2
+YOU vs 100! ( GoE-Craft ) - DLC 67aced3a-7a94-488e-8d3d-4bbaa07a573c
+Area 51 ( RareLoot ) - DLC dc758942-6d3f-4313-9b43-5932a82f7601
+Galactic Highschool ( Plank ) - DLC c588a02c-f544-42f0-8ec7-0bf9747e7be9
+Cars Cars Cars! ( Levelatics ) - DLC 9344854b-27d8-4b22-b1a9-39675823a8eb
+Ores X-Ray Scanner ( MobBlocks ) - DLC 0a09b993-85db-4e51-9c62-06728058be13
+One Block ( Box Build ) - DLC d35cf308-b77f-4d55-a2be-74069b1a3f5f
+Super Cars ( Pixelusion ) - DLC e43d5554-b715-48da-9444-d6739e16ccc3
+Dropper: Four Seasons ( Meraki ) - DLC a850ce8f-cfc1-4aed-baea-538e8c7f851d
+FUSION HEARTS ( Maca Designs ) - DLC 82c01b80-b76a-4c6e-9ca3-9d2446b55ce7
+The White House ( Mine-North ) - DLC 0bf89673-c481-4305-9cde-bd47b8c0111a
+Winter Arena ( Bunny Studios ) - DLC 8636e381-9782-4014-a2b6-9914cf4f6476
+Space Station Skyblock ( 5 Frame Studios ) - DLC bfe02baf-09c2-4c70-a6e4-ec1810ef2273
+TNT 2.0 ( Tsunami Studios ) - DLC e07ce8c3-689c-44df-8a78-c276595eb321
+World's Largest End City ( Lifeboat ) - DLC cbc72c45-d957-436d-97be-121ea09f56bf
+Biome Creepers [DX] ( Logdotzip ) - DLC fd01430a-4b20-4828-9b5b-cdd6780cce1d
+SECRET TREE BASE ( Pickaxe Studios ) - DLC d458c9a4-2520-489a-859a-b51db7a3903d
+Craftable Dragons Evolved ( Lifeboat ) - DLC 06db4ac4-e251-43b9-8824-0f8bacfbcdb1
+Mermaid Village ( Lifeboat ) - DLC 6a406aa9-18f6-46e9-8934-990d69b4ce1c
+Farzy Hardcore Survival ( RareLoot ) - DLC 9e358f89-a8a7-4048-b8cf-0b5d8700d15d
+SECRET STONE BASE ( Pickaxe Studios ) - DLC 479728a3-61fd-4f28-9e06-6773ba5637bd
+WITHER++ ( BLOCKLAB Studios ) - DLC e4eab85d-6558-45f1-9ca3-a8660b9a9168
+DOZLE Corp. Caravan ( Impress ) - DLC 422b3969-463f-42f0-bce9-8ec79c6c929f
+Super Secret Pyramid ( Shapescape ) - DLC b8888c63-2c8f-4503-939e-4eae117b6542
+PrestonPlayz Dropper 2 ( FireGames ) - DLC 26cc4776-a432-4636-b6b3-2b8a461a4601
+Parkour ( 5 Frame Studios ) - DLC d0679e68-2f2e-42c5-96fd-811dcfe71ba4
+Obby Bike ( CubeCraft Games ) - DLC 79484f21-f56f-4e29-8a7f-aa699b5fc273
+Secret Security Base ( 5 Frame Studios ) - DLC b89cd8c5-d026-444f-9a18-dc0f4cda746e
+Mountain Outpost ( CrackedCubes ) - DLC fae27709-b654-479c-b05b-95961efa0337
+Zombie Company ( DeliSoft Studios ) - DLC 78f11899-0497-4cb0-b866-46803b6ed2ea
+Custom Elytra ( Withercore ) - DLC dc6760d1-a213-4984-84fc-af1dbf0a6207
+Secret Waterfall Base ( Honeyfrost ) - DLC ec022e3f-eed8-4dc6-9f9e-b4d5f27fb95d
+Adopt Pets ( BLOCKLAB Studios ) - DLC b83633ea-c594-492b-94be-9313547c37f1
+SB737 Hardcore Survival World ( Razzleberries ) - DLC 8d404eea-3f23-4dd2-8d1a-aa6715a8ade5
+Hacker Crafting Recipes ( Mine-North ) - DLC a9929da0-3d14-456b-b0e3-1512ad2ef7f7
+AI PETS ( Blockworks ) - DLC e5ae8251-bdea-47f4-88fc-66e20f1dd4c3
+LB Street Skate ( Lifeboat ) - DLC b163569f-9bcf-41d1-9d5a-b1af600d5b2e
+GROWABLE ORE CROPS ( Team VoidFeather ) - DLC b1109802-208b-4d60-a11a-15ed2d2166ba
+MEGA MANSION 2 ( RareLoot ) - DLC d2c75e75-cd49-445d-84ec-e124a5f75b43
+Elemental Weapons ( Dig Down Studios ) - DLC 1729ecab-9cd9-4173-815a-16b5191c38d3
+Craftable Mob Morph ( Cubed Creations ) - DLC c76fed89-76ac-4e4b-a3bc-9e5fcfeabdb4
+Craftable Spawn Eggs ( Yeggs ) - DLC 3bf73799-ecd0-401d-bf5b-b08228e91a3b
 REALISM v1 \\ Fields + Forests ( Panascais ) - DLC e8be4fdc-3b1b-47df-bca4-9ae5d2702b3d
+Mountain Mansion ( Dodo Studios ) - DLC 6be374d4-0ca5-4825-bcaa-802a3a951a3b
+Spiral Parkour ( Waypoint Studios ) - DLC d77f5d7e-7241-4cf7-acd2-d9b8b9140a76
+Maze Runner ( RareLoot ) - DLC 90096dec-c15c-4e54-bc0e-34785052c50b
 Security Add-On ( 5 Frame Studios ) - Addon e5886c47-1ea3-43d1-ba2a-9b79f210a8a0
 Dinosaur Add-On ( PixelHeads ) - Addon 4ff0f650-1438-44c6-8ef8-c093e33ce847
 Enderman Morph ( Cubed Creations ) - DLC 6634e81f-80e2-46ab-9402-66ec9f6c2b3b
+BEE TOOLS ( ChewMingo ) - DLC a19c19fb-8b89-48d5-b95d-edfd889a9845
 Backpacks ( Scai Quest ) - Addon 96d44e78-c0c9-4214-afe0-e5b4a77767cb
 Ultra Hardcore Mode ( Mine-North ) - DLC 6937d8fb-4b9e-4ce9-9e9d-0876047ce344
+Food Stall Tycoon ( DeliSoft Studios ) - DLC 60c6348a-4712-4cd9-8f0f-7ed9af0043ca
+Difficulty Hacker ( CubeCraft Games ) - DLC 1b304412-d5de-40a1-867f-e44321383cfc
 WARDEN TOOLS ( Pickaxe Studios ) - DLC 96c450d4-5318-47b2-bece-98483990397c
 Ultimate Raft Survival ( Cubed Creations ) - DLC c4b38be8-df8b-4f78-9816-bf91c7b616aa
