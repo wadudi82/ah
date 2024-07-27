@@ -4774,6 +4774,7 @@ MORPH INTO MOBS ( Kreatik Studios ) - DLC 2ec7b963-fe28-4a27-af4c-608c063c7a6f
 ONE XP BLOCK! ( Chunklabs ) - DLC 54a236ca-be62-42cd-92e4-971216d58899
 Hacker Weapons ( Giggle Block Studios ) - DLC 25d13411-a035-4c6f-a04b-7a68c20a7f64
 Hacker Armor ( Duh ) - DLC 4a1cd4af-2f06-4c55-9f49-e4830ca1fe7b
+Mini Battle Warriors ( DeliSoft Studios ) - DLC 253a3b1c-7287-4eb3-a684-db69737e8b7c
 Mob Morph ( Waypoint Studios ) - DLC be530f5e-51aa-4729-95fd-29e2070b6c9c
 Clayed Under ( FTB ) - DLC db8d9caf-a344-4f66-8a45-d877a19e00e6
 Bedrock Tools ( Giggle Block Studios ) - DLC 7426e7cd-3c35-432e-b272-7380ab422677
@@ -4781,26 +4782,57 @@ Escape Room: Mountain Cabin ( Pathway Studios ) - DLC d4602d2e-bd8b-4b8c-b490-89
 JurassiCraft ( Spectral Studios ) - DLC f60e760b-969b-4527-bb08-fa0ddac1507d
 Villager Expansion ( Giggle Block Studios ) - DLC ea1a12df-a5e8-412a-a13e-d052c0d302b5
 Village 2.0 ( The Craft Stars ) - DLC 7a398724-4c26-4dc6-a682-c877076ca2a1
+Flatworld Survival ( Giggle Block Studios ) - DLC 666e9842-46a4-41de-bdf2-1975e1c41da1
 Disaster Survival ( Yeggs ) - DLC f2c6753a-c6fd-4fb5-bcaa-a147b932201a
 Ancient Town ( CrackedCubes ) - DLC 4b07ceb5-889a-4a49-90c9-27b8a3285394
 Overpowered Swords ( Kubo Studios ) - DLC 8e822a7a-328c-4159-8eca-e73e6683cb92
+Blaster Weapons ( Razzleberries ) - DLC 89c47269-0b59-4465-bd21-9fe55b9885af
 Play As Warden ( Giggle Block Studios ) - DLC 9ecb35ea-eca2-42b6-a502-2526a4700fa9
 Pets Expansion ( Giggle Block Studios ) - DLC 51cd6212-75f5-442c-802d-35d609ab17fb
 One Block Rainbow ( Dodo Studios ) - DLC bd5fc77e-7617-4685-a21d-c928b66f3454
 Parkour ( Diluvian ) - DLC 2a855370-32c9-4cb7-bded-1c607fd5da01
+Warden Totem ( Dark Lab Creations ) - DLC 0a8aecc7-2cb6-4469-9dd2-2f1816889715
 Epic Weapons ( Everbloom Games ) - DLC 13f35ab0-3436-406d-bf7f-39355642171c
 PvP Training Simulator ( Giggle Block Studios ) - DLC 072c6b67-099d-4486-9165-cee4d8e444cf
 Lucky Blocks ( Giggle Block Studios ) - DLC b9706773-b368-49df-b42c-93d356cc8bb0
+LUCKY BLOCK WALLS! ( Chunklabs ) - DLC e387a22a-1870-452b-873c-c31d1aef7013
 One Block Dragons ( Razzleberries ) - DLC 569109e2-9242-4a08-a50e-dd7eb41f0d12
 Skyblock ( Piki Studios ) - DLC ddd2bcc0-0996-4031-993a-0f541266c3dc
+Weird ( KA Studios ) - DLC 2048247e-c655-44f8-ad31-26f11ec28477
 Lucky Block Race ( Pickaxe Studios ) - DLC 5fb3b18d-b435-4591-b889-80050ea1e2d6
+Hacker Factory ( CubeCraft Games ) - DLC db506461-8f7e-40a0-bea2-2ca737b2fd88
+Magic Weapons ( Foxel Games ) - DLC 5360f713-c1bc-4dfd-b95d-691bf219b3ed
+GOLEMS+ ( Pickaxe Studios ) - DLC b2e0c5b1-a1bd-4d26-a938-37ddf5a05406
 Craftable Farms ( Giggle Block Studios ) - DLC 643868eb-9cdc-462d-8897-5e3e72235208
 ULTIMATE WEAPONS ( Kreatik Studios ) - DLC 8f382807-952b-41bd-8432-ab114a6c8b5f
 Escape the Haunted Mansion ( The Lucky Petals ) - DLC 70243d3c-59bc-4a48-9456-d8f699d2e0f7
 Infinity Skyblock XL ( ASCENT ) - DLC 9076a2c1-3838-44dd-be0f-3fb38650eddc
 Infinity Arena ( Vatonage ) - DLC b214341f-dd61-4da7-ba02-bf73f57c7abb
 One Block Hacker ( Dark Lab Creations ) - DLC 9c09413f-3983-458f-87fb-115b291c57df
+Warden Tools ( Dark Lab Creations ) - DLC 3c04e163-2d7c-452c-886b-2a5c4697b55c
 The Cracked Forest ( Cynosia ) - DLC 95ac795b-ea83-496c-a824-00be26b873d2
+Teen Superheroes ( Lifeboat ) - DLC 11509f3f-1bf5-439e-b3e8-165d7f4926ab
+TORNADO! ( Pickaxe Studios ) - DLC e896cbee-e802-4b10-be5c-83e92fb4149b
+Dragon Tycoon ( Foxel Games ) - DLC 05774a29-5322-43d3-a686-2ecaa976c3c3
+One Block Skyblock ( AquaStudio ) - DLC 39d18669-0157-4a9e-b5a4-34c98263278e
+Warden Weapons and Tools ( Dig Down Studios ) - DLC 10db5de2-19c0-4d59-907b-e827fcbf8184
+FROG++ ( ChewMingo ) - DLC 64f0ce5b-73a1-49a0-bc16-fe7913508896
+Ocean Challenge ( Dalibu Studios ) - DLC c0a355fa-1ae0-47f4-bf65-11e9fd9adda4
+Skyblock+ Bundle ( Dalibu Studios ) - DLC 302e8a11-6f3a-46fc-8158-aa6ecc4d9c21
+BedWars: Origins ( Lifeboat ) - DLC 8809824a-d052-445b-ac29-7cd3bda9343c
+Tree Bunker ( KA Studios ) - DLC ef195034-c24e-4cf5-91d7-aad2f5e7d9ee
+SURVIVAL BUT RANDOM DROPS ( Mythicus ) - DLC 032e72d8-2931-4f57-9531-5877d76c5287
+PETS++ ( ChewMingo ) - DLC 51e64fdf-c1c0-4bda-833b-ce33f1661c97
+Emerald Tools ( Pixell Studio ) - DLC cb07368e-afdc-4d86-96a5-8c67fa356ba5
+Love Dolphins ( Rainbow Theory ) - DLC fa468594-5f30-4807-99ad-552435ff180b
+Ore Golems ( Fall Studios ) - DLC 29a513d8-7938-4710-8396-dc99abad5bfd
+One Sphere Skyblock ( Odyssey Builds ) - DLC ce2f0476-aa83-490d-aba6-e4df21d084c1
+Starlight Parkour ( The Rage Craft Room ) - DLC ab1a885c-4b4f-4728-afa7-0e3a1e3a28b3
+Void Tools ( Cubeverse ) - DLC f10a5c56-3b44-40af-980d-b7d0e004a76d
+Zombie Bunker Challenge ( Pixelbiester ) - DLC 70ecfd72-d18f-4c8c-ae6b-cc43d8f1f074
+Luckyblock Survival ( Piki Studios ) - DLC c27b7c73-ad55-4d27-8500-93e277b466cc
+Castle Base ( Piki Studios ) - DLC dce836f9-ed9f-4e6b-9330-0af0447e00d6
+Hacker Mansion ( Chillcraft ) - DLC 891a206e-d284-4a52-a7d4-4d2ae0e23d9a
 HACKS+ ( Cubed Creations ) - DLC 8bc84f92-1556-406f-86c5-2ccd4b876806
 Hacker Mansion ( Piki Studios ) - DLC 7b25e38b-e37d-4160-a39a-dc552333886c
 Parkour Rings ( Eescal Studios ) - DLC 48a27a29-c3b4-4d0b-bc12-fb03a8120154
@@ -4874,7 +4906,7 @@ MEGA MANSION 2 ( RareLoot ) - DLC d2c75e75-cd49-445d-84ec-e124a5f75b43
 Elemental Weapons ( Dig Down Studios ) - DLC 1729ecab-9cd9-4173-815a-16b5191c38d3
 Craftable Mob Morph ( Cubed Creations ) - DLC c76fed89-76ac-4e4b-a3bc-9e5fcfeabdb4
 Craftable Spawn Eggs ( Yeggs ) - DLC 3bf73799-ecd0-401d-bf5b-b08228e91a3b
-REALISM v1 \\ Fields + Forests ( Panascais ) - DLC e8be4fdc-3b1b-47df-bca4-9ae5d2702b3d
+REALISM 1.1 \\ Fields+Forests ( Panascais ) - DLC e8be4fdc-3b1b-47df-bca4-9ae5d2702b3d
 Mountain Mansion ( Dodo Studios ) - DLC 6be374d4-0ca5-4825-bcaa-802a3a951a3b
 Spiral Parkour ( Waypoint Studios ) - DLC d77f5d7e-7241-4cf7-acd2-d9b8b9140a76
 Maze Runner ( RareLoot ) - DLC 90096dec-c15c-4e54-bc0e-34785052c50b
