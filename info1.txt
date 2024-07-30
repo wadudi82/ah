@@ -4971,6 +4971,8 @@ Fractured ( Giggle Block Studios ) - TexturePack d82c8065-4135-40eb-a8bc-9e59607
 Pumpkin Halloween ( Giggle Block Studios ) - TexturePack 495780ae-8381-487c-9b10-6fe790f18766
 Mob Furniture ( Blockworks ) - DLC 96cc6e1a-2094-4259-8a2e-d2e62762045e
 Pig Castle ( Street Studios ) - DLC 9b90a7c0-29c4-4386-a0e9-6ef1805befc0
+Random Disasters Survival ( Next Studio ) - DLC aa74ba60-b75f-41ed-8984-8cdf3abf4b49
+Warm Ocean Mobs ( Lifeboat ) - DLC b706ed86-1009-43bc-9481-2337105c9117
 Speed Boat Racing ( Eescal Studios ) - DLC bd44e132-37a8-41e6-b57f-0298ef8ea84e
 More Dogs ( Vatonage ) - DLC 941b1f48-fc44-4696-b05d-b31cfc417187
 Gothic Furniture ( Giggle Block Studios ) - DLC ab079e14-960f-4f96-8065-cbb8722381e0
@@ -4979,9 +4981,11 @@ Hacker Island ( Chillcraft ) - DLC 30442167-656a-4cae-882c-083761266796
 Hidden Doors ( Dodo Studios ) - DLC 8eb85d11-fe7b-44b0-ac02-69f5d2569314
 One Block Dimensions ( Mine-North ) - DLC d3df669c-4169-4db4-a6bf-9ab7ee16d42d
 Don't Touch Grass ( Dalibu Studios ) - DLC 45d776ed-f513-4085-8c38-19dc6367b03c
+MODERN CITY MASHUP ( Kreatik Studios ) - Mashup 9317a763-97a4-497c-9b48-158829ebb359
 Ultimate One Chunk ( GoE-Craft ) - DLC 8ec68518-094d-4b91-859d-09a168e308e7
 Tag ( VoxelBlocks ) - DLC 8df7de34-51ff-497b-af89-615803e6ea4d
 The White House ( Shapescape ) - DLC ac6c3658-22b7-4fac-9ed7-3d707200f382
+Furniture+ ( Bunny Studios ) - Mashup a39811f8-103a-4134-bc87-d6f59f2332fc
 Minimalist Craft ( Heropixel Games ) - TexturePack addd89f6-ec00-431a-ac4c-c4f6b86c1756
 DRAGONS Add-On ( Shapescape ) - Addon 71a0edf5-9999-4cf2-83cc-48e5c1ab8f0c
 PLANES Add-On ( Kreatik Studios ) - Addon 06fa7a82-7a61-4091-8cee-3137d6edad47
@@ -4992,3 +4996,4 @@ Parkour ( Builders Horizon ) - DLC 306bd920-b60f-49d7-958e-4b151de3069d
 Glitter Galore ( Lifeboat ) - DLC 732b7bfd-3b05-4ce3-8fde-87ed0f038f3a
 Parkour & Portals ( Cypress Games ) - DLC 04543470-c7b6-42b8-90a1-e2c868fd063d
 Playroom Texture Pack ( Scai Quest ) - TexturePack e92d6b74-8b15-4128-a51b-6d6ba05237c9
+Tetris ( Minecraft ) - DLC f684dea8-6dc1-456a-9f5a-8f55fbcc575f
