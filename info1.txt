@@ -4321,7 +4321,7 @@ Giant Bonsai Treehouse ( CrackedCubes ) - DLC e70d1b4b-51bc-470d-b874-0c2e21d8ca
 Wild West Bedwars ( RareLoot ) - DLC 85ec8058-6c98-4e13-94a8-b057e373091f
 Mob Blasters ( Kubo Studios ) - DLC 79bb5e6b-e171-4dff-bcf6-32611c9d4488
 Better Clouds ( Mine-North ) - DLC ef009cbc-d437-48f9-b2ee-f268b9bc1392
-XP Storage Add-on ( Snail Studios ) - Addon 784c2b96-14fe-4c5b-9c8d-05375ed874cd
+XP Storage Add-On ( Snail Studios ) - Addon 784c2b96-14fe-4c5b-9c8d-05375ed874cd
 More Ores and Tools ( Netherpixel ) - Addon 2b36d3a3-a83c-4614-92aa-ca83cbee621e
 Becoming Billionaire ( CubeCraft Games ) - DLC 2bd40b70-6e8d-4fe0-b34d-214380a0ce8f
 Cherry Mountain Temple ( CrackedCubes ) - DLC c8eb0970-b339-4e3b-a870-3aa9db5c8b61
@@ -5020,9 +5020,12 @@ Furniture+ ( Bunny Studios ) - Mashup a39811f8-103a-4134-bc87-d6f59f2332fc
 Void Tools ( Duh ) - DLC f00cf6b5-1145-442a-859c-8ca988ee8d84
 Weapons Fusion Add-On ( Cubed Creations ) - Addon d8ccda7d-3e03-4b91-a35a-d45a77aa2e9d
 Minimalist Craft ( Heropixel Games ) - TexturePack addd89f6-ec00-431a-ac4c-c4f6b86c1756
+City Pack ( Norvale ) - Addon fd2143a8-a688-44b8-af0d-feeb6c51f295
 DRAGONS Add-On ( Shapescape ) - Addon 71a0edf5-9999-4cf2-83cc-48e5c1ab8f0c
 PLANES Add-On ( Kreatik Studios ) - Addon 06fa7a82-7a61-4091-8cee-3137d6edad47
 Combine Items Add-On ( Dodo Studios ) - Addon 8c6e3420-f1d3-435f-8496-3007368f11a5
+Security Pack Add-On ( GoE-Craft ) - Addon 21a29323-77f6-480e-abb6-21dc7d245495
+ZOMBIES Add-On ( Builders Horizon ) - Addon a3d9548d-5ab8-4acd-9ab7-30fa061ed2f5
 Circus ( Bunny Studios ) - TexturePack f4064260-d48c-4954-9372-671c798a7b24
 Rainbow Weapons ( HorizonBlocks ) - DLC 63eb2419-9fc0-4fc3-8161-ab68c9d6effc
 NEKO FURNITURE [DX] ( Maca Designs ) - DLC d8f66ab5-8df1-44d0-99e8-cfe9fe5986f9
@@ -5031,8 +5034,13 @@ Glitter Galore ( Lifeboat ) - DLC 732b7bfd-3b05-4ce3-8fde-87ed0f038f3a
 Parkour & Portals ( Cypress Games ) - DLC 04543470-c7b6-42b8-90a1-e2c868fd063d
 Playroom Texture Pack ( Scai Quest ) - TexturePack e92d6b74-8b15-4128-a51b-6d6ba05237c9
 Tetris ( Minecraft ) - DLC f684dea8-6dc1-456a-9f5a-8f55fbcc575f
+Travel Life: Planes & Airports ( Wonder ) - DLC d9d6acb1-9f6b-495c-85db-8e03a7bdd525
+Infinity Weapons ( RareLoot ) - DLC e0fe37c3-9637-4f56-9cb5-ea7ec0b00cfd
 My Cozy Cottage Life ( Imagiverse ) - DLC af437c07-1bf5-49c5-93d3-9dd192fcbaed
+PRO 5 Secret Bases ( GoE-Craft ) - DLC fab836ef-9987-456d-85f1-1431c7374bb0
 Power Grid Hero ( Pathway Studios ) - DLC df4b7e6c-d71e-499d-a13e-ebe8a77b23d3
 Warden Tools ( MelonBP ) - DLC b13738ea-2221-4f2b-a317-4aea362e5ad3
 Dragon Evolve ( Cubed Creations ) - DLC fe564c82-90ef-4f71-b80f-a4da75828e50
+OP Layers Survival ( Pixell Studio ) - DLC 070e9278-b195-4c49-95bb-ed09cd2941a1
+MIX ITEMS! ( KA Studios ) - DLC c669fd73-64a0-4278-9237-47267b7c27f1
 Lush Bath Bomb Add-On ( Minecraft ) - Addon b438cb5f-e92d-4416-a25f-b4b3c9bd7725
