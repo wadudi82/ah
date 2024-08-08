@@ -5001,32 +5001,54 @@ Gothic Furniture ( Giggle Block Studios ) - DLC ab079e14-960f-4f96-8065-cbb87223
 Secret Base ( Diamond Studios ) - DLC a56668c9-46b8-4e70-9510-9239b3313386
 Modern Mansion Builder ( Everbloom Games ) - DLC 4f6e069d-f4b2-4ff0-bbff-b9e41f07f6a6
 Gamer Furniture ( Dig Down Studios ) - DLC a33c1219-8444-4249-b935-581bf326a7f9
+Cute Dream House ( BLOCKLAB Studios ) - DLC f2dafed8-4b19-4181-85de-1459ee477da6
 MODERN FURNITURE ( Maca Designs ) - DLC a86db22f-345c-4e28-8832-2ee79835211d
+Automatic Mansion ( Honeyfrost ) - DLC eb08d19a-ccb5-4bbc-b3fe-430671ad3871
+Lucky Island ( Box Build ) - DLC e23f8c58-cd96-447b-9ed4-132e0661b567
+100 Days One Block! ( Lore Studios ) - DLC 71e4afe1-0b36-458f-93d2-837e75176e0f
+Lucky Oneblock ( Box Build ) - DLC d13f67f2-170e-4c63-acec-3b1b3dd3b22f
+Dragon Castle ( Mine-North ) - DLC 3ffc88bc-e6c1-4ed9-b2bc-cff743466c9a
+World's Safest Vault ( GoE-Craft ) - DLC d2c563cf-d68f-434f-97d7-cb18433b5cd6
 Hacker Island ( Chillcraft ) - DLC 30442167-656a-4cae-882c-083761266796
 Hidden Doors ( Dodo Studios ) - DLC 8eb85d11-fe7b-44b0-ac02-69f5d2569314
 Bows+ ( Floruit ) - DLC 46655442-3600-49af-9bd1-432900dd452e
+The Neighbourhood ( CrackedCubes ) - DLC 9a117be5-83a0-44a9-803d-8737f3cd8b57
+Anime High School ( Wonder ) - DLC 99eff591-2c29-43b1-840c-ca3ac3beedb6
 Mob vs. Mob ( Lifeboat ) - DLC 0d8f0e00-1d30-4527-81eb-a1804b30a7db
+Anime Bedwars ( RareLoot ) - DLC c7d59db2-33cf-4ed5-b2f5-9078c6462914
+More TNT ( Mine-North ) - DLC 6b3d8e45-c581-46a8-9842-5c964354afd6
+Secret Acid Base ( Razzleberries ) - DLC 6205728e-b331-4083-b682-33b1f8309fee
 Redstone Expansion ( Giggle Block Studios ) - DLC 87346cd5-68e7-4a6d-b0fd-b935ed1c5d34
+Candy DX ( MobBlocks ) - DLC 5fc7ca5f-663e-4dc1-9534-c979f6763267
 Golems+ ( BLOCKLAB Studios ) - DLC 65e52123-1444-4f88-8629-52b649daab90
 One Block Dimensions ( Mine-North ) - DLC d3df669c-4169-4db4-a6bf-9ab7ee16d42d
 FLAPPY MOBS ( HorizonBlocks ) - DLC eed604ff-3788-4daa-a113-561d6ee44d40
 Don't Touch Grass ( Dalibu Studios ) - DLC 45d776ed-f513-4085-8c38-19dc6367b03c
+Half Heart Hardcore ( Chillcraft ) - DLC a8c68550-6827-4fd8-9cc7-2bc46c0bed81
 MODERN CITY MASHUP ( Kreatik Studios ) - Mashup 9317a763-97a4-497c-9b48-158829ebb359
 Ultimate One Chunk ( GoE-Craft ) - DLC 8ec68518-094d-4b91-859d-09a168e308e7
 Tag ( VoxelBlocks ) - DLC 8df7de34-51ff-497b-af89-615803e6ea4d
 Medieval Bedwars ( RareLoot ) - DLC d99d8373-132c-469e-8fe7-b71ddf500d58
+Parkour Speedrun ( Waypoint Studios ) - DLC d39b745b-ba27-4cbb-82ef-16e67dd7b099
+Space Station Skyblock ( Podcrash ) - DLC 2223a88d-f294-46e4-9f60-3eefa88c8400
 The White House ( Shapescape ) - DLC ac6c3658-22b7-4fac-9ed7-3d707200f382
 Creeper Mansion ( Mine-North ) - DLC 0fe494d0-9362-4877-9547-9ab1be9be2ee
+Azaroth Fortress ( Netherpixel ) - DLC d14bdac3-e4d5-472d-b0f4-f316ed8fd703
+SCP Mansion ( Lifeboat ) - DLC 9a71e242-7509-496e-873b-7e606e7678e7
 Furniture+ ( Bunny Studios ) - Mashup a39811f8-103a-4134-bc87-d6f59f2332fc
 Void Tools ( Duh ) - DLC f00cf6b5-1145-442a-859c-8ca988ee8d84
 Weapons Fusion Add-On ( Cubed Creations ) - Addon d8ccda7d-3e03-4b91-a35a-d45a77aa2e9d
 Minimalist Craft ( Heropixel Games ) - TexturePack addd89f6-ec00-431a-ac4c-c4f6b86c1756
+Ultimate Security Craft ( Dodo Studios ) - DLC 2c654b66-b09f-45f4-a431-34bf91c27b59
 City Pack ( Norvale ) - Addon fd2143a8-a688-44b8-af0d-feeb6c51f295
 DRAGONS Add-On ( Shapescape ) - Addon 71a0edf5-9999-4cf2-83cc-48e5c1ab8f0c
+Mob Head Base ( Lifeboat ) - DLC d37ee675-c308-493c-87b9-d3a3c0d60205
 PLANES Add-On ( Kreatik Studios ) - Addon 06fa7a82-7a61-4091-8cee-3137d6edad47
+Parkour Chunks ( Eescal Studios ) - DLC 2bf465cf-f9d1-432c-9a7a-7bfb0bbd5658
 Combine Items Add-On ( Dodo Studios ) - Addon 8c6e3420-f1d3-435f-8496-3007368f11a5
 UTILITIES Add-On ( Teplight ) - Addon b3f754e9-ba2a-44fe-8c03-92f171087f3e
 Mega Warden ( Cubed Creations ) - DLC 580772e8-010c-40c7-bea5-8fc98673686b
+Bunker Fusion ( Diamond Studios ) - DLC a67c9250-6c80-4c83-80ad-08f9546fedb8
 Security Pack Add-On ( GoE-Craft ) - Addon 21a29323-77f6-480e-abb6-21dc7d245495
 ZOMBIES Add-On ( Builders Horizon ) - Addon a3d9548d-5ab8-4acd-9ab7-30fa061ed2f5
 Circus ( Bunny Studios ) - TexturePack f4064260-d48c-4954-9372-671c798a7b24
@@ -5035,12 +5057,15 @@ NEKO FURNITURE [DX] ( Maca Designs ) - DLC d8f66ab5-8df1-44d0-99e8-cfe9fe5986f9
 Parkour ( Builders Horizon ) - DLC 306bd920-b60f-49d7-958e-4b151de3069d
 Glitter Galore ( Lifeboat ) - DLC 732b7bfd-3b05-4ce3-8fde-87ed0f038f3a
 Parkour & Portals ( Cypress Games ) - DLC 04543470-c7b6-42b8-90a1-e2c868fd063d
+Parkour Cosmos ( Eescal Studios ) - DLC 80694839-ad55-44a0-9d2a-7c05cd7725e4
 Playroom Texture Pack ( Scai Quest ) - TexturePack e92d6b74-8b15-4128-a51b-6d6ba05237c9
 MORE TOOLS ( 4KS Studios ) - DLC 11eb1afc-856f-4fe4-8073-e612beb42956
 Tetris ( Minecraft ) - DLC f684dea8-6dc1-456a-9f5a-8f55fbcc575f
 Travel Life: Planes & Airports ( Wonder ) - DLC d9d6acb1-9f6b-495c-85db-8e03a7bdd525
 Infinity Weapons ( RareLoot ) - DLC e0fe37c3-9637-4f56-9cb5-ea7ec0b00cfd
+Cyber Hotel ( Pathway Studios ) - DLC ca8e123d-ccd8-40c6-9e4b-89e587ed5ff3
 My Cozy Cottage Life ( Imagiverse ) - DLC af437c07-1bf5-49c5-93d3-9dd192fcbaed
+Millionaire Cruise ( Dodo Studios ) - DLC acc9a4d3-b1da-4f28-a2cf-12948dc1c16d
 SURVIVAL BUT CHUNKS ARE LOCKED ( Lore Studios ) - DLC c0a913bd-7839-46a8-90d4-89f0354b5d19
 PRO 5 Secret Bases ( GoE-Craft ) - DLC fab836ef-9987-456d-85f1-1431c7374bb0
 Meme Olympics ( Builders Horizon ) - DLC 6fb9043c-ff94-411f-86b8-0e07b3d2b506
