@@ -5238,4 +5238,7 @@ Camp Adventure ( Waypoint Studios ) - DLC 19baea2c-db51-4d3d-9040-2acc7c5ded2b
 Ore Totems+ ( Lifeboat ) - DLC e59147b9-015d-413a-a8ea-13e959bbdad9
 MORE CHESTS ( GoE-Craft ) - DLC 0b8c4654-ca74-4573-9f31-c3c163efdd6d
 MORE SNIFFERS ( Starfish Studios ) - DLC 2ea5c203-cf29-4fb8-a6a9-33f4e09981b0
+DRAGONS! Add-On ( Tsunami Studios ) - Addon e0b5320f-aece-4de8-80e5-139ebc1089b1
 Super Cars Add-On ( Octovon ) - Addon da7a290e-1555-434e-98d8-29b305d7e365
+The Uncrafter ( Ninja Squirrel Gaming ) - Addon 6f896857-b23d-4a92-82f8-00a49f94f922
+Dragons Add-On ( Venift ) - Addon 488351d9-6d5c-4f07-93fd-4954f4442b90
