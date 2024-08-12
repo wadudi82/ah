@@ -5235,10 +5235,14 @@ Spiders ( Dig Down Studios ) - DLC b057b642-208f-4d78-ba8f-0277fd80a11c
 Preston's Craftable Furniture ( FireGames ) - DLC f0e31819-3e31-438d-a157-6da23ef9eec9
 Submerged ( Vatonage ) - DLC f374f279-5ef1-4e07-a029-ff74711231a9
 Egg Hunt ( Fall Studios ) - DLC f64fc275-7ab1-4753-803f-026c46a2979f
+Ultimate One Block ( Mine-North ) - DLC 2aeb7962-5a6c-4a87-8b6c-9840e39e3894
 Pick Up Mobs ( Senior Studios ) - DLC 0aa734c2-4fc3-4e7e-9006-a6cc416ca6fe
 Billionaire Halloween Mansion ( GoE-Craft ) - DLC 25dee4f4-a3a7-434a-9bbd-4d50ac36b075
 Surfboards ( The Craft Stars ) - DLC e1b7c0b7-9d0e-4062-bf9e-77542b155b0b
+Mega Golf Mansion ( Waypoint Studios ) - DLC 24e906b1-c967-4de6-80a8-b49107496f6d
 Backrooms ( Builders Horizon ) - DLC f628bdab-8f00-440f-a5cb-634ce0e2baad
+Vatonage Multipack ( Vatonage ) - DLC 5ab0734e-ca03-42b8-8dfb-c583084d2042
+The Hands ( Pathway Studios ) - DLC 7977fb45-723f-40e7-acb2-8b3affdfd027
 Mutant Apocalypse Base ( Dodo Studios ) - DLC 53ed8b4d-59d1-4c9c-9fcd-0e6f1c1b2ede
 Baby World ( In Mine ) - DLC 28c0bf04-7c64-4c91-852c-d9861f6bb1f3
 Simple Furniture ( KA Studios ) - DLC 0789eecf-7da9-4821-85cb-d88e23af2875
@@ -5246,12 +5250,20 @@ Lucky Block Skyblock ( DogHouse ) - DLC 8db01162-be03-4eb4-b292-234b1ce61b23
 Cute Village Mountain ( CrackedCubes ) - DLC 5021b2ce-c4c6-4c50-9a65-2b0a5355a9b0
 Vehicles Expansion ( Dodo Studios ) - DLC b741e91a-b65f-4bce-8f87-740157795e88
 Cute Magic Pets ( MobBlocks ) - DLC 9d6ee556-403a-4ea7-8f2e-f3921474082f
+Motel Fear ( Builders Horizon ) - DLC 5b39abe8-4f99-4a63-bd3b-18f905dc9cdc
 Skyblock Horror ( HeroPixels ) - DLC 5738ea04-2ee7-4a3a-aea5-4f3d73a66205
+Infinity City ( Teplight ) - DLC 598fdef9-58bc-44e5-a774-4ce0c5eb013f
 Police City Roleplay ( Dodo Studios ) - DLC 5a27a6e4-667f-4c7f-b4f1-d69c4a531f46
 Wasteland Dimension ( Vatonage ) - DLC b8730704-5617-49fa-8122-7de4a6583ae8
+Desert Adventures ( Cynosia ) - DLC 52e2371e-5377-48a0-82d4-07d675b85d63
 Ender Expansion ( Giggle Block Studios ) - DLC daa347f0-7f29-4928-af16-84ac6472aae0
+Zombie Battle Arena ( GoE-Craft ) - DLC 50d60c3a-9baf-438e-8fd0-b88cd9204a81
+One Sheep Challenge ( Lifeboat ) - DLC 53f46280-0a26-47cd-b0c0-6d7808293f56
+BLOCK GENERATORS+ ( Teplight ) - DLC 0a321821-39ae-4efa-bf4e-9e5372c27b81
 Cute Home Firefly ( CrackedCubes ) - DLC 0dbf5a53-c51d-4d62-94ab-b638d9001aa7
 Deep Sea City ( Bunny Studios ) - DLC bfa5cb00-6795-47bd-9da9-2ec8e6a57b7b
+Sharks Survival ( Kreatik Studios ) - DLC 91831dec-aac1-487f-8567-e650a1f73239
+ULTIMATE X-RAY ( Shapescape ) - DLC a530aced-f0ac-47e8-a876-8784c853a3ac
 The Maze ( Piki Studios ) - DLC bd577930-56dd-4b61-9756-dcf569d85888
 Security Expansion 2.0 ( Wonder ) - DLC 4c6e1117-0766-4508-9009-ad6950735c69
 Camp Adventure ( Waypoint Studios ) - DLC 19baea2c-db51-4d3d-9040-2acc7c5ded2b
@@ -5263,6 +5275,11 @@ Weapons Expansion ( RareLoot ) - DLC 2acd29ba-edcc-4509-8885-82af929dcd93
 Number Lore ( HeroPixels ) - DLC 752833c6-48ce-40e7-bd38-76dc69f15cdd
 Alphabet ( Honeyfrost ) - DLC a70f89dd-8a70-4b67-a9fb-14f73a282c16
 Newbie vs Pro Build Battle ( Shapescape ) - DLC bdd6843d-9eec-42d1-ab3f-bff3a57e8ba9
+Ocean Survival ( Rainbow Theory ) - DLC 38728761-ba1b-46cb-ac63-b23bbad94158
+Lucky Block Flat World ( FTB ) - DLC af10b118-0017-43fc-a956-ba80c0cbf2ee
+Size Shifter ( ASCENT ) - DLC 3d586b79-776c-4c85-814d-23d9223f24e1
+SB737 100 Days Hardcore ( 5 Frame Studios ) - DLC 2f46d757-8e33-4c9e-80fb-1a018fb12767
+Modern Security Service ( In Mine ) - DLC 4ba9e963-84ef-4baf-af9c-ca5ab52163e2
 Peaceful+ ( Glowfischdesigns ) - DLC 072d005a-2d1a-481a-90d1-905b85f0bf07
 MORE SNIFFERS ( Starfish Studios ) - DLC 2ea5c203-cf29-4fb8-a6a9-33f4e09981b0
 Oneblock Captive Survival ( Bunny Studios ) - DLC d35972c4-7548-4509-aa73-e527d39259e1
