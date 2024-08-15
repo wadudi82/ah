@@ -4321,7 +4321,7 @@ Giant Bonsai Treehouse ( CrackedCubes ) - DLC e70d1b4b-51bc-470d-b874-0c2e21d8ca
 Wild West Bedwars ( RareLoot ) - DLC 85ec8058-6c98-4e13-94a8-b057e373091f
 Mob Blasters ( Kubo Studios ) - DLC 79bb5e6b-e171-4dff-bcf6-32611c9d4488
 Better Clouds ( Mine-North ) - DLC ef009cbc-d437-48f9-b2ee-f268b9bc1392
-XP Storage Add-On ( Snail Studios ) - Addon 784c2b96-14fe-4c5b-9c8d-05375ed874cd
+XP Storage Add-Ons ( Snail Studios ) - Addon 784c2b96-14fe-4c5b-9c8d-05375ed874cd
 More Ores and Tools ( Netherpixel ) - Addon 2b36d3a3-a83c-4614-92aa-ca83cbee621e
 Becoming Billionaire ( CubeCraft Games ) - DLC 2bd40b70-6e8d-4fe0-b34d-214380a0ce8f
 Cherry Mountain Temple ( CrackedCubes ) - DLC c8eb0970-b339-4e3b-a870-3aa9db5c8b61
@@ -5169,7 +5169,7 @@ Villagers vs. Mob Fusions ( Lifeboat ) - DLC 40b16776-c52c-4a13-b4d2-ed3864019ed
 Minimalist Craft ( Heropixel Games ) - TexturePack addd89f6-ec00-431a-ac4c-c4f6b86c1756
 Ultimate Security Craft ( Dodo Studios ) - DLC 2c654b66-b09f-45f4-a431-34bf91c27b59
 City Pack ( Norvale ) - Addon fd2143a8-a688-44b8-af0d-feeb6c51f295
-DRAGONS Add-On ( Shapescape ) - Addon 71a0edf5-9999-4cf2-83cc-48e5c1ab8f0c
+DRAGONS Add-On 1.2 ( Shapescape ) - Addon 71a0edf5-9999-4cf2-83cc-48e5c1ab8f0c
 Mob Head Base ( Lifeboat ) - DLC d37ee675-c308-493c-87b9-d3a3c0d60205
 PLANES Add-On ( Kreatik Studios ) - Addon 06fa7a82-7a61-4091-8cee-3137d6edad47
 Parkour Chunks ( Eescal Studios ) - DLC 2bf465cf-f9d1-432c-9a7a-7bfb0bbd5658
@@ -5314,8 +5314,11 @@ Immortal Snail ( Polymaps ) - DLC c0f750d4-c076-4da0-bc62-335be58670fc
 DRAGONS! Add-On ( Tsunami Studios ) - Addon e0b5320f-aece-4de8-80e5-139ebc1089b1
 Super Cars Add-On ( Octovon ) - Addon da7a290e-1555-434e-98d8-29b305d7e365
 Portal Blasters Add-On ( Starfish Studios ) - Addon 40a06c68-b94b-4fea-b375-e2c5ac785305
+The Dawn Era ( Mush Co ) - Addon 1bca9a28-7cda-4feb-a4db-30a03ae771f9
+More Lights ( Tetrascape ) - Addon 46bfd384-a103-49e0-b7e5-990e2fa5ee8d
 Mech Suits ( Magefall ) - Addon e0957bff-ae47-4133-9696-2d1ae679c554
 BINGO - Item Hunt ( Pixelbiester ) - DLC cc3500f2-4fe2-4e28-8409-ba3af76843dc
 The Uncrafter ( Ninja Squirrel Gaming ) - Addon 6f896857-b23d-4a92-82f8-00a49f94f922
 Bike Hills ( Street Studios ) - DLC e8c19514-2b4d-4be5-8b74-1a2c99e5b4d7
 Dragons Add-On ( Venift ) - Addon 488351d9-6d5c-4f07-93fd-4954f4442b90
+SCP: Alien ( Lifeboat ) - DLC 8e683e31-78cd-4aac-b8ac-44b07efa5dba
