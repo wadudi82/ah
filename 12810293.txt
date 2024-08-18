@@ -1,3 +1,4 @@
+MarketUUID	ManifestUUID	TypePack	Key
 000ed90d-5497-4d32-990e-c44f007542c4	955188f9-ea26-4438-b4bc-77571fcb4035	world_template	hY266wgXKamr2i1HXigOBlsMKBwSQ1cM
 001ea2b9-3821-466c-b144-0edb9d07d42c	bf85aadd-cbb5-4767-ae66-10a393fdf502	world_template	aL0BcmbMzpIXl4Zj0Csy0scgOCcfe8nf
 0028db15-17bc-490b-ab7c-44d2a97779d8	d3b6748a-0c25-4643-9180-cc3b5a12b5da	world_template	cN5Wru95O9rzecWhw9J9hojOaveMLhMq
