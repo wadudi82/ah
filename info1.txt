@@ -5312,8 +5312,13 @@ Cats and Dogs ( Mine-North ) - DLC d17d0d27-f508-4a11-94c5-af764ca6e3d6
 Dragon OP Traders ( The Craft Stars ) - DLC 3780558d-a256-4e56-9fda-aacb52c85124
 Immortal Snail ( Polymaps ) - DLC c0f750d4-c076-4da0-bc62-335be58670fc
 DRAGONS! Add-On ( Tsunami Studios ) - Addon e0b5320f-aece-4de8-80e5-139ebc1089b1
+Mushrooms Pets + ( CaptainSparklez ) - Addon 0fa1188c-015d-46c0-93df-48e07b87c051
 Super Cars Add-On ( Octovon ) - Addon da7a290e-1555-434e-98d8-29b305d7e365
+Dinosaurs Add-On 1.1 ( Honeyfrost ) - Addon bbc3adf7-b481-47f2-9a3d-749ae5421508
 Portal Blasters Add-On ( Starfish Studios ) - Addon 40a06c68-b94b-4fea-b375-e2c5ac785305
+Dogs Add-On ( 57Digital ) - Addon e9479729-5d15-4c8a-8437-fa4dda16faed
+DINOSAUR ERA ( CompyCraft ) - Addon 3d5672e2-f25c-4264-bfc0-f5fd670a17e1
+30 TNTs Add-On ( Pixel Smile Studios ) - Addon 87f25ea4-bef5-4d35-8d5a-e661c27d110a
 The Dawn Era ( Mush Co ) - Addon 1bca9a28-7cda-4feb-a4db-30a03ae771f9
 More Lights ( Tetrascape ) - Addon 46bfd384-a103-49e0-b7e5-990e2fa5ee8d
 Mech Suits ( Magefall ) - Addon e0957bff-ae47-4133-9696-2d1ae679c554
