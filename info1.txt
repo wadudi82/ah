@@ -5339,11 +5339,13 @@ Cute Home Firefly ( CrackedCubes ) - DLC 0dbf5a53-c51d-4d62-94ab-b638d9001aa7
 Deep Sea City ( Bunny Studios ) - DLC bfa5cb00-6795-47bd-9da9-2ec8e6a57b7b
 Sharks Survival ( Kreatik Studios ) - DLC 91831dec-aac1-487f-8567-e650a1f73239
 ULTIMATE X-RAY ( Shapescape ) - DLC a530aced-f0ac-47e8-a876-8784c853a3ac
+Royalty Islands ( Cynosia ) - DLC 3f1d6d7c-73e4-4878-9afd-e8c7d770f527
 The Maze ( Piki Studios ) - DLC bd577930-56dd-4b61-9756-dcf569d85888
 Security Expansion 2.0 ( Wonder ) - DLC 4c6e1117-0766-4508-9009-ad6950735c69
 Camp Adventure ( Waypoint Studios ) - DLC 19baea2c-db51-4d3d-9040-2acc7c5ded2b
 Lucky Block ( Honeyfrost ) - DLC 24a25c36-0f04-4ce7-b1ae-89127aff355d
 Ore Totems+ ( Lifeboat ) - DLC e59147b9-015d-413a-a8ea-13e959bbdad9
+CATS CRAFTABLE ( Kreatik Studios ) - DLC 9c56cafb-4e8b-49f9-bec3-8f27290c291b
 MORE CHESTS ( GoE-Craft ) - DLC 0b8c4654-ca74-4573-9f31-c3c163efdd6d
 Overpowered Traders ( Kubo Studios ) - DLC 24b65fbe-2d34-463c-a88e-267e796b722f
 Car City ( Razzleberries ) - DLC 6c74d829-09df-4fa6-b658-cf6af39e7853
@@ -5362,10 +5364,13 @@ Parkour Grind ( Rainbow Theory ) - DLC 9474d0f4-2922-412c-9585-a0970c19c6fa
 Mob Blocks ( Mine-North ) - DLC 76619796-99ea-490b-a2ab-939cebb51c50
 Lucky Block Flat World ( FTB ) - DLC af10b118-0017-43fc-a956-ba80c0cbf2ee
 Size Shifter ( ASCENT ) - DLC 3d586b79-776c-4c85-814d-23d9223f24e1
+OP Blocks ( CubeCraft Games ) - DLC c2813f67-b748-4b47-ba1b-795ce8002e42
 Lucky Block! ( Street Studios ) - DLC 39688b4b-3f86-4ad2-ad9e-3489ce19eef8
 SB737 100 Days Hardcore ( 5 Frame Studios ) - DLC 2f46d757-8e33-4c9e-80fb-1a018fb12767
 Secret Toilet Base ( Dodo Studios ) - DLC 3db13227-1530-4ad9-a5ef-46e93a5bf256
 Modern Security Service ( In Mine ) - DLC 4ba9e963-84ef-4baf-af9c-ca5ab52163e2
+WARDEN BEDWARS ( Dig Down Studios ) - DLC 23de3415-a71b-4750-ab64-a2477c5e5805
+CITY ( ChewMingo ) - DLC 8b3ca5fd-0b6b-40fe-ad65-7cb7d91a1c78
 More Animals ( Mine-North ) - DLC ff99d93b-adff-4aa3-92e2-966edddc16dc
 Giant Mobs ( Pixell Studio ) - DLC 9c87b4ef-fce6-42e1-a1cd-3003c4f64ab6
 Animation Studio ( Cleverlike ) - DLC ec9fb1ea-adff-43f5-8586-fa5e9292e99e
@@ -5373,9 +5378,11 @@ School City ( Chillcraft ) - DLC 77ea6f30-19af-4141-96d6-0a67c1bf614d
 Extreme Zombies ( MobBlocks ) - DLC 2758e84e-d7ad-4cdd-b259-b7806ab6a03b
 Uranium Ore ( Noxcrew ) - DLC f51110df-59c3-4e5b-a8ee-da8b9510c5c3
 Wardens VS Wardens ( Dig Down Studios ) - DLC 2cdb42da-d30e-47c2-aadb-59fe2b3614b5
+Security Expansion ( Shapescape ) - DLC 5ca0479c-a934-4175-8e32-e042f1fea2d5
 Ultimate City ( Chillcraft ) - DLC f6f31579-4386-4ded-ab22-e21ce0296bc6
 Peaceful+ ( Glowfischdesigns ) - DLC 072d005a-2d1a-481a-90d1-905b85f0bf07
 Farming+ ( Floruit ) - DLC f4d21952-3535-4242-b4c2-059cb2913578
+Neon Weapons ( Dodo Studios ) - DLC d93ced24-989b-4bbb-b596-d48b3948c98b
 MORE SNIFFERS ( Starfish Studios ) - DLC 2ea5c203-cf29-4fb8-a6a9-33f4e09981b0
 One Block Ocean ( Dalibu Studios ) - DLC 11cf94d7-129d-4bd0-854d-4d49131f3eef
 Oneblock Captive Survival ( Bunny Studios ) - DLC d35972c4-7548-4509-aa73-e527d39259e1
@@ -5388,8 +5395,11 @@ Mushroom Forest ( Cynosia ) - DLC 02841f6e-78ca-4c5a-b59a-54719c461d5b
 Secret Base Modern Furniture ( Pathway Studios ) - DLC 50a32fe6-ee68-47ac-8cd6-77d89a724069
 Backrooms ( CHRONICOVERRIDE LLC ) - DLC d74f1920-ce7e-429f-bb98-6f004b32f036
 Dragons Mash-Up ( Eescal Studios ) - Mashup d950abda-3c15-45ea-ab2a-796cce17a755
+Only Up! ( Lifeboat ) - DLC f4114cee-a898-418f-8ac4-24ea30397428
 Custom Hearts Mashup ( Mythicus ) - Mashup 75e89bfc-9a18-4ddc-b6d5-ffa04a77f8d2
 Records ( Senior Studios ) - DLC 5d6e560b-feef-42b3-86cd-75abce385d0f
+Elemental Weapons ( HorizonBlocks ) - DLC 1c7d4274-2a35-4c9c-be72-f921d6aa2976
+Rainbow Obby ( Lifeboat ) - DLC 81fc0bca-d2bd-431c-b40a-7d1b69798bdd
 Hacker One Block ( Red Eagle Studios ) - DLC 5047928d-e65e-46ff-8b28-b6c8f36b77fd
 Dragon OP Traders ( The Craft Stars ) - DLC 3780558d-a256-4e56-9fda-aacb52c85124
 Slash Blade ( RareLoot ) - DLC 49529353-9d33-4acf-8305-bedb9c11282a
@@ -5398,27 +5408,37 @@ MULTIPACK: MEDIEVAL ( Honeyfrost ) - DLC 16b58d0f-c234-4e47-b73d-6fe58f67c7a1
 Super Smash Block Lab ( DogHouse ) - DLC 0b383a8f-8803-42a7-ad30-79eadb5c34d8
 Infinity City ( Dig Down Studios ) - DLC 07f3731f-2820-48c7-9270-10707a8162ef
 Luxury Island Mansion ( Impulse ) - DLC 3b8c1e13-e971-4497-b134-6108b4d33152
+Princess Kingdom ( Dig Down Studios ) - DLC 7788e6a3-2ff1-4802-b66e-24812e7d8501
 Gym Life ( MobBlocks ) - DLC aae7de4d-259c-481f-affe-2049d40d61a1
+Tool Fusion ( BLOCKLAB Studios ) - DLC 612f42ec-7aa5-4091-9a3d-5049d652b4fb
 The Ocean Rises Every Minute ( Lifeboat ) - DLC ceb8de35-2dc5-4366-8d29-7093c616626e
 Furniture Weapons ( Withercore ) - DLC 82882125-b406-48f1-8388-c349993780c0
 Dragon Island ( Street Studios ) - DLC d83ef711-d52e-4d96-aca1-25804cc1d9d7
+Lucky Wars ( Kora Studios ) - DLC 6dcff779-bca7-4cd7-afe5-e2da318c8640
 TNT Mobs [DX] ( Logdotzip ) - DLC ff08f0a6-5377-4550-bfc9-9a9d51963ebc
 Millionaire Villa ( Diamond Studios ) - DLC 03055c1d-3ce0-4475-88c6-0a9280dbb5a1
 ONE BLOCK BUT ON A SEED ( Minty ) - DLC 00d2322d-11e2-4c06-b7b4-f819c0ca5893
 Parkour Island ( JFCrafters ) - DLC a1cb3d5b-da73-41d7-b193-80c1b82a1d73
 Hidden Base ( BLOCKLAB Studios ) - DLC ee52dd0d-e761-4287-8110-6eb1dfc5b2a7
+More Mounts ( Foxel Games ) - DLC 76908739-b72c-4446-a6ef-4af96288be95
 Immortal Snail ( Polymaps ) - DLC c0f750d4-c076-4da0-bc62-335be58670fc
 Secret Skyblock Base ( Dodo Studios ) - DLC 280168b8-29ae-4a2e-b2d9-1a807b7074bd
+Rainbow Obstacle Parkour 2 ( BLOCKLAB Studios ) - DLC 6446a173-cffd-4927-b781-dc6cd769e94a
 Spooky Mobs vs. Haunted House ( DogHouse ) - DLC 0805a369-c8d9-42d8-a745-f4be6d8b71d8
+Furniture Mansion! ( KA Studios ) - DLC 3bdccb17-c975-4772-a22e-0d991c6712e7
 Hacker Villagers ( Diamond Studios ) - DLC 7879e641-cb6d-4f19-a943-ce73af1bcd94
+Mobs and Blocks ( Lifeboat ) - DLC c824c663-dfcb-42d1-b1d5-b52a3889e151
 Lost in Space ( RareLoot ) - DLC 9ba6cf83-e941-4bf7-8ac6-919e256dd7ff
 Unicorn Kingdom ( Pixel Smile Studios ) - DLC 8f5bd5ee-dc9f-4ea2-9040-8f761e1569bf
+Don't Leave the Circle! ( Razzleberries ) - DLC 5d864ced-ec7e-4b69-93b0-b837a49f28f6
 DRAGONS! Add-On ( Tsunami Studios ) - Addon e0b5320f-aece-4de8-80e5-139ebc1089b1
+One Block TNT ( Dark Lab Creations ) - DLC 217e3c0a-4216-4a2f-880c-e04b731d14c4
 Becoming Vampire ( CubeCraft Games ) - DLC 8414637d-b6be-4f40-ad8a-9236698977d2
 Mushrooms Pets + ( CaptainSparklez ) - Addon 0fa1188c-015d-46c0-93df-48e07b87c051
 LUCKY FISHING ( ChewMingo ) - DLC 941f9972-f1c1-4f0f-a273-437ae67d1880
 Secret Bed Base ( Dodo Studios ) - DLC 1da99604-003e-468c-8121-879a5ed4e38e
 Horse Ranch ( Cleverlike ) - Addon b5a738c2-55a8-4ba4-aa39-55448cf0fc72
+MORPH [ADD-ON] ( Blocky ) - Addon a64ed49a-0734-432a-9344-68cca545ef60
 Shipwrecked: At Neverland ( DeliSoft Studios ) - DLC 9ce4ec85-97e2-426d-99b7-7b63da20f24d
 Super Cars Add-On ( Octovon ) - Addon da7a290e-1555-434e-98d8-29b305d7e365
 Hydra Bosses Add-On ( Spectral Studios ) - Addon 1eba3c61-c89a-48c3-a6e2-5688b5062cf9
@@ -5431,15 +5451,20 @@ DINOSAUR ERA ( CompyCraft ) - Addon 3d5672e2-f25c-4264-bfc0-f5fd670a17e1
 The Dawn Era ( Mush Co ) - Addon 1bca9a28-7cda-4feb-a4db-30a03ae771f9
 Mob Jetpacks Add-On ( King Cube ) - Addon a51cae44-cf32-4235-a38c-8a39c5a8144a
 More Lights ( Tetrascape ) - Addon 46bfd384-a103-49e0-b7e5-990e2fa5ee8d
+Mace Expansion ( Eescal Studios ) - DLC 225f4200-0635-4c9c-87b0-10f1eef07bb7
 City Life ( Shapescape ) - DLC 1dcf5b28-e600-4cb2-8c19-0ca19fa37ce0
 Compressed Blocks ( Team Metallurgy ) - Addon 4b5ab9d8-4eaf-4535-84ca-dbf83aa7aa75
 Mech Suits ( Magefall ) - Addon e0957bff-ae47-4133-9696-2d1ae679c554
 BINGO - Item Hunt ( Pixelbiester ) - DLC cc3500f2-4fe2-4e28-8409-ba3af76843dc
 The Uncrafter ( Ninja Squirrel Gaming ) - Addon 6f896857-b23d-4a92-82f8-00a49f94f922
+Advanced Power Suits Add-On ( Wonder ) - Addon a3b1749b-5cc2-4bc0-83cc-1abfdfc07dfd
+UNICORNS ( Wonder ) - DLC 103f4695-ab81-42ba-b0e6-4f410f2284ed
 Bike Hills ( Street Studios ) - DLC e8c19514-2b4d-4be5-8b74-1a2c99e5b4d7
 Dragons Add-On ( Venift ) - Addon 488351d9-6d5c-4f07-93fd-4954f4442b90
 VOID TOOLS ( ChewMingo ) - DLC d9dc16d4-6f49-4a33-ae84-bca78b03fb08
 PRANKS ( ChewMingo ) - DLC 32a0f6a1-f743-46a5-b644-dd59963a6064
+Mega Cruise Ship ( The Craft Stars ) - DLC 4de0a85c-e81c-43cf-ba0f-69ff87c64346
+Captive Survival ( ManaLabs ) - DLC de313b29-dd21-4877-a6ae-3ab99b6de514
 Becoming Warden ( 5 Frame Studios ) - DLC 140a93d9-eb4d-4ec2-a8dc-425770d7bd75
 SCP: Alien ( Lifeboat ) - DLC 8e683e31-78cd-4aac-b8ac-44b07efa5dba
 Prank Expansion ( Yeggs ) - DLC 2956051c-ab25-4e41-8b59-9bcdb42abc2b
@@ -5447,6 +5472,7 @@ Ultimate Weapons ( Razzleberries ) - DLC 1806654e-2a78-456d-a70f-c5fbc95dd824
 Parkour Bundle ( Street Studios ) - DLC 9b945734-629e-423a-aa9c-debab9e96515
 Giant Mobs ( Meraki ) - DLC 508275b5-ee0f-4a46-b400-e6f13e5862ee
 Supercar Initial Drift ( Eescal Studios ) - DLC b999a74c-c8d7-4b9f-b48e-bdca8e5da833
+TNT+ Pack ( Dodo Studios ) - DLC e9641ea2-69eb-4a4f-937c-85f1eadab4a6
 Timeless Adventures ( IBXToyMaps ) - DLC 92c89d75-4c09-4388-b36a-6e03c171eaf7
 Ore Beetles Add-On ( Scai Quest ) - Addon 7298f3c1-ef98-4195-b95c-a5fec6438f7e
 ANIMALS PACK: Aquatic ( HorizonBlocks ) - DLC 825587b8-95cb-4eb9-a3bb-75749cc48e72
