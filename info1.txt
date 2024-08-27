@@ -5401,9 +5401,13 @@ Records ( Senior Studios ) - DLC 5d6e560b-feef-42b3-86cd-75abce385d0f
 Elemental Weapons ( HorizonBlocks ) - DLC 1c7d4274-2a35-4c9c-be72-f921d6aa2976
 Rainbow Obby ( Lifeboat ) - DLC 81fc0bca-d2bd-431c-b40a-7d1b69798bdd
 Hacker One Block ( Red Eagle Studios ) - DLC 5047928d-e65e-46ff-8b28-b6c8f36b77fd
+Natural Disaster Minigame ( Next Studio ) - DLC c4b0631f-0d05-4c60-9838-8428622bf4fd
 Dragon OP Traders ( The Craft Stars ) - DLC 3780558d-a256-4e56-9fda-aacb52c85124
 Slash Blade ( RareLoot ) - DLC 49529353-9d33-4acf-8305-bedb9c11282a
+Survive in a Grocery Store ( Lifeboat ) - DLC a7db98f2-8bc5-424d-b0ef-d7a3e3097c00
+Mob Wands ( FTB ) - DLC 40c54b7d-bc96-4469-8497-2f46a45dfd6e
 Block Bundle ( Dig Down Studios ) - DLC 679a4ba7-ac23-4ae8-9a93-c0cd32ab65cd
+Lucky Skyblock ( Box Build ) - DLC dec845da-cec4-4dea-b8ac-e2688dc62f1c
 MULTIPACK: MEDIEVAL ( Honeyfrost ) - DLC 16b58d0f-c234-4e47-b73d-6fe58f67c7a1
 Super Smash Block Lab ( DogHouse ) - DLC 0b383a8f-8803-42a7-ad30-79eadb5c34d8
 Infinity City ( Dig Down Studios ) - DLC 07f3731f-2820-48c7-9270-10707a8162ef
@@ -5431,6 +5435,7 @@ Mobs and Blocks ( Lifeboat ) - DLC c824c663-dfcb-42d1-b1d5-b52a3889e151
 Lost in Space ( RareLoot ) - DLC 9ba6cf83-e941-4bf7-8ac6-919e256dd7ff
 Unicorn Kingdom ( Pixel Smile Studios ) - DLC 8f5bd5ee-dc9f-4ea2-9040-8f761e1569bf
 Don't Leave the Circle! ( Razzleberries ) - DLC 5d864ced-ec7e-4b69-93b0-b837a49f28f6
+Ultimate Boomerangs ( 4KS Studios ) - DLC e32d3c78-a427-4c2c-baa4-290b51b48f3e
 DRAGONS! Add-On ( Tsunami Studios ) - Addon e0b5320f-aece-4de8-80e5-139ebc1089b1
 One Block TNT ( Dark Lab Creations ) - DLC 217e3c0a-4216-4a2f-880c-e04b731d14c4
 Becoming Vampire ( CubeCraft Games ) - DLC 8414637d-b6be-4f40-ad8a-9236698977d2
@@ -5445,8 +5450,10 @@ Hydra Bosses Add-On ( Spectral Studios ) - Addon 1eba3c61-c89a-48c3-a6e2-5688b50
 Fairy Tales ( Chillcraft ) - Addon 6fbe33f8-2f7e-4917-b445-f30027d6191f
 Dinosaurs Add-On 1.1 ( Honeyfrost ) - Addon bbc3adf7-b481-47f2-9a3d-749ae5421508
 Portal Blasters Add-On ( Starfish Studios ) - Addon 40a06c68-b94b-4fea-b375-e2c5ac785305
+Sniffer Village ( Pathway Studios ) - DLC eb5eb1a4-72df-4992-8b99-ace0da8598a7
+Wither Evolve ( Eescal Studios ) - DLC c2c6b98e-c724-48c5-b33d-3c8543e10ff7
 Dogs Add-On ( 57Digital ) - Addon e9479729-5d15-4c8a-8437-fa4dda16faed
-DINOSAUR ERA ( CompyCraft ) - Addon 3d5672e2-f25c-4264-bfc0-f5fd670a17e1
+DINOSAUR ERA 1.1 ( CompyCraft ) - Addon 3d5672e2-f25c-4264-bfc0-f5fd670a17e1
 30 TNTs Add-On ( Pixel Smile Studios ) - Addon 87f25ea4-bef5-4d35-8d5a-e661c27d110a
 The Dawn Era ( Mush Co ) - Addon 1bca9a28-7cda-4feb-a4db-30a03ae771f9
 Mob Jetpacks Add-On ( King Cube ) - Addon a51cae44-cf32-4235-a38c-8a39c5a8144a
@@ -5454,6 +5461,7 @@ More Lights ( Tetrascape ) - Addon 46bfd384-a103-49e0-b7e5-990e2fa5ee8d
 Mace Expansion ( Eescal Studios ) - DLC 225f4200-0635-4c9c-87b0-10f1eef07bb7
 City Life ( Shapescape ) - DLC 1dcf5b28-e600-4cb2-8c19-0ca19fa37ce0
 Compressed Blocks ( Team Metallurgy ) - Addon 4b5ab9d8-4eaf-4535-84ca-dbf83aa7aa75
+Basic Machinery ( Vatonage ) - Addon 333e0a34-858b-4e12-80b5-fc972db9eb8c
 Mech Suits ( Magefall ) - Addon e0957bff-ae47-4133-9696-2d1ae679c554
 BINGO - Item Hunt ( Pixelbiester ) - DLC cc3500f2-4fe2-4e28-8409-ba3af76843dc
 The Uncrafter ( Ninja Squirrel Gaming ) - Addon 6f896857-b23d-4a92-82f8-00a49f94f922
@@ -5473,6 +5481,7 @@ Parkour Bundle ( Street Studios ) - DLC 9b945734-629e-423a-aa9c-debab9e96515
 Giant Mobs ( Meraki ) - DLC 508275b5-ee0f-4a46-b400-e6f13e5862ee
 Supercar Initial Drift ( Eescal Studios ) - DLC b999a74c-c8d7-4b9f-b48e-bdca8e5da833
 TNT+ Pack ( Dodo Studios ) - DLC e9641ea2-69eb-4a4f-937c-85f1eadab4a6
+Zombie Siege: Terminal ( Dig Down Studios ) - DLC ce52c931-695e-45e1-9eb7-fa6d603da164
 Timeless Adventures ( IBXToyMaps ) - DLC 92c89d75-4c09-4388-b36a-6e03c171eaf7
 Ore Beetles Add-On ( Scai Quest ) - Addon 7298f3c1-ef98-4195-b95c-a5fec6438f7e
 ANIMALS PACK: Aquatic ( HorizonBlocks ) - DLC 825587b8-95cb-4eb9-a3bb-75749cc48e72
