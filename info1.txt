@@ -5474,6 +5474,7 @@ PRANKS ( ChewMingo ) - DLC 32a0f6a1-f743-46a5-b644-dd59963a6064
 Mega Cruise Ship ( The Craft Stars ) - DLC 4de0a85c-e81c-43cf-ba0f-69ff87c64346
 Captive Survival ( ManaLabs ) - DLC de313b29-dd21-4877-a6ae-3ab99b6de514
 Becoming Warden ( 5 Frame Studios ) - DLC 140a93d9-eb4d-4ec2-a8dc-425770d7bd75
+Forge Medieval Fantasy ( Big Dye Gaming ) - TexturePack 9c672c2f-2d2f-4ed5-8657-90623ccb4379
 SCP: Alien ( Lifeboat ) - DLC 8e683e31-78cd-4aac-b8ac-44b07efa5dba
 Prank Expansion ( Yeggs ) - DLC 2956051c-ab25-4e41-8b59-9bcdb42abc2b
 Ultimate Weapons ( Razzleberries ) - DLC 1806654e-2a78-456d-a70f-c5fbc95dd824
@@ -5486,3 +5487,22 @@ Timeless Adventures ( IBXToyMaps ) - DLC 92c89d75-4c09-4388-b36a-6e03c171eaf7
 Ore Beetles Add-On ( Scai Quest ) - Addon 7298f3c1-ef98-4195-b95c-a5fec6438f7e
 ANIMALS PACK: Aquatic ( HorizonBlocks ) - DLC 825587b8-95cb-4eb9-a3bb-75749cc48e72
 SpongeBob SquarePants Add-On ( Spark Universe ) - Addon 5f7fe5e8-100a-4b60-b8b3-c8c30de46a91
+Ore Processing ( Team Metallurgy ) - Addon 860e4a07-56bc-4630-849d-b428f4fc5dda
+BABY BRAIN SWAP ADVENTURE ( FireGames ) - DLC 0465fc68-01ea-41df-8c54-81d51d01511b
+MEGA PLANES ( 5 Frame Studios ) - DLC 7c516227-b033-4bd6-afd2-ce14ee0fe664
+Gamer Town ( Pixelusion ) - DLC 82cb0546-0f42-4162-9b36-56b519254c29
+Cliffside Millionaire Mansion ( Mob Pie ) - DLC 59984a4f-4b04-4239-b1ad-a51d0d9973f5
+Boss Valley ( Pathway Studios ) - DLC 03bb69dd-8966-4579-81af-b615890672f1
+Tiny Animals ( Chillcraft ) - DLC 5567fc10-3fc4-4461-b41d-6accbf82cd05
+AirDrop Add-On ( Bunny Studios ) - Addon 49065071-71e0-4f52-9cf5-662504558ac8
+Ghast Expansion Add-On ( 100Media ) - Addon 8c17f109-9af3-4e73-878c-de45f6022c56
+Advanced Food ( Team VoidFeather ) - Addon dee98a51-8b45-4c30-9412-72e93bb25eb8
+Training Dummies Add-On ( Pixelusion ) - Addon 7ca8c06e-f25a-4eac-9bff-345de471bdc5
+Pixies ( Plank ) - Addon 591a3de3-b9a6-4d56-a44b-431c53737386
+Biome Pets Add-On ( Logdotzip ) - Addon 7194f8ba-5436-4714-aea3-fba62bbb2714
+PrestonPlayz Scary Myth ( FireGames ) - Addon aa1a855c-628e-48f2-bfdb-174bb25c45ab
+The Explorer's Waystones ( Razzleberries ) - Addon 55ff94e6-636c-4a9c-9d70-aea39d89e2a9
+Mobs in Bottle ( SandBlock Studios ) - Addon 9caa62b7-d7c3-4868-bb4e-9f25bc0742b8
+GRAVITY WEAPONS Add-On ( Pickaxe Studios ) - Addon d5991ae3-4204-4b37-aff3-3070d4a75d97
+Craftable Houses ( Dodo Studios ) - DLC 3289419a-f9de-45a2-82c8-230874f2f035
+Biome Weapons [DX] ( Logdotzip ) - DLC 703646c1-5655-4b14-ae71-30d76312ef29
