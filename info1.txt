@@ -5497,15 +5497,38 @@ Seaport ( Monster Egg Studios ) - DLC 21b545eb-cf69-418c-be7a-c7246fd70a3b
 Mediera ( Diluvian ) - DLC c0c59316-1bec-45fc-9d50-44127603a8bb
 Labyrinth ( Dig Down Studios ) - DLC b5b4bd3a-d02a-4ea0-9a42-1f30d9390226
 Parkour Grid ( Senior Studios ) - DLC 336fb3d8-9e19-4ec8-b34e-41287ec916ae
+Duplication ( Dig Down Studios ) - DLC f8b0e334-b526-42c0-9217-6c7f5010cab5
+Alien Forest ( Razzleberries ) - DLC edcbeccd-fdcc-414d-adc2-8a8d918919a9
+Magic Pets ( Levelatics ) - DLC d060fc4f-f459-4d9d-b286-7f68697ea310
+BOWS+ ( Pickaxe Studios ) - DLC 0991e71b-3b0e-476d-9133-8dc5e828f912
+ULTIMATE CUSTOM HEARTS ( Maca Designs ) - DLC 53dce194-3c43-4530-a28f-0a41b6777bc6
+Infinity Skyblock ( Dig Down Studios ) - DLC 1e3f12da-66b4-4b79-a9a1-cf5b4f76f9d3
 Cliff Village ( Lifeboat ) - DLC 625ee873-f829-446f-ab6c-4ca653ffcd8b
+Hacker Mansion ( 2-Tail Productions ) - DLC b0050f3f-a267-4369-bcfb-37534ec0b994
 BABY BRAIN SWAP ADVENTURE ( FireGames ) - DLC 0465fc68-01ea-41df-8c54-81d51d01511b
+500x Find The Button ( Yeggs ) - DLC c819f627-0dc1-40ab-ab30-e22be4944f54
+Lucky Blocks ( 2-Tail Productions ) - DLC 872764ec-89c2-4b6a-9159-ea5e42914c27
+Sniffer Expansion ( Maca Designs ) - DLC cf3ab724-746c-4f98-b6d2-c8805de52c02
+DEMON WEAPONS ( ChewMingo ) - DLC bfca7d5b-522c-4aa9-acd5-5b160536d7ad
+Security Bunker ( Snail Studios ) - DLC ab223f8c-7c1d-4176-9a80-d675727cc130
 MEGA PLANES ( 5 Frame Studios ) - DLC 7c516227-b033-4bd6-afd2-ce14ee0fe664
 Gamer Town ( Pixelusion ) - DLC 82cb0546-0f42-4162-9b36-56b519254c29
+Custom Pickaxes ( Cubed Creations ) - DLC 1c7b582a-3c86-481f-b4e8-2da912d855a6
+Morph Into Blocks ( Pixell Studio ) - DLC 6146e4b1-76ac-4d5c-a670-ed73c508fca4
+Lucky Rain ( Cynosia ) - DLC ade3898b-9ae2-41c6-bc68-ca163632c488
 Cliffside Millionaire Mansion ( Mob Pie ) - DLC 59984a4f-4b04-4239-b1ad-a51d0d9973f5
+Galactic PVP Battlegrounds ( CrackedCubes ) - DLC 4082665d-6c75-406e-8241-87015b88bfb4
 Boss Valley ( Pathway Studios ) - DLC 03bb69dd-8966-4579-81af-b615890672f1
+Grow Pets ( CaptainSparklez ) - DLC 23d4862a-bf16-4261-993e-a11ae1b3a3ad
+Captive Survival ( 2-Tail Productions ) - DLC c99d9bdc-341a-4387-8894-833324a70d7c
+SECRET FARM BASE ( Pickaxe Studios ) - DLC eb5e37f3-783b-49ad-bcc9-24d992904868
 Tiny Animals ( Chillcraft ) - DLC 5567fc10-3fc4-4461-b41d-6accbf82cd05
+MACHINES ( ChewMingo ) - DLC 81eb09e2-b3c8-4637-a97b-0e18290630fd
+Advanced Mobs ( Eescal Studios ) - DLC 4e5eb51e-73e5-4770-a97d-f2afa88004fd
+Random Chunks Skyblock ( Piki Studios ) - DLC fd72df18-ae1e-4bbb-920b-3bd26f627475
 Mob + Weapon Fusion ( Cubed Creations ) - DLC 9060fa87-7cb2-4fd5-90e0-c7eb32298d26
 RISING LAVA! ( Nitric Concepts ) - DLC 525637e7-7d83-40e1-a427-b22d4a8dd743
+Ore Detectors++ ( Cypress Games ) - DLC eb46793e-d7db-4615-8dd4-cdce1ef27951
 AirDrop Add-On ( Bunny Studios ) - Addon 49065071-71e0-4f52-9cf5-662504558ac8
 Secret Doors Add-On ( CodeStudios ) - Addon 3ec8d8b3-f22d-4997-9853-02482f4c8872
 Ghast Expansion Add-On ( 100Media ) - Addon 8c17f109-9af3-4e73-878c-de45f6022c56
