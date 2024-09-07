@@ -5906,3 +5906,5 @@ bc272fce-4374-428c-be0b-f80b2af3f96a	09ef40eb-7593-4f58-b416-f22ebbd585d7	world_
 5d61d7b7-262b-4272-a5ad-a93051baf98a	dadc6452-af77-47f1-8f16-dcf94ced2cb5	world_template	sU9NeF2l8nWZj1WNV6fBpsiy7Cgok9RL
 369de300-5dbe-4555-b0ea-114cfb3b9a37	70a18a07-8696-4959-9b73-5ff142d16d8c	world_template	wN77AykhSF9GxwgVOIOFo7691hLRyzZa
 faa2b43e-6e11-4d16-8770-82b0ef522796	9ee1aaca-ee43-4c11-a0c8-cdd141886df9	world_template	vE2aOeFRTOIbO7wyvdNdNupPms2ne0UX
+48a9e791-651f-4d59-a1ba-2f5b1e38b730	d19ca6e1-44c8-5dee-dd3d-d6d38c3374fd	resourcepack	oU3bhKpVGtyt0LbkVMC4NvYBOEXEJBGa
+48a9e791-651f-4d59-a1ba-2f5b1e38b730	b8ca2b6d-d008-6297-3bf7-fad17cbe8a1e	behaviorpack	vU1eUzZc5S6ZTqXCGcn2Bp5UB5mN73nY
