@@ -3464,7 +3464,7 @@ Crops are Ores! ( GoE-Craft ) - DLC f10e3808-57a6-41c2-a334-4628dc8f218a
 Assassins: Paris ( Honeyfrost ) - DLC f100093c-8e90-4e08-93f0-f278cbccdb33
 One Block Weapons ( Shapescape ) - DLC f6ab8655-a620-4f85-a0f0-4a5d18245292
 MOB WEAPONS CRAFTABLE ( Kreatik Studios ) - DLC ee75c980-284c-4665-8786-a5d36f0e506a
-More Blocks 1.1 ( Shapescape ) - DLC e66da350-1372-45d7-b672-51a224713a13
+More Blocks 1.2 ( Shapescape ) - DLC e66da350-1372-45d7-b672-51a224713a13
 Skyblock Weapons ( Block Factory ) - DLC e81c2807-878d-4515-9e52-0b0f7d6a6955
 God Weapons ( Dodo Studios ) - DLC edfd9e73-922c-41e5-8850-385893965c56
 SURVIVAL BUT NEW ACHIEVEMENTS ( Mythicus ) - DLC f50c7432-e649-4344-aa2b-e54a78e6d3fa
@@ -5562,11 +5562,19 @@ Suburban Family Home ( CrackedCubes ) - DLC 75a8c17c-b710-407d-b188-6478d956631c
 Millionaires Mansion ( Diamond Studios ) - DLC 3611be7e-46b7-4fa5-bd2f-8a94fadaa59e
 Mob Pets ( Mine-North ) - DLC a7c8a324-2ef5-4098-b942-f664d728dbc4
 Duplication ( Dig Down Studios ) - DLC f8b0e334-b526-42c0-9217-6c7f5010cab5
+Surprise! ( Fall Studios ) - DLC 6397a0ea-021f-482a-9ce0-b8c813cfda1b
+God Foods ( Diluvian ) - DLC 5d61d7b7-262b-4272-a5ad-a93051baf98a
 Alien Forest ( Razzleberries ) - DLC edcbeccd-fdcc-414d-adc2-8a8d918919a9
+TOTEMS++ ( RareLoot ) - DLC b2a9f63d-604d-489c-b5e0-25e9cbf730b3
 Magic Pets ( Levelatics ) - DLC d060fc4f-f459-4d9d-b286-7f68697ea310
+Tropical Furniture Mansion ( 5 Frame Studios ) - DLC a15ad08c-57b7-4f2c-9525-bdebf0e0448d
 BOWS+ ( Pickaxe Studios ) - DLC 0991e71b-3b0e-476d-9133-8dc5e828f912
+Skyblock Expanding Border ( Cubed Creations ) - DLC 16b14847-2363-48d4-9d14-1b4df772739a
+One Block [?] ( Xmrvizzy ) - DLC e195c150-a47c-4d92-b23d-b60fcdd0891b
+ONEBLOCK BUT THE WORLD EXPANDS ( Wonder ) - DLC faa2b43e-6e11-4d16-8770-82b0ef522796
 Bio Dome ( Dig Down Studios ) - DLC 037f9836-628f-4213-b42d-f03e080ca2e0
 ULTIMATE CUSTOM HEARTS ( Maca Designs ) - DLC 53dce194-3c43-4530-a28f-0a41b6777bc6
+CAPTIVE SKYBLOCK ( Kreatik Studios ) - DLC 9826b950-6812-4409-b379-714cd3e1d99d
 Infinity Skyblock ( Dig Down Studios ) - DLC 1e3f12da-66b4-4b79-a9a1-cf5b4f76f9d3
 NOOB TOOLS ( Pickaxe Studios ) - DLC 68f2c3af-cfa3-4cbf-8a95-afb79c5fb377
 Cliff Village ( Lifeboat ) - DLC 625ee873-f829-446f-ab6c-4ca653ffcd8b
@@ -5586,6 +5594,7 @@ How to Live Inside a Mob ( Senior Studios ) - DLC 692d51a2-da8d-4656-a6da-ab0d9c
 MEGA PLANES ( 5 Frame Studios ) - DLC 7c516227-b033-4bd6-afd2-ce14ee0fe664
 Gamer Town ( Pixelusion ) - DLC 82cb0546-0f42-4162-9b36-56b519254c29
 Halloween Oneblock ( Piki Studios ) - DLC 168a780d-6925-4b67-8080-6f2a5c859798
+Scary Park ( Cynosia ) - DLC f6ca1a0e-adac-4b5e-b7d9-d7d238b272b8
 Custom Pickaxes ( Cubed Creations ) - DLC 1c7b582a-3c86-481f-b4e8-2da912d855a6
 TNT ( Pixelusion ) - DLC 08c8beba-0f32-40fe-9cc9-52899053c370
 Morph Into Blocks ( Pixell Studio ) - DLC 6146e4b1-76ac-4d5c-a670-ed73c508fca4
@@ -5603,6 +5612,7 @@ Captive Survival ( 2-Tail Productions ) - DLC c99d9bdc-341a-4387-8894-833324a70d
 Loot Rain ( 2-Tail Productions ) - DLC d2cb4f11-b28b-493d-a8af-a5091d8a14af
 SECRET FARM BASE ( Pickaxe Studios ) - DLC eb5e37f3-783b-49ad-bcc9-24d992904868
 Tiny Animals ( Chillcraft ) - DLC 5567fc10-3fc4-4461-b41d-6accbf82cd05
+Magical Red House ( BLOCKLAB Studios ) - DLC bc272fce-4374-428c-be0b-f80b2af3f96a
 MACHINES ( ChewMingo ) - DLC 81eb09e2-b3c8-4637-a97b-0e18290630fd
 Dragon Weapons ( Cubed Creations ) - DLC 2e1816d4-738a-479c-974e-49de5fa9b797
 Advanced Mobs ( Eescal Studios ) - DLC 4e5eb51e-73e5-4770-a97d-f2afa88004fd
@@ -5633,6 +5643,7 @@ Pirate Era Add-On ( Tomaxed ) - Addon 8ea06559-b8e5-4f13-827c-8ffd1acd3cb3
 Luxury Mansion ( Cubed Creations ) - DLC 4fd15e96-aaa7-4c32-bd42-d455d63f2a25
 Creepy Nightmare ( Heropixel Games ) - TexturePack f64e3d60-67e4-4d1e-bb6c-8de05fa37175
 Stampy’s Lovely World ( 4J Studios ) - DLC 2cac624e-2f90-4b3c-aa62-6dd0493ad20e
+WEAPONS EVOLVE! ( Kubo Studios ) - DLC 369de300-5dbe-4555-b0ea-114cfb3b9a37
 Digging For Dinosaurs ( Dig Down Studios ) - DLC ede869dc-2c66-4001-a5ab-24acf7fa0c79
 Earth Survival ( The Craft Stars ) - DLC 43cd1702-7e94-4b08-b986-77971b74f118
 Perfect Realism x128 ( GoE-Craft ) - TexturePack c12fc509-0a87-4cb5-9389-72241244d6f8
@@ -5649,12 +5660,14 @@ Morph Lab ( Norvale ) - DLC b58a84af-cb00-48dc-b7db-36aad6baa2a9
 Shine ( Giggle Block Studios ) - TexturePack 2e65f0e3-ec6e-4189-96bd-402e98d6ad6b
 Sci-Fi Fantasy ( Duh ) - TexturePack 8c04efa0-b772-4d12-a9ec-8283bb44c6a0
 Biome Weapons [DX] ( Logdotzip ) - DLC 703646c1-5655-4b14-ae71-30d76312ef29
+Bubble ( The World Foundry ) - Addon 48a9e791-651f-4d59-a1ba-2f5b1e38b730
 BOSSES+ Add-On 1.1 ( Shapescape ) - Addon a1f41469-d937-4b58-97e8-09ebb4196fa7
 CAPTIVE SURVIVAL + ( Blue Depth Games ) - DLC ec925496-b155-4052-bf97-07801e15c47b
 Parkour Volcano ( Hielke Maps ) - DLC e45f4e64-85b7-430d-9cac-49075c1760d5
 WEAPONS EVOLVE ( Dodo Studios ) - DLC 7126ef5a-ac6b-4655-9830-0db625304ad1
 FURNITURE ( Chillcraft ) - DLC 97ee0f7b-07a8-41ea-99b6-263b6d3db481
 Gaming Furniture ( Withercore ) - DLC 9c97769a-5fde-4b8c-8c52-fc3cd876dbb5
+Fantasy Delight Texture Pack ( Mine-North ) - TexturePack ebd6a536-2023-49e7-aa61-32afcbe5dcf7
 Forest Craft Add-On ( Float Studios ) - Addon b72d5e11-09a6-4f55-9bdd-fae5388e1866
 Cute Golems ( inPixel ) - Addon 80e3e32e-fca5-49fb-92db-55bc4239cc88
 Slimey Boyos ( Razzleberries ) - Addon cf7b804b-e827-4ea1-b86c-6f9aecde6e49
