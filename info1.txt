@@ -5087,7 +5087,7 @@ Super Cute House ( Dodo Studios ) - DLC d53fae49-6427-4e93-8137-a16369a2c25a
 Morph Into Blocks ( Mine-North ) - DLC 3f6abc90-3813-4aef-ab77-2d663b84630c
 Security Bundle ( Mine-North ) - DLC 168d5bf6-6fbb-4f76-a452-dad1800e014c
 Pumpkin Halloween ( Giggle Block Studios ) - TexturePack 495780ae-8381-487c-9b10-6fe790f18766
-Hardcore Survive Zombie City ( Team VoidFeather ) - DLC 00eaae72-e28f-43a0-b6ec-e3aa7cee17af
+100 DAYS IN ZOMBIE CITY ( Team VoidFeather ) - DLC 00eaae72-e28f-43a0-b6ec-e3aa7cee17af
 ULTIMATE Redstone Mansion ( Vatonage ) - DLC f1389eb5-6db5-4610-8a27-6272f97d8358
 All Lucky Blocks ( Dalibu Studios ) - DLC 76472ae5-9f25-4f55-9cde-bf831a58560c
 Summer House - Roleplay ( Withercore ) - DLC ffa13eb1-adc3-4db0-a4dc-f342dee47364
@@ -5752,6 +5752,26 @@ Cherry Blossom Suburban Home ( CrackedCubes ) - DLC cc4d7cc7-8f9f-418e-8272-05e5
 Zombie Invasion Bunker ( Shapescape ) - DLC 6362f4ec-5f63-402d-a7fd-7926fbd832bc
 Pink Expansion ( Ready, Set, Block! ) - Addon deec08c0-130a-4023-adc8-216095baff39
 Supercar Island ( Yeggs ) - DLC 32f50ef0-c0ad-4c98-8d8c-94ed7baf12f8
+Kingdom: Assault ( Blockception ) - DLC d1211833-e38c-4946-9923-827ee70e6bec
+Honey Hill Farm ( Imagiverse ) - DLC 94cd9153-3c0b-4a04-ab35-d3d24b1a038c
+Touchdown Battle! ( Toya ) - DLC 2c3d7ec6-8624-4f0b-b9ca-5cda0737cbdd
+Gold Rush Ridge ( Razzleberries ) - DLC 5f1bd3b3-7270-4fc4-a15f-a4c530b3adc7
+Furniture ( Shapescape ) - DLC 33fe4784-5180-4b48-b24f-7454f81dbbad
+Age of the Samurai ( Magefall ) - DLC 48e722a9-3631-42ee-89ee-344fce9c99c0
+City Car Dealership ( Octovon ) - DLC 27ca1490-1990-43ab-b394-24f5cf7a4029
+Robots ( Team Vaeron ) - DLC 779ed30f-88a9-4bbc-970f-e72100389e90
+New Orleans ( Nitric Concepts ) - DLC 856ebb06-9b01-492f-9a14-598496747764
+ChessCraft ( House of How ) - DLC f44bbd55-6871-4852-be1f-f9b5f591e855
+Flip That House! ( Lifeboat ) - DLC 1cad827f-4a66-4ec4-972a-3ac8d3a3dfc6
+Mission to Mars ( Lifeboat ) - DLC a8862709-06e1-4287-bbc1-2d5797bc9165
+Memory Challenge ( Netherpixel ) - DLC c6846b19-1fb7-4daa-9c90-c40ad9d33ecd
+Mini Games Mall ( BBB Studios ) - DLC 650a2019-d7c3-4928-820b-657adffcb7bd
+Mars Mission: CE ( Pathway Studios ) - DLC f2eae390-1198-4f90-81ec-d33250d987a4
+Monster Hunter: Medieval ( King Cube ) - DLC 6445cc6f-0e08-4ef9-b922-03c8f5cd653a
+Insect Safari ( Netherpixel ) - DLC cc760f82-4ab8-489e-9165-32b48b7dee10
+Lost In The Dark ( Netherpixel ) - DLC ac2423bd-a81f-443b-9ec2-1989c37c2f25
+Minecart Madness ( Podcrash ) - DLC d4d27a36-6304-4d87-8788-3cec7357f313
+K-Pop Festival ( Pathway Studios ) - DLC 00dcd833-8980-47ea-bbbc-2672c87caa76
 Asteroid Base ( Lifeboat ) - DLC 37ec9666-495a-4a83-ab3a-c7a2c1375450
 Lucky Blocks Skyblock ( Fall Studios ) - DLC 802aa797-3ce0-4404-b4b6-9e62ca92ce32
 The Fall of Stallon Skyblock ( Diveblocks ) - DLC 152d8c91-8c65-4bb6-a22e-9aff98702990
@@ -5763,6 +5783,15 @@ Secret Alien Base ( Dodo Studios ) - DLC 21623cfc-5602-4373-a179-64ab9da55ed7
 Skyblock Lucky Block ( Pixelusion ) - DLC 92dc89bb-a361-4d55-a4bc-a4a258053130
 Ghost Hunter ( Lifeboat ) - DLC 7348c5d3-8d56-4734-a21b-3879efd495ae
 Hidden Tree Base ( Razzleberries ) - DLC f759a564-1e85-4cf1-8515-56b741862fe5
+Random Recipes ( Pixell Studio ) - DLC 97daa74e-98e5-40fd-88f5-5a2e6df68ae2
+Warden Base ( 4KS Studios ) - DLC 341a08dc-6e4c-4fd8-ae39-4999791aed03
+Piglin Apocalypse ( CubeCraft Games ) - DLC 7c32c825-962f-4ff5-a25d-64382057c248
+Cave Parkour ( AquaStudio ) - DLC 6d1ed827-3277-4c24-b0a0-78fdbc8983cc
+AirDrop Epic Random Loots ( Pixell Studio ) - DLC 92d37d5b-31cc-4d70-9b6d-b133cfe72925
 Rescue Dogs - MUTTS! Add-On ( StacyPlays ) - Addon 9d98b86a-8fe7-4c3a-9e0e-0e3acce66434
+Cherry Furniture ( Waypoint Studios ) - DLC d322aac1-7039-43ae-bbe1-a26fcd372bb7
+Royals ( Magefall ) - DLC dcbda96a-5677-4562-88aa-23484cc32020
 Modern Furniture Add-On ( Levelatics ) - Addon d5f5a641-308f-4400-9ba0-e065f32e3f68
 Legendary Boots ( Diveblocks ) - DLC 48e42911-e139-4f4e-a6ac-80d453851466
+Atlantic Resort ( Project Moonboot ) - DLC 250658cd-86e9-4cdc-8efe-a4d8c4e8cb60
+Abandoned City: Survive 7 Days ( Lifeboat ) - DLC 9adab4c3-beed-4589-8867-03a33d8dfef3
