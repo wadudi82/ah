@@ -4321,7 +4321,7 @@ Giant Bonsai Treehouse ( CrackedCubes ) - DLC e70d1b4b-51bc-470d-b874-0c2e21d8ca
 Wild West Bedwars ( RareLoot ) - DLC 85ec8058-6c98-4e13-94a8-b057e373091f
 Mob Blasters ( Kubo Studios ) - DLC 79bb5e6b-e171-4dff-bcf6-32611c9d4488
 Better Clouds ( Mine-North ) - DLC ef009cbc-d437-48f9-b2ee-f268b9bc1392
-XP Storage Add-Ons ( Snail Studios ) - Addon 784c2b96-14fe-4c5b-9c8d-05375ed874cd
+XP Storage Add-On ( Snail Studios ) - Addon 784c2b96-14fe-4c5b-9c8d-05375ed874cd
 More Ores and Tools ( Netherpixel ) - Addon 2b36d3a3-a83c-4614-92aa-ca83cbee621e
 Becoming Billionaire ( CubeCraft Games ) - DLC 2bd40b70-6e8d-4fe0-b34d-214380a0ce8f
 Cherry Mountain Temple ( CrackedCubes ) - DLC c8eb0970-b339-4e3b-a870-3aa9db5c8b61
@@ -5757,6 +5757,7 @@ Toxicity ( Razzleberries ) - DLC 7726b284-26ad-47bc-a5f7-6fcb9e08a7d0
 Honey Hill Farm ( Imagiverse ) - DLC 94cd9153-3c0b-4a04-ab35-d3d24b1a038c
 Farms ( Shapescape ) - DLC 207bcacf-249b-410e-9556-e75b323a6938
 Touchdown Battle! ( Toya ) - DLC 2c3d7ec6-8624-4f0b-b9ca-5cda0737cbdd
+Sewers of the Giant ( Pathway Studios ) - DLC d322a7a6-d6a2-40f9-8deb-c8f3529a29e0
 Gold Rush Ridge ( Razzleberries ) - DLC 5f1bd3b3-7270-4fc4-a15f-a4c530b3adc7
 Furniture ( Shapescape ) - DLC 33fe4784-5180-4b48-b24f-7454f81dbbad
 Age of the Samurai ( Magefall ) - DLC 48e722a9-3631-42ee-89ee-344fce9c99c0
@@ -5768,6 +5769,7 @@ New Orleans ( Nitric Concepts ) - DLC 856ebb06-9b01-492f-9a14-598496747764
 Spaceship Planet ( BBB Studios ) - DLC f581051b-9c3b-4ed9-9887-c13ab853f9ca
 Dragon Castle Attack ( BBB Studios ) - DLC e9a14441-9e6f-4af7-a1b1-13685f5df2c9
 Anime City ( BBB Studios ) - DLC b3ae8f20-4a3c-422d-b314-b9c0d2186761
+Kingdom Lucky Block ( Black Arts Studios ) - DLC 51a1387a-0887-4621-a576-d10f9f13468f
 ChessCraft ( House of How ) - DLC f44bbd55-6871-4852-be1f-f9b5f591e855
 Flip That House! ( Lifeboat ) - DLC 1cad827f-4a66-4ec4-972a-3ac8d3a3dfc6
 Mission to Mars ( Lifeboat ) - DLC a8862709-06e1-4287-bbc1-2d5797bc9165
@@ -5782,6 +5784,7 @@ Insect Safari ( Netherpixel ) - DLC cc760f82-4ab8-489e-9165-32b48b7dee10
 Lost In The Dark ( Netherpixel ) - DLC ac2423bd-a81f-443b-9ec2-1989c37c2f25
 Minecart Madness ( Podcrash ) - DLC d4d27a36-6304-4d87-8788-3cec7357f313
 Ultimate Sky Survival ( BLOCKLAB Studios ) - DLC 427c2b99-49ae-44f2-9c2c-928410963ac9
+Mega Sky Grid ( 4KS Studios ) - DLC e79f613a-398a-41fb-bf31-866e173c7475
 K-Pop Festival ( Pathway Studios ) - DLC 00dcd833-8980-47ea-bbbc-2672c87caa76
 Creeperville ( Shapescape ) - DLC 1cedadcc-eac0-47bd-a838-516b9e64eba5
 Housing Crisis ( Entity Builds ) - DLC feffd0c3-eb22-4538-a35b-06527e1037d5
@@ -5790,6 +5793,7 @@ Vertical Challenge ( Chunklabs ) - DLC 20d5144f-aee3-4e6f-ac3b-ff4432db1f72
 Asteroid Base ( Lifeboat ) - DLC 37ec9666-495a-4a83-ab3a-c7a2c1375450
 Snowy Mountain Temple ( Shaliquinn's Schematics ) - DLC a071184e-c83c-4e09-a905-95fcfaacffce
 Advanced: Taiga Living ( Fall Studios ) - DLC cfe84137-002c-4374-849c-c32cc0992b32
+Cake Wars ( Podcrash ) - DLC 810c3e92-1cfe-4d05-90d1-f23b544cfc33
 Steampunk City ( Shaliquinn's Schematics ) - DLC a91d3c7c-ceb4-4175-86b5-049f1c59de1e
 Lucky Blocks Skyblock ( Fall Studios ) - DLC 802aa797-3ce0-4404-b4b6-9e62ca92ce32
 The Fall of Stallon Skyblock ( Diveblocks ) - DLC 152d8c91-8c65-4bb6-a22e-9aff98702990
@@ -5821,6 +5825,7 @@ Skyblock Infinite Classic ( VoxelBlocks ) - DLC 50d4f164-6843-4d4c-bae6-615e0d25
 Witch House ( BLOCKLAB Studios ) - DLC 0ed5678e-5d5d-409a-84b7-b8e692840b82
 Weapons ( Block Factory ) - DLC 422f112b-7d6d-4053-9da7-50981ca45e9f
 Winter Mansion ( The Craft Stars ) - DLC a63e5b50-dc7d-4de4-86b5-766605e6010a
+Brightmoor Castle ( Netherpixel ) - DLC 169a85ba-7f54-4de8-b6a5-988d652fa2e5
 City Craft ( RareLoot ) - DLC 26479836-d9ab-4368-8278-087b71e13504
 Flooded Survival ( Nitric Concepts ) - DLC e6f49610-c3e5-4061-9e84-f663add35d0e
 Aztec Bedwars ( RareLoot ) - DLC 33e86be6-44d6-4bd8-9564-32fe09f6dac5
@@ -5839,6 +5844,7 @@ Original Factions Base ( GoE-Craft ) - DLC 7396f937-bbb2-42c8-8da7-9f13eea1911f
 Summer Mobs ( GoE-Craft ) - DLC f2235539-0bb7-4d8e-93e4-fc219b103088
 ANIME WORLD! ( Pickaxe Studios ) - DLC bc810d39-4b10-4e67-9890-a8f006241a74
 Shark Attack-Extreme Survival ( The Craft Stars ) - DLC 8fdee5fb-4923-4476-9eed-4358734243c8
+Survival Base + Loot Boxes 3 ( MrAniman2 ) - DLC 11205a28-8cce-4199-a02b-357f48622a85
 Luckyblock Race ( Pickaxe Studios ) - DLC fff996fb-797f-4f81-9980-ca8a0561fca5
 Rubrick Cube Challenge ( Razzleberries ) - DLC 2b02a7f0-b7a8-48c4-870e-181aa8f4f80b
 Summer Resort ( The Craft Stars ) - DLC d82aa41d-9b54-406d-9905-eaab80c65de7
@@ -5866,7 +5872,9 @@ Super Pumpkins ( The Craft Stars ) - DLC 7c592739-b8d9-43d7-8576-af61f8279ce4
 How to Live Inside a Pumpkin? ( The Craft Stars ) - DLC e4875223-40cb-431f-9206-045b01f54562
 Puppy Town ( Yeggs ) - DLC 6711131d-b9ff-4b62-9599-28cacee74cb5
 Disguise Craft ( Pixelusion ) - DLC 464f68d5-e73f-45f5-b78d-908906d5ec8b
+Red Vs Blue Lucky Blocks ( Snail Studios ) - DLC 35f2810c-ac6a-4a7f-982d-36c6f61d1133
 Bee Block ( Netherpixel ) - DLC 66f5c5ae-057e-4903-b477-cda4740c10f5
+Jetpack Parkour ( Pathway Studios ) - DLC dafac297-fc94-40f8-91d0-2f8cd7d05945
 Tower Defense ( Octovon ) - DLC 81cb7fff-f5a2-4d66-87d4-e4c1dd633e7f
 Zombie Mansion ( GoE-Craft ) - DLC 2a93ca7e-b4cc-435a-b05e-2dd3c0f3b18f
 Bathroom Furniture ( Kreatik Studios ) - DLC c7b3fdad-d715-4487-b848-07ba5a9ad1a0
@@ -5895,7 +5903,9 @@ Anime Weapons ( Block Factory ) - DLC 5c5f9681-55e6-4712-bdcd-273fe2534c4a
 One Block: Chunks ( Snail Studios ) - DLC 05696652-466e-4257-b990-91a6aadc0ea6
 Biome Creepers ( HeroPixels ) - DLC 253e34b0-af1c-472e-a429-1a7cceee13f3
 City Lucky Block Race ( Waypoint Studios ) - DLC 5d4ddc54-ca0a-417e-b0a8-562f7a1b9c0f
+Mob TNT ( Levelatics ) - DLC ae172a50-8459-4b17-a99f-8fe3dd83b14a
 Mountain Retreat ( Impulse ) - DLC 9a8838d7-7758-4218-920a-9756ba985ec5
+Guards Weapons ( RareLoot ) - DLC f3eac4f2-128b-49c3-afdc-31fa9ebbd196
 Modern City ( Razzleberries ) - DLC 693d6097-b970-4051-a5b8-728cf6247809
 Arcade Parkour ( Logdotzip ) - DLC 6d95b211-a26f-4a51-8b87-24814505c67d
 More TNT ( Meraki ) - DLC ab802326-833c-49f4-ad7e-c42aa3a37010
@@ -5912,23 +5922,30 @@ Raft Machines ( Volcano ) - DLC 9cc887e8-6df9-4bac-b558-b7695c65a628
 30 Bows ( Vatonage ) - DLC b1398d96-ff7b-4e1d-8914-e6ba1530600e
 Captive One Block ( AquaStudio ) - DLC 381343fb-c310-4968-8688-0fa57ae82081
 More Animals ( Mine-North ) - DLC ff99d93b-adff-4aa3-92e2-966edddc16dc
+Lucky Block Maze Escape ( Pixelusion ) - DLC d7e6f6b8-6040-4e54-b4ec-f1856ce7753e
 Mega City ( Razzleberries ) - DLC bddb490b-f985-4ea4-865c-1195b9e731a8
 One Block: Falling Blocks ( Cubed Creations ) - DLC fb8df171-015e-4ccd-a04d-70dbcbb35694
+Beachhouse ( Diamond Studios ) - DLC 1523e819-bde1-45df-8f68-57b3056347cf
 Magic Block ( Cypress Games ) - DLC f48c0ead-f67d-4e8a-85fe-b3ef5c8de883
 Dragon Bed Wars ( MobBlocks ) - DLC d5c6ab0c-67b0-45eb-aeb0-faddba119a3a
 Water Tools ( ChewMingo ) - DLC 412e17e4-36ec-4958-953c-aef01a22fadd
 BUNKER BASE 100 DAYS! ( ChewMingo ) - DLC 201685c8-27ee-47fc-aaab-a872b3120132
 Weapons Expansion ( Razzleberries ) - DLC 3930089c-d24d-4dbf-9910-72a758ab068f
+One Block Hacker ( Volcano ) - DLC 7b59e536-c8f9-4c04-aadf-06f284e25d0f
 Japanese Mansion ( Plank ) - DLC 4a316a61-b1ce-432d-8318-dd93c2e81cca
 Flip Parkour ( Cynosia ) - DLC 256401aa-4829-4d7c-ab31-aeee6096750c
 Elytra Flight Challenge ( 5 Frame Studios ) - DLC 0b0eaa41-50f5-4bb2-a386-612ecbd75b5d
 The Loony Adventure ( 5 Frame Studios ) - DLC 4879c386-e91e-4283-acdc-a52e7e247afe
 Survival Island ( Wonder ) - DLC 583d2e94-4ea7-46fc-8bf7-4fcecbbac17d
+Rainbow Parkour Tower ( RareLoot ) - DLC 9c2eca92-1623-4011-a6a6-5c4f82d5f5f8
+Millionaire City Lifestyle ( Waypoint Studios ) - DLC 0b469d7a-b7c2-42ad-9139-ef9e2401ffe1
 Lucky Pumpkins ( Minty ) - DLC 1facdf7b-caf4-4d79-81c9-28a5a6677f7c
 Blasters ( Pixelusion ) - DLC 76332c6e-c135-40e7-821b-55b67d812e42
 CUSTOM HEARTS! ( Cubed Creations ) - DLC 224a3f00-3826-404d-9903-685135a42662
 100 Days Robot Apocalypse ( KA Studios ) - DLC d9cd44dd-8229-412b-9bcf-3cc6723edede
+Prison Survival ( Chillcraft ) - DLC 2226d39e-638c-4a80-8d07-e73b5129344a
 Hacker Village ( Pixelusion ) - DLC 13d21cf6-feac-48ae-821b-9dfb5c1b2fb2
+Mixed Mob Morph ( Cubed Creations ) - DLC fd494a04-085a-4dc9-b104-259c320f4af3
 More Camels ( Dig Down Studios ) - DLC c305a7ff-6f6e-4eb8-8fb1-8028395cb512
 Crops are Items ( GoE-Craft ) - DLC c394d85f-59d7-4a57-a88e-a51fd6063d69
 Iron Golem Village ( The Craft Stars ) - DLC 29670e7d-1bee-4c15-bffd-f3756c67f935
@@ -5937,13 +5954,16 @@ Random Recipes ( Pixell Studio ) - DLC 97daa74e-98e5-40fd-88f5-5a2e6df68ae2
 Warden Base ( 4KS Studios ) - DLC 341a08dc-6e4c-4fd8-ae39-4999791aed03
 Piglin Apocalypse ( CubeCraft Games ) - DLC 7c32c825-962f-4ff5-a25d-64382057c248
 City of Newisle ( Waypoint Studios ) - DLC 40c35d26-f87a-49c5-9626-abd1695bae9a
+Plane Crash ( Waypoint Studios ) - DLC e8b59e36-0696-4a16-a173-52eff5cc627c
 Skyblock Random Zombie Attack! ( In Mine ) - DLC be55b62b-b6e3-481c-b05c-e39d5f2769b8
 Cave Parkour ( AquaStudio ) - DLC 6d1ed827-3277-4c24-b0a0-78fdbc8983cc
 Danger Rooms ( The Rage Craft Room ) - DLC a0f83bb0-ce68-4479-971e-053c056a921c
 Sci-Fi Security ( 4KS Studios ) - DLC b6744d5f-9b44-47ab-9e19-ab66ff13bd5c
+Castle of Doom ( Pathway Studios ) - DLC 01975282-81b3-4c1f-a477-af10ec09afac
 AirDrop Epic Random Loots ( Pixell Studio ) - DLC 92d37d5b-31cc-4d70-9b6d-b133cfe72925
 Rescue Dogs - MUTTS! Add-On ( StacyPlays ) - Addon 9d98b86a-8fe7-4c3a-9e0e-0e3acce66434
 Cow Expansion ( ASCENT ) - DLC 657d849d-9af6-4d77-b28d-98221463423e
+Capitol Hill ( Shapescape ) - DLC daa05cd9-4779-46e4-9079-0076354b906f
 Secret Sanctuary ( Misfits ) - DLC 76fd8054-3f88-44fe-8aa7-32823d15b78c
 DetectOre Add-On ( Jigarbov Productions ) - Addon 511cccbf-5a78-4d2e-a6c9-6ecd60150021
 More Custom Blocks Add-On ( MrAniman2 ) - Addon ee10e97f-0196-404b-9c7f-8b8cb922cfc6
@@ -5983,11 +6003,14 @@ Lumber Tycoon 2 ( DeliSoft Studios ) - DLC 950c11ef-4c07-4844-b94e-0ec122e978e5
 Mob Dragons ( Syclone Studios ) - Addon c6d6811a-402f-4d2f-9731-46cedb3f7661
 CANDY LAND ( Team VoidFeather ) - DLC 3873ff45-aed0-4aa7-9c94-0594aa750253
 Rome ( Magefall ) - DLC 84546b74-b86f-498f-a7df-bc1eb4b62b9c
+Changer Bots Craftable DX ( Lifeboat ) - DLC 039771b4-88b7-4c53-a243-1690560ed3e7
 Morph Into Mutants ( Cubed Creations ) - DLC 28788578-9447-481b-95d2-1e57d8d112d1
 Become a Villager ( Lifeboat ) - DLC 46f906e8-c4dd-4e1f-93ca-ff8f2dc56e8a
 Weapons Armors Tools ( Cypress Games ) - Addon cdcffd15-d01a-4186-a3b5-2214455ac21d
 Cruise Super Luxury ( Team VoidFeather ) - DLC 8cb60d9c-fc86-4033-b4eb-34b37dadfed4
 Rustic Log Mansion ( CrackedCubes ) - DLC c837d6c5-b86a-4118-bf21-fe046817138a
+Scary Add-on ( Snail Studios ) - Addon eb215fbe-8b0c-4b13-bd9b-b704cf1c148d
 Escape the Monster ( Waypoint Studios ) - DLC 4a92b220-e93f-487b-8077-015c228beb67
 Safest Mansion! ( Dodo Studios ) - DLC 1da4e872-e15a-4924-b3b0-5edcfbe231cc
+HIDE AND SEEK IN THE CASTLE ( Team VoidFeather ) - DLC fd9f08d7-dc11-4da8-8ede-edf08e7dfbb9
 Transformers ( Syclone Studios ) - DLC 9b2f5477-8845-4912-9c07-da0e876cd5b9
