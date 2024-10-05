@@ -6027,6 +6027,7 @@ HIDE AND SEEK IN THE CASTLE ( Team VoidFeather ) - DLC fd9f08d7-dc11-4da8-8ede-e
 Transformers ( Syclone Studios ) - DLC 9b2f5477-8845-4912-9c07-da0e876cd5b9
 DWELLERS Add-On ( Panascais ) - Addon 2e5049f1-cf17-4fba-b60d-d1d92284e3bc
 Fallen Titan ( Cyclone ) - DLC 2cb0976c-468e-44ce-9fed-5d3bc1fcdd42
+Ultimate Pig Race ( Everbloom Games ) - DLC f10fbe06-91fe-4776-9e12-0684bae92687
 Pirate Story ( Noxcrew ) - DLC 34d322e8-0086-4f45-8f76-a742aeca50e8
 Area 51 Alien Invasion ( Razzleberries ) - DLC 3fafb92f-cba0-4b10-8d57-2c73bd2dc84a
 Christmas at Trafalgar ( Shapescape ) - DLC d7fa0729-9a37-4e0d-88cb-d9e52170f081
@@ -6046,12 +6047,15 @@ Little Mobs Paradise ( Piki Studios ) - DLC 62683147-0611-449b-ae18-a19a0773aa33
 Hidden Mountain Bunker ( Razzleberries ) - DLC 31fd66cf-1f06-4dce-be88-1a66acde6dec
 Modern Sky Survival ( BLOCKLAB Studios ) - DLC 68150b6d-10f9-4fdd-9743-6f6ac698e7fd
 Zombie Apocalypse ( Fall Studios ) - DLC 4f6c1110-45e8-4271-bd62-5175d5ee33bf
+Netherite Castle ( Odyssey Builds ) - DLC f379f106-e802-4442-a3eb-854d83fc3c4b
+Skyblock Extreme Tools ( Fall Studios ) - DLC 158233f6-0d51-4b84-b227-6ce195589ca3
 Giant Lucky Block Skyblock ( Pixelusion ) - DLC 069321ab-20f7-4283-b88e-dffef34a11b1
 Furniture: Modern School ( Kreatik Studios ) - DLC 616e701e-b2e1-4759-bc11-4abb49e8b0dc
 Ultimate Creepers ( RareLoot ) - DLC 4bb7121f-5aca-4c35-bed7-992685776c7b
 Every drop is random ( Fall Studios ) - DLC 31013d90-a79c-4715-847c-a76f8001ef36
 Secret Hacker Bunker ( Diamond Studios ) - DLC 9598e8c8-c26c-4cda-9ec6-d31ab6617a43
 CRAFTING MOB DISGUISES! ( Chunklabs ) - DLC 0c74a9d5-6e7f-4459-9da3-143bbaef3518
+Mega Village ( Lifeboat ) - DLC 8be20c3b-0d67-430c-ae9c-f67e0fbdcd03
 100 Days Raft Survival ( Dodo Studios ) - DLC 77a9695e-23d0-49a6-8fc9-45b322e4c8ac
 Lucky Block Mansion ( Odyssey Builds ) - DLC 28df3008-d9b4-4a16-be2d-8a949201fcc0
 100 Days Skyblock: Zombies ( Team VoidFeather ) - DLC 3016e03e-9ddf-4172-bad2-cd3177c00e11
@@ -6064,6 +6068,8 @@ Villagers vs. Wither ( Lifeboat ) - DLC 63f1fb8d-f861-4e84-910b-04bef4b490b4
 Hacker Base 2.0 ( BLOCKLAB Studios ) - DLC 2b4a638a-723c-4ba8-a932-fb10a1d5cc12
 Secret Base ( Waypoint Studios ) - DLC a74badd4-4b88-4d45-84af-34979a8a4193
 Ice Raft Survival ( BLOCKLAB Studios ) - DLC 53997202-118a-47e6-a37a-4c61fbaf0a46
+Spooky Town ( Eescal Studios ) - DLC b4500a1e-8f5c-4e6f-b1b2-1d3ed54ab25d
+Cruise Ship - Aurora ( GoE-Craft ) - DLC 215993df-fdd5-4376-949e-eafdb171929a
 Wolves Plus Add-On v5.0.3 ( JWolf Creations ) - Addon 9dc8c058-d5ab-417f-bd55-4c277f5021aa
 Helpful Pets! ( Some Game Studio ) - Addon e85d92f6-233e-48a4-8e5c-08804781ddc5
 Modern Furniture Add-On 1.0 ( Tsunami Studios ) - Addon 84556aa3-86f0-4d00-a8e1-bfb5f957539a
@@ -6073,5 +6079,8 @@ More Creatures Add-On ( Loose Screw ) - Addon e5437d8e-dc8b-4548-ba3e-693e55c9e2
 Jetpacks Add-On ( Octovon ) - Addon c03cf688-8750-4653-97a5-b6b1292ab153
 Dinosaurs Add-On ( Pixelbiester ) - Addon 94864745-5a54-4daf-899e-fbbe21f0142d
 Armor Add-On ( 5 Frame Studios ) - Addon a70d9fc9-1ebb-42ae-97f0-5b1b1cfd680c
+WARDEN EVOLVE ( HorizonBlocks ) - DLC 1c2429d9-d868-4deb-a993-f608e0377c01
+ULTRA Mob Totems [DX] ( Logdotzip ) - DLC 56f7f1f8-d05a-416e-9299-e83275184c3a
 SCP Escape Room ( RareLoot ) - DLC 4ba4e1d0-12a4-43a0-845d-3fc2febecbf3
 FarmCraft Add-on ( Entity Builds ) - Addon 63f10f3e-d1c4-4b33-9803-41e856495527
+Be A Dinosaur! ( Street Studios ) - DLC 65795341-ae31-4c2b-b2dd-25be75d30780
