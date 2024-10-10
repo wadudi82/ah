@@ -6087,6 +6087,7 @@ Secret Skyblock Bunker ( Cubed Creations ) - DLC a2ad32b5-f4e6-4b87-bfba-6d3de04
 Modern Hacker Mansion ( Lore Studios ) - DLC f3fe9346-a4a4-4d19-ad13-e0af94eab23a
 Villagers vs. Wither ( Lifeboat ) - DLC 63f1fb8d-f861-4e84-910b-04bef4b490b4
 Hacker Base 2.0 ( BLOCKLAB Studios ) - DLC 2b4a638a-723c-4ba8-a932-fb10a1d5cc12
+SAFEST BASE ( Kubo Studios ) - DLC b6f42b2b-a178-4357-bfe4-54f3dd88b317
 Morph Into TNT ( Cubed Creations ) - DLC 3357ab2c-a414-482f-aa3a-55b432acb86b
 Ultimate Airplanes ( Street Studios ) - DLC 20905823-b542-4787-b8c9-3cb64e0e1c59
 Life in Paris ( The Craft Stars ) - DLC 9fb5ee86-ea32-4ffa-8e92-f5f2a432de3e
@@ -6118,3 +6119,4 @@ Be A Dinosaur! ( Street Studios ) - DLC 65795341-ae31-4c2b-b2dd-25be75d30780
 More Maces ( Chillcraft ) - Addon c04cf6e0-0c52-459c-9b63-3d84ba21b719
 Plushies ( Scai Quest ) - Addon 39600c3f-6b46-4ae4-862f-d5f1f85a12fe
 Realistic Biomes Add-On 1.0 ( Oreville Studios ) - Addon 2249c366-c812-4fe5-a6ec-abe9d6bea6bc
+James Web Space Telescope ( Minecraft ) - DLC be200f3a-b3ec-422a-a237-b9d5cf7f246b
