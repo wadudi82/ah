@@ -6092,12 +6092,14 @@ Ultimate Airplanes ( Street Studios ) - DLC 20905823-b542-4787-b8c9-3cb64e0e1c59
 Life in Paris ( The Craft Stars ) - DLC 9fb5ee86-ea32-4ffa-8e92-f5f2a432de3e
 Secret Base ( Waypoint Studios ) - DLC a74badd4-4b88-4d45-84af-34979a8a4193
 Ice Raft Survival ( BLOCKLAB Studios ) - DLC 53997202-118a-47e6-a37a-4c61fbaf0a46
+FURNITURE CRAFTABLE Add-On ( Nitric Concepts ) - Addon 7e50823b-8399-42f1-b8bf-2a70ebb58591
 Spooky Town ( Eescal Studios ) - DLC b4500a1e-8f5c-4e6f-b1b2-1d3ed54ab25d
 Cruise Ship - Aurora ( GoE-Craft ) - DLC 215993df-fdd5-4376-949e-eafdb171929a
 Wolves Plus Add-On v5.0.3 ( JWolf Creations ) - Addon 9dc8c058-d5ab-417f-bd55-4c277f5021aa
 CASTLE SIEGE ( Minty ) - DLC b5b8d64b-ff0f-47d9-aea3-3bd5a001b917
 Helpful Pets! ( Some Game Studio ) - Addon e85d92f6-233e-48a4-8e5c-08804781ddc5
 Biome Parkour ( Waypoint Studios ) - DLC ba0ddf99-63b5-4b0b-a576-9351ab74c6b1
+Craftable Bases ( The Craft Stars ) - Addon ffaee677-2f76-4465-a460-6ed95706a238
 Modern Furniture Add-On 1.0 ( Tsunami Studios ) - Addon 84556aa3-86f0-4d00-a8e1-bfb5f957539a
 Modern Furniture Add-On ( Lothiredon ) - Addon bdc8d574-0843-472a-b137-352de5200dbd
 Cats And Dogs Add-On! ( Street Studios ) - Addon 65ce3c5f-7797-4afd-8e4a-5d279becc28d
@@ -6106,9 +6108,13 @@ Jetpacks Add-On ( Octovon ) - Addon c03cf688-8750-4653-97a5-b6b1292ab153
 BATTLE ROYALE ( Pickaxe Studios ) - DLC 1e559aff-beb2-45a5-8c64-016e8ae7cf74
 Dinosaurs Add-On ( Pixelbiester ) - Addon 94864745-5a54-4daf-899e-fbbe21f0142d
 Armor Add-On ( 5 Frame Studios ) - Addon a70d9fc9-1ebb-42ae-97f0-5b1b1cfd680c
+Train Your Dragon Add-on ( Pixell Studio ) - Addon 7467584a-1741-409c-bb7b-aaa37e8feb36
 WARDEN EVOLVE ( HorizonBlocks ) - DLC 1c2429d9-d868-4deb-a993-f608e0377c01
 ULTRA Mob Totems [DX] ( Logdotzip ) - DLC 56f7f1f8-d05a-416e-9299-e83275184c3a
 SCP Escape Room ( RareLoot ) - DLC 4ba4e1d0-12a4-43a0-845d-3fc2febecbf3
+More Creepers Add-On ( Heropixel Games ) - Addon e7512a56-e3c8-4298-b99c-d64ffb845ea6
 FarmCraft Add-on ( Entity Builds ) - Addon 63f10f3e-d1c4-4b33-9803-41e856495527
 Be A Dinosaur! ( Street Studios ) - DLC 65795341-ae31-4c2b-b2dd-25be75d30780
 More Maces ( Chillcraft ) - Addon c04cf6e0-0c52-459c-9b63-3d84ba21b719
+Plushies ( Scai Quest ) - Addon 39600c3f-6b46-4ae4-862f-d5f1f85a12fe
+Realistic Biomes Add-On 1.0 ( Oreville Studios ) - Addon 2249c366-c812-4fe5-a6ec-abe9d6bea6bc
