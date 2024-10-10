@@ -6408,3 +6408,5 @@ ffaee677-2f76-4465-a460-6ed95706a238	f92c9eb3-0dfb-4bb0-b12e-bf62045a2c6e	resour
 2249c366-c812-4fe5-a6ec-abe9d6bea6bc	631f88b9-fd5a-45ad-8ecc-c3f9426ec5c5	resourcepack	fX3vJVfiXkLzrMKXmlnwfihtXjfRqET8
 7e50823b-8399-42f1-b8bf-2a70ebb58591	1acf1d2a-7e3a-1be2-fa01-8158303116e5	behaviorpack	aC7ieYz2UFruzhz8uZbVeUVSPikLHhip
 7e50823b-8399-42f1-b8bf-2a70ebb58591	3f26ae22-d4e3-1247-bc3e-169e98e68328	resourcepack	eU2dmABJsu9uxhTTK9w9egTErtwpJsXJ
+b6f42b2b-a178-4357-bfe4-54f3dd88b317	8ab7386a-baf1-4fed-bbf6-6603ffd80255	world_template	vW4BE9UJ9kI2aOQNPniztaudURqfUxot
+be200f3a-b3ec-422a-a237-b9d5cf7f246b	9cc0ae79-16c0-45b8-9da0-34934f9011ba	world_template	kS6aK0PhZ6bgFE74ZNiOGxXANwzKzlNU
