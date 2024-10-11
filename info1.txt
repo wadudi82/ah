@@ -5464,7 +5464,7 @@ The Uncrafter ( Ninja Squirrel Gaming ) - Addon 6f896857-b23d-4a92-82f8-00a49f94
 Advanced Power Suits Add-On ( Wonder ) - Addon a3b1749b-5cc2-4bc0-83cc-1abfdfc07dfd
 UNICORNS ( Wonder ) - DLC 103f4695-ab81-42ba-b0e6-4f410f2284ed
 Bike Hills ( Street Studios ) - DLC e8c19514-2b4d-4be5-8b74-1a2c99e5b4d7
-Dragons Add-On ( Venift ) - Addon 488351d9-6d5c-4f07-93fd-4954f4442b90
+DRAGONS Add-On ( Venift ) - Addon 488351d9-6d5c-4f07-93fd-4954f4442b90
 VOID TOOLS ( ChewMingo ) - DLC d9dc16d4-6f49-4a33-ae84-bca78b03fb08
 PRANKS ( ChewMingo ) - DLC 32a0f6a1-f743-46a5-b644-dd59963a6064
 Mega Cruise Ship ( The Craft Stars ) - DLC 4de0a85c-e81c-43cf-ba0f-69ff87c64346
@@ -6035,9 +6035,11 @@ Christmas at Trafalgar ( Shapescape ) - DLC d7fa0729-9a37-4e0d-88cb-d9e52170f081
 Valentine's Delivery Service ( Shapescape ) - DLC fbdb3903-28ff-4be6-a428-1288e8193bbb
 DOMINATORS ( Razzleberries ) - DLC 9da85bf0-2c1c-477b-a3e8-55b222ae8c40
 Mine Rescue ( Cyclone ) - DLC 70925d95-d722-417f-b06c-cf47f492fc13
+Forest Village ( Shaliquinn's Schematics ) - DLC 74b06ea4-fc36-4ef0-b9d5-c55d92b153dc
 SMASH ( Pathway Studios ) - DLC 8df20e0f-0722-4e85-a3a2-94e10061449c
 Lucky Blocks: Gifts ( Spark Universe ) - DLC 6371cc45-1b32-4d91-9325-1290a8a176e7
 Scary Castle ( Norvale ) - DLC 2e61ae67-f269-40e8-8e7e-989b6ef3301d
+Mysterious Fairy Forest ( Shaliquinn's Schematics ) - DLC 636e19ed-a6ea-4c3e-a706-418ea2486d81
 Random Mob Sizes: Mega & Mini ( Cubed Creations ) - DLC 2fa138b3-92f5-458c-b407-e239825f898e
 France Paris ( Mine-North ) - DLC 7f10e60c-1671-42ee-9c48-b643cb52388e
 Magic Kingdom ( In Mine ) - DLC 1a499b14-39b3-477b-a1b9-216204b0e878
@@ -6057,6 +6059,8 @@ Rat In The Kitchen ( MobBlocks ) - DLC a77a3017-ba98-4f61-95b5-a1ca4a4ee7ba
 Zombie Apocalypse ( Fall Studios ) - DLC 4f6c1110-45e8-4271-bd62-5175d5ee33bf
 Craftable Secret Bases ( 4KS Studios ) - DLC d9ad8481-9c8b-420d-b6dc-0e919c67e248
 Netherite Castle ( Odyssey Builds ) - DLC f379f106-e802-4442-a3eb-854d83fc3c4b
+Elven Forest ( RareLoot ) - DLC e7dfef66-be7c-4297-ac44-0e168d5c52f4
+Simple Spawns Waterfall Palace ( Razzleberries ) - DLC 0ca84869-1511-43aa-a59d-20db1263a9d5
 SKYBLOCK 100 Days! ( Pickaxe Studios ) - DLC 99017675-218b-4cf8-90c1-24a0bc49900f
 Off-Road Trucks ( Lifeboat ) - DLC 6c02bb0f-60ce-45e9-8ac5-efe513ff838b
 Skyblock Extreme Tools ( Fall Studios ) - DLC 158233f6-0d51-4b84-b227-6ce195589ca3
@@ -6081,7 +6085,10 @@ Island Mansion ( 5 Frame Studios ) - DLC 849151c5-265e-4856-9b98-3f2f7483b9ee
 MIAMI ( Sapphire Studios ) - DLC a7508d0b-c3d7-49f8-ba12-cc9da662480a
 Press The Button! ( Block Perfect Studios ) - DLC bb0ca8ec-52a6-4086-8437-3632812fd876
 Hacker Base ( Cynosia ) - DLC 6364cb56-e21d-4ce4-9822-6ea343111c97
+Tropical City ( Street Studios ) - DLC 3d0c389b-12b8-4fad-97d5-5de4e6ea0486
+Candy Bed Base ( Cynosia ) - DLC adb5e9c2-41f5-4dbe-90fa-7100129a03b0
 Construction & TNT ( Lifeboat ) - DLC 52806e93-e604-4e3b-b1a6-e8e42a01a61a
+More Mob Heads ( Lifeboat ) - DLC 72254cdc-6f77-432e-81f9-6627ca3a1784
 Secret UFO Base ( Cynosia ) - DLC 98d85f96-00fb-4126-8e9a-21d71d4892d2
 Secret Skyblock Bunker ( Cubed Creations ) - DLC a2ad32b5-f4e6-4b87-bfba-6d3de049bdae
 Modern Hacker Mansion ( Lore Studios ) - DLC f3fe9346-a4a4-4d19-ad13-e0af94eab23a
@@ -6110,13 +6117,22 @@ BATTLE ROYALE ( Pickaxe Studios ) - DLC 1e559aff-beb2-45a5-8c64-016e8ae7cf74
 Dinosaurs Add-On ( Pixelbiester ) - Addon 94864745-5a54-4daf-899e-fbbe21f0142d
 Armor Add-On ( 5 Frame Studios ) - Addon a70d9fc9-1ebb-42ae-97f0-5b1b1cfd680c
 Train Your Dragon Add-on ( Pixell Studio ) - Addon 7467584a-1741-409c-bb7b-aaa37e8feb36
+Block Blaster Add-On ( AriaCreations ) - Addon fe8fcade-c770-4756-98d2-353529a13590
+WEAPONS Add-On ( Dodo Studios ) - Addon 529c889e-9224-4ddb-8b5b-285818d0f1fe
+MINERS++ Add-On ( Cubical ) - Addon 87ee3849-165f-4b4f-882b-ccf120d97dec
 WARDEN EVOLVE ( HorizonBlocks ) - DLC 1c2429d9-d868-4deb-a993-f608e0377c01
 ULTRA Mob Totems [DX] ( Logdotzip ) - DLC 56f7f1f8-d05a-416e-9299-e83275184c3a
+Escape the Cornfield ( Pathway Studios ) - DLC 61ebafa2-5717-43d4-b74d-c0e26fa385b6
 SCP Escape Room ( RareLoot ) - DLC 4ba4e1d0-12a4-43a0-845d-3fc2febecbf3
 More Creepers Add-On ( Heropixel Games ) - Addon e7512a56-e3c8-4298-b99c-d64ffb845ea6
+Many Dogs ( Galaxite ) - Addon de6194ea-5e0c-4762-a770-ade072831b0c
 FarmCraft Add-on ( Entity Builds ) - Addon 63f10f3e-d1c4-4b33-9803-41e856495527
 Be A Dinosaur! ( Street Studios ) - DLC 65795341-ae31-4c2b-b2dd-25be75d30780
 More Maces ( Chillcraft ) - Addon c04cf6e0-0c52-459c-9b63-3d84ba21b719
+BACKBLINGS+ Add-On 1.0 ( BLOCKLAB Studios ) - Addon 7a7dc34b-5633-4527-88fa-3661eaa6771e
+Cute Family Suburbs ( Nitric Concepts ) - DLC 966620fc-164a-4240-b1ff-5108eabcd1ef
+Raft Survival ( Dalibu Studios ) - DLC 26e6c7fe-1ff1-49b8-b9db-c17ca3e3a175
 Plushies ( Scai Quest ) - Addon 39600c3f-6b46-4ae4-862f-d5f1f85a12fe
 Realistic Biomes Add-On 1.0 ( Oreville Studios ) - Addon 2249c366-c812-4fe5-a6ec-abe9d6bea6bc
+Cute 32x ( MelonBP ) - TexturePack bdd77884-c73e-4c45-930e-7c353e6ab533
 James Web Space Telescope ( Minecraft ) - DLC be200f3a-b3ec-422a-a237-b9d5cf7f246b
