@@ -6116,6 +6116,7 @@ More Zombies ( HeroPixels ) - DLC e0973a16-db00-4e93-9572-851725bae1c4
 Modern House ( Wonder ) - DLC 7b7ac216-ff2b-4240-8b38-9ea63b706813
 Ultimate Pillager Outpost ( CrackedCubes ) - DLC 3e4d7f20-354d-4091-971d-04e5b642652f
 Mining Tycoon ( Vatonage ) - DLC fbb9e245-d8b5-42f2-8274-ba823ae9988a
+UHC Lucky Blocks ( Pixelusion ) - DLC fd26c0c0-bc6b-4063-a2f8-99e948bd3f32
 Mesa Sci-Fi Base ( CrackedCubes ) - DLC 91507c78-c3cf-46d2-9ff4-5777b5ac8ad2
 Lucky Block Heroes ( Senior Studios ) - DLC 03e8a524-2837-49f3-b834-dcac9cfb6d9a
 MOBS VS MOBS ( Dig Down Studios ) - DLC 929edaf3-cb85-4400-9a58-d64ed1de83ec
@@ -6123,6 +6124,7 @@ Find The Button ( Dig Down Studios ) - DLC 8eed6c78-813d-43ef-9ec4-4f0bf5b8904c
 Cake Shop ( DeliSoft Studios ) - DLC 91925c8d-5ebd-4fd9-bee4-b8f13dfe0ffb
 Regen Disabled ( CrackedCubes ) - DLC 99c0f373-f050-4e9a-8246-0b01a5ac882c
 Cute Farm ( Pixelbiester ) - DLC dc75020f-5af4-4cc2-96fb-2b8f83fab5c9
+Better Mobs ( RareLoot ) - DLC 13cfa63e-ee5a-4a36-8758-380a30981f10
 Island Mansion ( 5 Frame Studios ) - DLC 849151c5-265e-4856-9b98-3f2f7483b9ee
 Prison! ( Pixelusion ) - DLC ad738140-84aa-44a2-ba06-c4dab452311a
 MIAMI ( Sapphire Studios ) - DLC a7508d0b-c3d7-49f8-ba12-cc9da662480a
@@ -6135,11 +6137,15 @@ Candy Bed Base ( Cynosia ) - DLC adb5e9c2-41f5-4dbe-90fa-7100129a03b0
 Lucky Block Skyblock ( Cubed Creations ) - DLC 0b59e9bc-7c63-4035-9b60-63d0280eae08
 Construction & TNT ( Lifeboat ) - DLC 52806e93-e604-4e3b-b1a6-e8e42a01a61a
 Captive Survival 2.0 ( HorizonBlocks ) - DLC a7f84406-76d1-467b-9e88-49801f542a47
+Scarecrow Search Party ( Block Perfect Studios ) - DLC 22b08394-2b18-4ca1-ab9c-28917bc17e86
+OP BOMB ( Razzleberries ) - DLC 14788b9a-d45d-4fac-88d0-4117a1e46379
 More Mob Heads ( Lifeboat ) - DLC 72254cdc-6f77-432e-81f9-6627ca3a1784
+Modern Furniture ( Cubed Creations ) - DLC e9508239-3d03-4f90-a4aa-3a1b1bd75d15
 Random Chunks ( Senior Studios ) - DLC ee5dca80-61a5-45b5-9f43-b5428fcab2c4
 Secret UFO Base ( Cynosia ) - DLC 98d85f96-00fb-4126-8e9a-21d71d4892d2
 Secret Skyblock Bunker ( Cubed Creations ) - DLC a2ad32b5-f4e6-4b87-bfba-6d3de049bdae
 Green Light Red Light Survival ( BLOCKLAB Studios ) - DLC e5170d3b-b588-4bbf-8c7d-119a98f8c765
+Halloween Mansion ( Dig Down Studios ) - DLC ddcb7464-5666-466c-b817-f93484e24a1a
 It Rains XP ( Chillcraft ) - DLC f53ddd98-943f-4121-87b3-7055822d5624
 CUSTOM HEARTS EVOLVE ( Kreatik Studios ) - DLC 22f0e97e-adde-4d9a-86be-4426ef498433
 Modern Hacker Mansion ( Lore Studios ) - DLC f3fe9346-a4a4-4d19-ad13-e0af94eab23a
@@ -6153,8 +6159,10 @@ Fast Food Simulator ( Lifeboat ) - DLC df51ac0b-48d2-4265-8e41-0ba49eb6bc65
 Secure Desert Village ( 5 Frame Studios ) - DLC 691cc58f-89b2-4884-9e5d-106283566ba8
 Morph Into TNT ( Cubed Creations ) - DLC 3357ab2c-a414-482f-aa3a-55b432acb86b
 Ultimate Airplanes ( Street Studios ) - DLC 20905823-b542-4787-b8c9-3cb64e0e1c59
+Weapon Bundle ( Cubed Creations ) - DLC 267f1be7-d656-46d8-a2f5-7f6af2498521
 Life in Paris ( The Craft Stars ) - DLC 9fb5ee86-ea32-4ffa-8e92-f5f2a432de3e
 Secret Base ( Waypoint Studios ) - DLC a74badd4-4b88-4d45-84af-34979a8a4193
+Cute Pets ( Eescal Studios ) - DLC 7a288d59-4467-4bc4-aae7-26d2cc3e4847
 100 ZONES PARKOUR ( MelonBP ) - DLC a6e7f821-f7a5-4ca5-8b39-8386d083f794
 Security Base ( Block Factory ) - DLC 2a076e02-3a87-48f1-8ad7-cf4acd0ee5ec
 Ice Raft Survival ( BLOCKLAB Studios ) - DLC 53997202-118a-47e6-a37a-4c61fbaf0a46
@@ -6172,15 +6180,19 @@ Modern Furniture Add-On 1.0 ( Tsunami Studios ) - Addon 84556aa3-86f0-4d00-a8e1-
 Modern Furniture Add-On ( Lothiredon ) - Addon bdc8d574-0843-472a-b137-352de5200dbd
 Cats And Dogs Add-On! ( Street Studios ) - Addon 65ce3c5f-7797-4afd-8e4a-5d279becc28d
 More Creatures Add-On ( Loose Screw ) - Addon e5437d8e-dc8b-4548-ba3e-693e55c9e293
+Skyblock Base ( Blue Depth Games ) - DLC 5492d9a2-98b1-41d9-b182-cc9d773a0e8f
 Jetpacks Add-On ( Octovon ) - Addon c03cf688-8750-4653-97a5-b6b1292ab153
 BATTLE ROYALE ( Pickaxe Studios ) - DLC 1e559aff-beb2-45a5-8c64-016e8ae7cf74
 Dinosaurs Add-On ( Pixelbiester ) - Addon 94864745-5a54-4daf-899e-fbbe21f0142d
 Survival Island Base ( Misfits ) - DLC f929740f-0c3e-44eb-a879-7ac70123d92e
 Armor Add-On ( 5 Frame Studios ) - Addon a70d9fc9-1ebb-42ae-97f0-5b1b1cfd680c
+Block Hammers Add-On ( Lifeboat ) - Addon cf0b1124-c1a4-4129-a534-4f0a75343b2b
 Train Your Dragon Add-on ( Pixell Studio ) - Addon 7467584a-1741-409c-bb7b-aaa37e8feb36
 Block Blaster Add-On ( AriaCreations ) - Addon fe8fcade-c770-4756-98d2-353529a13590
 Tools ( Misfits ) - Addon 7966a90b-309c-4581-a651-05debf0d93ab
 COMBINE ITEMS! Add-On ( Chunklabs ) - Addon b05925df-68bc-4e9c-bd60-023a3e78b8bd
+Ninja Weapons ( Cubed Creations ) - DLC 2895358f-528a-482e-8bbf-4a5fee19bfe6
+HERO PETS! ( Wonder ) - DLC a98a3580-a4d8-4496-8b7d-0d2951977397
 Crafty Creepers Add-On ( Polymaps ) - Addon 0ab43436-8fce-4bbd-9746-e84a80cb4925
 WEAPONS Add-On ( Dodo Studios ) - Addon 529c889e-9224-4ddb-8b5b-285818d0f1fe
 MINERS++ Add-On ( Cubical ) - Addon 87ee3849-165f-4b4f-882b-ccf120d97dec
@@ -6199,18 +6211,24 @@ BACKBLINGS+ Add-On 1.0 ( BLOCKLAB Studios ) - Addon 7a7dc34b-5633-4527-88fa-3661
 Spellbook ( Monster Egg Studios ) - Addon a6ffa5d4-56aa-4998-bba2-8c3829025504
 Cute Family Suburbs ( Nitric Concepts ) - DLC 966620fc-164a-4240-b1ff-5108eabcd1ef
 Raft Survival ( Dalibu Studios ) - DLC 26e6c7fe-1ff1-49b8-b9db-c17ca3e3a175
+100 days: Buried Alive ( Mine-North ) - DLC 02a33c8a-8591-4827-b103-52e42cac8b74
 Plushies ( Scai Quest ) - Addon 39600c3f-6b46-4ae4-862f-d5f1f85a12fe
 Raft Survival ( SandBlock Studios ) - DLC 799fd234-bdc2-4402-bd30-53494cc0812b
 Deluxe Furniture: Retreat ( Blockception ) - DLC 39bc2a03-45b7-4388-ba7e-d5ed7699473c
 Realistic Biomes Add-On 1.0 ( Oreville Studios ) - Addon 2249c366-c812-4fe5-a6ec-abe9d6bea6bc
+Security Bunkers ( Cubed Creations ) - DLC 6a34b46e-55c2-4bd1-8cdf-87e557cc720c
 Cute 32x ( MelonBP ) - TexturePack bdd77884-c73e-4c45-930e-7c353e6ab533
+Life in India ( Lifeboat ) - DLC d3e8f855-6495-4366-a50f-19605a074f7f
 Diwali Add-On ( Entity Builds ) - Addon b22d0079-4707-4bcf-acd5-d4492ceb19df
 Horror Survival ( Mine-North ) - DLC 9857a2dc-68e3-4a6e-9174-5b37f3967382
 James Web Space Telescope ( Minecraft ) - DLC be200f3a-b3ec-422a-a237-b9d5cf7f246b
+Security Cameras Pack ( Dodo Studios ) - DLC cb47a39a-8cf4-4750-a5ea-0faca25766cb
+Pop-Ups Add-On ( FingerMaps ) - Addon 3407e22b-1d50-4029-b996-5d3d8c3e6017
 Jetpacks ( In Mine ) - Addon 10cbfe85-7293-4118-94c2-2a19bbdbd4c8
 Economy+ ( Tomhmagic Creations ) - Addon ebb2049c-4662-4caa-82b9-e98932b393da
 Scary Nights ( Waypoint Studios ) - Addon 130ca3eb-4537-466c-baee-4cef636465a2
 Lumber Tycoon Space ( DeliSoft Studios ) - DLC 71dc0552-f6ae-4326-9fef-27dc60707ef5
+Vehicles ( Cubed Creations ) - DLC 31e102d1-87f0-4906-8016-cd50bae5c97a
 Weapons Evolve ( Diamond Studios ) - DLC 5d75fa32-afa1-409d-a90c-b632de910e27
 No Oxygen ( Bunny Studios ) - DLC ef5b485a-418a-4ea3-9503-9d80dc0ecb73
 Dr. Seuss ( Shaliquinn's Schematics ) - DLC f644f74d-e79d-4327-a324-0a2db0eb568b
