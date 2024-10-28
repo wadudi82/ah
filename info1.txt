@@ -6038,6 +6038,7 @@ DOMINATORS ( Razzleberries ) - DLC 9da85bf0-2c1c-477b-a3e8-55b222ae8c40
 Mine Rescue ( Cyclone ) - DLC 70925d95-d722-417f-b06c-cf47f492fc13
 Forest Village ( Shaliquinn's Schematics ) - DLC 74b06ea4-fc36-4ef0-b9d5-c55d92b153dc
 SMASH ( Pathway Studios ) - DLC 8df20e0f-0722-4e85-a3a2-94e10061449c
+Hawaiian Island Survival ( G2Crafted ) - DLC 557a0fbe-236f-4c7e-98c6-79f13ef170f8
 Lawn Mower Simulator ( BBB Studios ) - DLC 087b1b29-6cfc-48a3-b051-b52dcb6a2afd
 Lucky Blocks: Gifts ( Spark Universe ) - DLC 6371cc45-1b32-4d91-9325-1290a8a176e7
 One Chunk Challenge ( Pixelusion ) - DLC 88ee9855-9c5f-473e-b065-5451ed0231e6
@@ -6052,9 +6053,11 @@ Magic Kingdom ( In Mine ) - DLC 1a499b14-39b3-477b-a1b9-216204b0e878
 Bike Parkour ( Lifeboat ) - DLC 1bce4900-ee23-4ba9-8786-66951bdfb003
 Mega Mansion ( Magefall ) - DLC 17e379cb-5655-488f-a016-78001e02cd86
 Dome Disaster ( FTB ) - DLC 058c1068-ab07-49bf-b20c-d3cafb44ab2d
+Extreme Survival Caves ( Razzleberries ) - DLC 4ce1dd6b-b442-426f-8e97-faac56f995cf
 Parkour Party ( Netherpixel ) - DLC 90241291-cc30-4e30-a74e-14b5f3986b64
 Pirate Treasure ( MrAniman2 ) - DLC 1ce1a54e-04dd-4196-ad16-932ce1d4c1c2
 Frozen Temple ( Waypoint Studios ) - DLC c8bebd56-51ce-4783-acc7-cef9be50a547
+Advanced: Desert Living ( Fall Studios ) - DLC 1d2fccbd-62b3-4bca-9887-f65d62523c64
 Parkour 6 ( BBB Studios ) - DLC c9597c5a-1b7f-4e1e-a09b-d00240809ba0
 Hacker Base ( BLOCKLAB Studios ) - DLC a8e2e6d1-31b2-4773-a398-4d2e4d169cfe
 Pro Base ( BLOCKLAB Studios ) - DLC f779d517-792e-4004-aa1a-e40721d0117b
@@ -6068,6 +6071,7 @@ Modern Sky Survival ( BLOCKLAB Studios ) - DLC 68150b6d-10f9-4fdd-9743-6f6ac698e
 Ultimate X-ray ( Mine-North ) - DLC d7bfcd5b-6205-44a8-a1cb-34939be503ad
 Plane Crash ( RareLoot ) - DLC 1a57c6c3-1c2c-42db-bce1-9850863e3d7e
 REALISM SKYBLOCK ( ChewMingo ) - DLC 9ce96f12-3b2f-44ff-9bf8-67daa8d8642b
+Earth Survival ( 4KS Studios ) - DLC 0d0b89fb-0ebb-430c-bc36-dd0e3c962e88
 Billionaire Island ( Netherpixel ) - DLC dc5be0ce-d38d-483c-b9b5-b7ed335e0c6c
 Rat In The Kitchen ( MobBlocks ) - DLC a77a3017-ba98-4f61-95b5-a1ca4a4ee7ba
 Zombie Apocalypse ( Fall Studios ) - DLC 4f6c1110-45e8-4271-bd62-5175d5ee33bf
@@ -6123,6 +6127,7 @@ Gym Furniture ( Pixel Smile Studios ) - DLC 409d11c5-f2f6-445d-8ea8-b1bdd83f74ba
 HIDE AND SEEK MYSTERY! ( Chunklabs ) - DLC 64123e93-11dc-4f04-a3f6-919c73ec722b
 Lawn Mowing Simulator ( DeliSoft Studios ) - DLC 20e55a44-54c6-4d7e-9eb8-322c9f067f82
 More Zombies ( HeroPixels ) - DLC e0973a16-db00-4e93-9572-851725bae1c4
+TNT Tag ( Waypoint Studios ) - DLC 07b373d3-212d-4e5f-913c-b75679d32eac
 Modern House ( Wonder ) - DLC 7b7ac216-ff2b-4240-8b38-9ea63b706813
 Ultimate Pillager Outpost ( CrackedCubes ) - DLC 3e4d7f20-354d-4091-971d-04e5b642652f
 Mining Tycoon ( Vatonage ) - DLC fbb9e245-d8b5-42f2-8274-ba823ae9988a
@@ -6165,6 +6170,7 @@ Hacker Base 2.0 ( BLOCKLAB Studios ) - DLC 2b4a638a-723c-4ba8-a932-fb10a1d5cc12
 SAFEST BASE ( Kubo Studios ) - DLC b6f42b2b-a178-4357-bfe4-54f3dd88b317
 Fast Food Simulator ( Lifeboat ) - DLC df51ac0b-48d2-4265-8e41-0ba49eb6bc65
 Secure Desert Village ( 5 Frame Studios ) - DLC 691cc58f-89b2-4884-9e5d-106283566ba8
+Nine Block Challenge ( Lifeboat ) - DLC be1faa03-5aa2-469a-816f-5ecf647c4272
 Morph Into TNT ( Cubed Creations ) - DLC 3357ab2c-a414-482f-aa3a-55b432acb86b
 Ultimate Airplanes ( Street Studios ) - DLC 20905823-b542-4787-b8c9-3cb64e0e1c59
 Weapon Bundle ( Cubed Creations ) - DLC 267f1be7-d656-46d8-a2f5-7f6af2498521
@@ -6181,8 +6187,10 @@ Spooky Town ( Eescal Studios ) - DLC b4500a1e-8f5c-4e6f-b1b2-1d3ed54ab25d
 Cruise Ship - Aurora ( GoE-Craft ) - DLC 215993df-fdd5-4376-949e-eafdb171929a
 Wolves Plus Add-On v5.1.0 ( JWolf Creations ) - Addon 9dc8c058-d5ab-417f-bd55-4c277f5021aa
 CASTLE SIEGE ( Minty ) - DLC b5b8d64b-ff0f-47d9-aea3-3bd5a001b917
+The Lurkers Mansion ( DeliSoft Studios ) - DLC b40ed463-8085-4931-b815-1e56cf4b6fb2
 Helpful Pets! ( Some Game Studio ) - Addon e85d92f6-233e-48a4-8e5c-08804781ddc5
 Biome Parkour ( Waypoint Studios ) - DLC ba0ddf99-63b5-4b0b-a576-9351ab74c6b1
+Dark Rooms ( inPixel ) - DLC cea7a4d6-51f4-4406-aa33-6586e5dd5644
 Craftable Bases ( The Craft Stars ) - Addon ffaee677-2f76-4465-a460-6ed95706a238
 Modern Furniture Add-On 1.0 ( Tsunami Studios ) - Addon 84556aa3-86f0-4d00-a8e1-bfb5f957539a
 Modern Furniture Add-On ( Lothiredon ) - Addon bdc8d574-0843-472a-b137-352de5200dbd
@@ -6223,6 +6231,8 @@ Raft Survival ( Dalibu Studios ) - DLC 26e6c7fe-1ff1-49b8-b9db-c17ca3e3a175
 Plushies ( Scai Quest ) - Addon 39600c3f-6b46-4ae4-862f-d5f1f85a12fe
 Raft Survival ( SandBlock Studios ) - DLC 799fd234-bdc2-4402-bd30-53494cc0812b
 Deluxe Furniture: Retreat ( Blockception ) - DLC 39bc2a03-45b7-4388-ba7e-d5ed7699473c
+Spellbooks ( 4KS Studios ) - DLC 3b58abf7-2c43-417e-94f5-e69cdae490e4
+Evolving Weapons Add-On ( Snail Studios ) - Addon 1c8c0032-8825-4eb5-af26-174250268327
 Realistic Biomes Add-On 1.0 ( Oreville Studios ) - Addon 2249c366-c812-4fe5-a6ec-abe9d6bea6bc
 Security Bunkers ( Cubed Creations ) - DLC 6a34b46e-55c2-4bd1-8cdf-87e557cc720c
 Cute 32x ( MelonBP ) - TexturePack bdd77884-c73e-4c45-930e-7c353e6ab533
@@ -6242,5 +6252,12 @@ Weapons Evolve ( Diamond Studios ) - DLC 5d75fa32-afa1-409d-a90c-b632de910e27
 No Oxygen ( Bunny Studios ) - DLC ef5b485a-418a-4ea3-9503-9d80dc0ecb73
 MusicCrafter Add-On ( Causeway Digital ) - Addon 055e53c5-4824-4aad-979f-16fccd5bf388
 Dr. Seuss ( Shaliquinn's Schematics ) - DLC f644f74d-e79d-4327-a324-0a2db0eb568b
+Mooncraft ( Bunny Studios ) - DLC b385b485-19f1-4278-bdf0-1ac4839db32e
 Farming Pots Add-On ( Blockbytes ) - Addon 256dfaee-99f8-495b-acd3-9f3613bdb7ed
+Gravestones ( Box Build ) - Addon da414f0f-c795-4039-b3f2-f535d5b69d95
+Comic Weapons ( Chillcraft ) - DLC a79c7448-fc27-47e3-96a8-c51fa776518d
+HORROR: THE ESCAPE ( Square Dreams ) - DLC 62524830-a899-442c-bcf5-e9819a23df79
+MORPH ( Builders Horizon ) - DLC 9b1ca018-76d7-45ce-8b15-de0e3b2921d7
+Beastly Backpacks ( CHRONICOVERRIDE LLC ) - Addon 4e8867a8-99bf-4256-a424-1ad7144397b1
 BOB'S PLANES ( Team Workbench ) - Addon f8cb99b7-cafa-4057-a967-d2254b380768
+Flying Car ( Cubed Creations ) - DLC 395c616b-f073-48ad-ae44-5f3c697b2288
