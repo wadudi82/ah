@@ -6281,7 +6281,56 @@ REALEX Moonlight ( Pathway Studios ) - TexturePack 4eefe85d-a583-4478-bf2f-ec37a
 The Backrooms Add-On ( Float Studios ) - Addon e11d88e2-c182-49ea-a985-b013f57d29e6
 Craftable Structures ( Dodo Studios ) - DLC 72cf3fc8-fdd2-4b42-8576-d2a3d9c35fe7
 Minecraft National Park ( Minecraft ) - DLC 84519a93-140e-4dc9-9bd4-7bcec8dc4488
+Fall Fest ( Blockception ) - DLC d5017181-7e59-4610-a6ec-0fe095dc3905
+Sacred Falls ( Pathway Studios ) - DLC 8eca57b4-76d0-4932-9984-3f363e5a1773
+Paradise Falls ( GoE-Craft ) - DLC e85e2667-fb28-468f-b01b-7d0de851d565
+The Undying System ( Volcano ) - DLC 100a1ae5-c3bc-4a33-994a-a2a2638e8157
+Minigames of Sleepy Hollow ( Blockception ) - DLC 159d2201-03b1-4ece-99a6-22012ba12f44
+MinerWare: Horror ( CubeCraft Games ) - DLC 9c2df5b0-dc35-48fa-85a6-732307bd458b
+Christmas Trains ( Lifeboat ) - DLC 7dfba565-e3aa-4b7b-aad9-f73e863e5308
+Santa Search ( House of How ) - DLC 7d0d41fb-2dca-4456-83b5-e05b8c0fcff1
+Saving Christmas ( Nitric Concepts ) - DLC 2d40a21f-185c-4dba-961e-1daf81358c66
+Beehive ( CubeCraft Games ) - DLC 1179877c-6e6f-422c-a1da-b631338b85c6
+Lucky Blocks - Ski Resort ( Norvale ) - DLC 9f0fdb70-e074-4b14-9faf-f22315a1e87a
+Nightlife ( Shapescape ) - DLC 097110c5-c1b5-4525-aff2-e662f75b8bb5
+Otter Cove ( Team Visionary ) - DLC b6dbfba7-1dad-4f48-83cc-bd11724b638a
+Dragon Skyblock ( Pixelusion ) - DLC 957cfba2-3a65-42c5-a8ff-1cb735b83c80
+Quicksand Islands ( Pixelusion ) - DLC eb397f6d-e278-489f-aee9-30f6168c59c0
+Battlefield Domination ( Netherpixel ) - DLC 844f03e9-e17c-430c-8d41-f8caebad256b
+Land of the Dragon ( King Cube ) - DLC aa075061-916a-4ce9-b429-85ea532f0988
+LUCKY BLOCK: ULTIMATE SKYBLOCK ( Pickaxe Studios ) - DLC f87f2495-c1d7-4190-983c-4494519e5b13
+Colour Block ( Project Moonboot ) - DLC 8329b3a8-ed8f-47cf-8b1a-ddc51b131b89
+Magic Lucky Blocks ( Pickaxe Studios ) - DLC 91050e0a-3068-445d-b11c-136beb7b79ec
+$1,000,000 Mansions ( Aurrora ) - DLC 592cc583-c0a6-4428-ae21-7d601e017174
+Egyptian Empire ( Impulse ) - DLC 24499e7a-3541-4b73-b79e-24d323615d3e
+Lucky Block Survival Games ( Dodo Studios ) - DLC 870fcad7-1525-4271-b9cd-8df5eb6370c1
+Viking Valley ( Builders Horizon ) - DLC 03251aef-0290-4db0-8e11-5327ccea0b12
+Halloween Find Da Button ( Giggle Block Studios ) - DLC 1b29d314-b431-49f7-b2e9-79a791ccfa54
+Origins ( Blocks First ) - DLC 033747fe-59f8-42ec-9bfc-05c654bbeff8
+Haunted High School ( Lifeboat ) - DLC f81c2956-dccf-46d7-926e-27bbf1157309
+Zombie Dungeons ( Nitric Concepts ) - DLC 90ad7ac1-5cfe-4b45-b53b-93e672a7ab0f
+Cute Dragons ( Kubo Studios ) - DLC 2c139ac6-37a8-4547-b582-656118a414ac
+ONE BLOCK SKYBLOCK! ( Chunklabs ) - DLC 6fb79dbd-f22d-46e7-80d4-3afe33d70d3e
+Fashion Legends ( Everbloom Games ) - DLC ccafbaa5-262b-4039-97c9-92fa56c17f2a
+Mega Lucky World ( Diluvian ) - DLC a3a710c9-515b-48ba-9262-c283dd3a716c
+Lucky Block Islands ( Razzleberries ) - DLC 1095b959-90cb-4ef7-a9bc-295d4d6356cd
+Lakeside Retreat ( BTWN Creations ) - DLC fde59c1e-fddb-4aa9-a226-6df22cb1f454
+Island of Enchantment ( PixelOneUp ) - DLC a07d010a-2b87-4410-b6cf-cb14d72b4c4d
 Neon City Parkour ( Sandbox Network ) - DLC 3b518d52-0826-4ec2-8828-3d83a0e078b4
+Zombie Simulator ( Mine-North ) - DLC acd6ff92-14ac-4089-8a05-2ebb9aac0adf
+Winter Survival ( Entity Builds ) - DLC c0caf733-7a75-4025-9831-3ee2967766b1
+Devil's Castle ( CrackedCubes ) - DLC 50211178-0a82-4a94-8759-d64f8463a969
+Winter City ( Fall Studios ) - DLC c3a40e99-52c2-4efa-af72-76b98a186ab5
+Escape the Diamond Dungeon ( PixelOneUp ) - DLC eb9807bf-f8ef-4e52-8d09-9f9a9c64bc1d
+Snow Racing: Venice ( Cypress Games ) - DLC fa243e1c-f3e4-49bc-86fe-1efd85441574
+Lucky Pots ( Diluvian ) - DLC d52c45c0-9841-4ea4-96ba-aa83b26f9e76
+Space ( DeliSoft Studios ) - DLC fd103191-0d16-4672-9697-f2246c59bb50
+One Block Rainbow World ( Fall Studios ) - DLC 25e14a38-762a-46f6-9272-d4a08f4e6948
+Secret Bunker ( Mine-North ) - DLC adbd9f94-20a9-4b40-b18f-60c67794f417
+Lucky Block! ( MobBlocks ) - DLC 1827fcd4-65ed-42ca-a3a6-c1cc2d49e4c8
+Funday Mall ( Block Perfect Studios ) - DLC a9a6e88d-2d5e-4589-901c-6e223c518cd6
+Millionaire Tropical Island ( 5 Frame Studios ) - DLC 59f3555b-6c89-401d-8ad7-464d439e7e49
+Rainbow Lucky World ( Diluvian ) - DLC 4a2bf1d7-33d5-4d06-a3d4-f613fe9f9a19
 Skyblock OP MOBS! ( KA Studios ) - DLC 225b7628-8222-4adb-bddc-47b436d9b597
 Lost Desert City ( Snail Studios ) - DLC 8c1de50c-27d8-470e-9a8f-868b4888596d
 Future Parkour ( Dig Down Studios ) - DLC 0ecbef82-7088-4ae7-b916-2c672c505b92
@@ -6307,18 +6356,24 @@ Sports Center ( Wonder ) - DLC a9ad91ee-3e1e-4b44-934f-46f3ad9dc341
 Vertical Survival ( Cubed Creations ) - DLC fca969d3-3808-400b-b967-f949525da9f9
 Haunted Ship ( Pixelusion ) - DLC 4c538734-88eb-4df9-ad44-ef21eb96c103
 Hacker Base ( Chillcraft ) - DLC e2c44ac2-c757-4b24-89b3-ca0e5d9cc21d
+Backrooms 100 Levels Parkour ( Pixelusion ) - DLC f5de8b23-ecc4-4a19-a269-e0f7b3473699
 Don't Touch the Sand ( BLOCKLAB Studios ) - DLC 935ef0a3-47f2-4a8d-8ac0-f74efd5d32f5
 Random Fishing Loot ( BLOCKLAB Studios ) - DLC 0b732ccd-4b5a-4c68-bb91-7f4e05350b50
 100 Days Dimension Survival ( KA Studios ) - DLC 6ca6071b-9338-482d-971d-dbd5fb76101f
 BUCKET+ ( ChewMingo ) - DLC 37e7c665-b65d-41c7-a553-4bd48db1518e
 Ultimate Lava Bunker ( The Craft Stars ) - DLC 2155758c-69c0-430b-b1a9-1d8fedeb9c3c
 Button Challenge ( Lifeboat ) - DLC bffdd39b-4304-4f0a-b688-b984ce5ba2db
+PVP Add-On ( GoE-Craft ) - Addon 094c5d73-e0c0-4918-94ac-f45b5599a293
+Animal Pack 500+ 1.0 ( Cyclone ) - Addon f12c59d7-94b4-49de-853c-dc9e14770280
 The Horror Legend ( RareLoot ) - DLC 4455e5dc-08dd-426c-980c-9f5e7de15230
 VILLAGERS++ Add-On ( Kubo Studios ) - Addon 5ed0af88-6e06-473e-b646-fbc3281d6b59
+Mutant Wither Boss ( Everbloom Games ) - DLC 32438242-7804-43e4-b11c-4c5d2ae4ff86
 WEAPONS OP ( Teplight ) - DLC dd67fdf4-8271-4545-a1b5-b8e6fd32ec97
 Redstone Add-On ( Pixelbiester ) - Addon 42308cfa-9181-41b9-a034-49dda7ba5636
 CUTE Texture Pack ( Pickaxe Studios ) - TexturePack ee897733-d636-4711-9377-3e9e259a0e8c
 World Editing ( Glowfischdesigns ) - Addon 78cb3501-58bf-46a4-9acd-dd1e8808d988
 AETHER WEAPONS [DX] ( Maca Designs ) - DLC abe7bfec-17a2-4138-a4cc-19d97e91e711
+No More Grind Add-On ( Teplight ) - Addon e5cb264a-d077-45a4-a307-8a3066672ae8
 Hardcore Survival - N. America ( The Craft Stars ) - DLC 4cd127dc-961d-4276-a10c-e772838c8192
 Axolotl Evolve ( Wonder ) - DLC 9183900d-1f7f-461b-9f55-5b5d132860d5
+Ultimate Trading ( WildPhire ) - Addon cc0eaa1a-077c-4826-8f9c-f68b26f2d02b
