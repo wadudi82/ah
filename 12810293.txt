@@ -6702,3 +6702,16 @@ c0caf733-7a75-4025-9831-3ee2967766b1	51f2948b-f1ef-4c3c-8caf-9f01556a989b	world_
 f5de8b23-ecc4-4a19-a269-e0f7b3473699	83a6ab59-fa7c-11ed-8df2-0242ac14fe01	world_template	yR8oVvbwQQ1KLyXtv4CtM6kwsQeAxNMW
 094c5d73-e0c0-4918-94ac-f45b5599a293	f9f0f116-81bd-421d-8a7a-4c007f7ee896	behaviorpack	zG7GEecf95tiJJVZWKd7RcRrvWS99pQ9
 094c5d73-e0c0-4918-94ac-f45b5599a293	4101d09d-a165-4db1-81aa-9391a1c4c529	resourcepack	dO14bmqjX8VpIVmafYe0H0xjbCRX5BGw
+7b9caa48-b493-42fc-9010-c257c9699b9a	62d2896c-8ebf-11ee-b9d1-0242ac120002	world_template	fP0WktCBqt4JZrHBw27fUarjnEv4QdL4
+e41abfbb-1dca-424e-b67d-ed1956734ebe	3e356fea-3108-4926-b4ec-2a9c7a66b826	world_template	kQ0l9Lkp5r3bxQTzUYuvAqTY8389A7fK
+2ec4ae17-0b14-4b82-9f42-d9ff80432bd9	672a1d8a-f330-4804-b88e-3d580c5349d0	world_template	iP3Jc3HRo4b1bPFSZZu1CSl151R3Br6h
+ed7623ee-564f-4690-a103-6b54dc1beff4	55b6b41c-5141-459c-a027-e5a25bca3546	world_template	gX0F4Mlz9pYN38K0uYsvR7Q8Naof9srX
+c8124bc8-1162-4861-ac0f-a4153f5fda93	3e0855df-85aa-4738-8fe8-ae3602caf9ae	world_template	nU1RYHMcJJzu6itnqbbKyUZ3RuNgx3Ug
+06d49fa7-54bd-4139-9d74-933aca813029	dbd1a4d1-a3cc-4de3-b78e-1a13aed72136	world_template	lT6YiLaz8BkZiuAeRz76Y6dkjHv7GrCL
+308c16a1-ee86-4d62-85aa-2f8efdfdffb8	e256a495-2011-402f-b1aa-2c666070d57c	resourcepack	jR6EXF3J0Uzhm5SpFjjoZkNdOoPCscXq
+308c16a1-ee86-4d62-85aa-2f8efdfdffb8	74c8b0be-416c-40b1-a13f-06a82f0cab58	behaviorpack	tF93LPpvVIxgAXzFGL1lsy1JW8AKX5gL
+51eea9c1-56c9-4bef-9300-03ce4d5160ec	589c25ba-4412-47d7-95a2-9af920859dc6	resourcepack	gR6rnGdpb2QxEITGz8g7mpGgnxPQvMer
+51eea9c1-56c9-4bef-9300-03ce4d5160ec	3823d272-2f29-4af3-bfa7-e2facb55ab93	behaviorpack	uP4CjzKbM7NPre5r24KfhwaTyULsMez3
+738270ad-99d7-42fc-a2e0-e71864722efc	6620d7cb-a827-4d53-b509-4b3759627450	world_template	zF2RlHoAoUFqStzKjmTd0OPrU0XpTA0W
+c6d27f11-b63b-49aa-8fd5-b9c2dce99a15	2ac5dbe0-f43b-45a1-9840-18bf13f30196	resourcepack	xV3LVcrtZZg7c0eMljClPHqB0u6ptZvC
+c6d27f11-b63b-49aa-8fd5-b9c2dce99a15	412b446a-1e39-49f6-9b9a-bd6f6062c2b0	behaviorpack	kC3jAbHOolvd2J70hv4pVij9zMEGzES6
