@@ -6360,20 +6360,30 @@ Backrooms 100 Levels Parkour ( Pixelusion ) - DLC f5de8b23-ecc4-4a19-a269-e0f7b3
 Don't Touch the Sand ( BLOCKLAB Studios ) - DLC 935ef0a3-47f2-4a8d-8ac0-f74efd5d32f5
 Random Fishing Loot ( BLOCKLAB Studios ) - DLC 0b732ccd-4b5a-4c68-bb91-7f4e05350b50
 100 Days Dimension Survival ( KA Studios ) - DLC 6ca6071b-9338-482d-971d-dbd5fb76101f
+Super Battlefield Survivor ( Next Studio ) - DLC 738270ad-99d7-42fc-a2e0-e71864722efc
 BUCKET+ ( ChewMingo ) - DLC 37e7c665-b65d-41c7-a553-4bd48db1518e
+Find the Button ( Podcrash ) - DLC 7b9caa48-b493-42fc-9010-c257c9699b9a
+ZOMBIE ( Pickaxe Studios ) - DLC 2ec4ae17-0b14-4b82-9f42-d9ff80432bd9
 Ultimate Lava Bunker ( The Craft Stars ) - DLC 2155758c-69c0-430b-b1a9-1d8fedeb9c3c
+Fishing + Add-on ( MobBlocks ) - Addon 308c16a1-ee86-4d62-85aa-2f8efdfdffb8
 Button Challenge ( Lifeboat ) - DLC bffdd39b-4304-4f0a-b688-b984ce5ba2db
 PVP Add-On ( GoE-Craft ) - Addon 094c5d73-e0c0-4918-94ac-f45b5599a293
 Animal Pack 500+ 1.0 ( Cyclone ) - Addon f12c59d7-94b4-49de-853c-dc9e14770280
+Combine Anything [DX] ( BLOCKLAB Studios ) - DLC c8124bc8-1162-4861-ac0f-a4153f5fda93
 The Horror Legend ( RareLoot ) - DLC 4455e5dc-08dd-426c-980c-9f5e7de15230
 VILLAGERS++ Add-On ( Kubo Studios ) - Addon 5ed0af88-6e06-473e-b646-fbc3281d6b59
 Mutant Wither Boss ( Everbloom Games ) - DLC 32438242-7804-43e4-b11c-4c5d2ae4ff86
 WEAPONS OP ( Teplight ) - DLC dd67fdf4-8271-4545-a1b5-b8e6fd32ec97
 Redstone Add-On ( Pixelbiester ) - Addon 42308cfa-9181-41b9-a034-49dda7ba5636
 CUTE Texture Pack ( Pickaxe Studios ) - TexturePack ee897733-d636-4711-9377-3e9e259a0e8c
+PRO Builder Add-On ( Maca Designs ) - Addon c6d27f11-b63b-49aa-8fd5-b9c2dce99a15
 World Editing ( Glowfischdesigns ) - Addon 78cb3501-58bf-46a4-9acd-dd1e8808d988
 AETHER WEAPONS [DX] ( Maca Designs ) - DLC abe7bfec-17a2-4138-a4cc-19d97e91e711
 No More Grind Add-On ( Teplight ) - Addon e5cb264a-d077-45a4-a307-8a3066672ae8
 Hardcore Survival - N. America ( The Craft Stars ) - DLC 4cd127dc-961d-4276-a10c-e772838c8192
 Axolotl Evolve ( Wonder ) - DLC 9183900d-1f7f-461b-9f55-5b5d132860d5
 Ultimate Trading ( WildPhire ) - Addon cc0eaa1a-077c-4826-8f9c-f68b26f2d02b
+Ultimate Modern Mansion ( Fun Creators ) - DLC 06d49fa7-54bd-4139-9d74-933aca813029
+Drones ( Cubed Creations ) - DLC e41abfbb-1dca-424e-b67d-ed1956734ebe
+$1 vs $1,000,000,000 Skyblock ( Lifeboat ) - DLC ed7623ee-564f-4690-a103-6b54dc1beff4
+Wings ( Mine-North ) - Addon 51eea9c1-56c9-4bef-9300-03ce4d5160ec
