@@ -3199,7 +3199,7 @@ CREEPER EVOLVE ( Kreatik Studios ) - DLC e10d27df-d997-436b-b2fe-d215a6df6729
 Offshore Wind Power Challenge ( The Wizard and Wyld ) - DLC db2fe1e9-61ef-4d78-bbd3-5fad8c54d620
 Weapon Fusion ( Cubed Creations ) - DLC dcd1c856-ed7a-4768-aa30-41bc2c7480c6
 ALL THE WOOL Add-On ( Jigarbov Productions ) - Addon d8a20ca0-7c7d-4ce0-bfdb-82606751db49
-MUTANTS! Add-On ( Tsunami Studios ) - Addon d50bd371-3662-41b2-bce7-dafce66444e7
+MUTANTS! Add-On 2.0 ( Tsunami Studios ) - Addon d50bd371-3662-41b2-bce7-dafce66444e7
 Gravestone ( Darkosto ) - Addon d37a41f6-202a-40fd-b353-20045b10a28c
 Magic Spells ( Cyclone ) - Addon dd9821b7-e51e-4b5a-b0dd-9bb65dbb9ab6
 Myth and Dragons Add-On ( King Cube ) - Addon d8d453d7-0454-4341-83fd-f60db9f4d81b
@@ -5724,7 +5724,7 @@ Sci-Fi Fantasy ( Duh ) - TexturePack 8c04efa0-b772-4d12-a9ec-8283bb44c6a0
 Biome Weapons [DX] ( Logdotzip ) - DLC 703646c1-5655-4b14-ae71-30d76312ef29
 Bubble ( The World Foundry ) - Addon 48a9e791-651f-4d59-a1ba-2f5b1e38b730
 Alchemy ( Unlinked ) - Addon 91813a80-766d-48b5-bf00-10672a2ab9c4
-BOSSES+ Add-On 1.1 ( Shapescape ) - Addon a1f41469-d937-4b58-97e8-09ebb4196fa7
+BOSSES+ Add-On 1.2 ( Shapescape ) - Addon a1f41469-d937-4b58-97e8-09ebb4196fa7
 CAPTIVE SURVIVAL + ( Blue Depth Games ) - DLC ec925496-b155-4052-bf97-07801e15c47b
 Parkour Volcano ( Hielke Maps ) - DLC e45f4e64-85b7-430d-9cac-49075c1760d5
 WEAPONS EVOLVE ( Dodo Studios ) - DLC 7126ef5a-ac6b-4655-9830-0db625304ad1
@@ -6197,7 +6197,7 @@ Dino Dig ( Lifeboat ) - DLC e8bc65cc-4de7-45ff-bc81-5f361595daa7
 Ore-Finder Add-On ( ChewMingo ) - Addon 60b4b7de-4721-42f6-a785-0c556175cafd
 Spooky Town ( Eescal Studios ) - DLC b4500a1e-8f5c-4e6f-b1b2-1d3ed54ab25d
 Cruise Ship - Aurora ( GoE-Craft ) - DLC 215993df-fdd5-4376-949e-eafdb171929a
-Wolves Plus Add-On v5.1.1 ( JWolf Creations ) - Addon 9dc8c058-d5ab-417f-bd55-4c277f5021aa
+Wolves Plus Add-On v5.1.2 ( JWolf Creations ) - Addon 9dc8c058-d5ab-417f-bd55-4c277f5021aa
 CASTLE SIEGE ( Minty ) - DLC b5b8d64b-ff0f-47d9-aea3-3bd5a001b917
 The Lurkers Mansion ( DeliSoft Studios ) - DLC b40ed463-8085-4931-b815-1e56cf4b6fb2
 Helpful Pets! ( Some Game Studio ) - Addon e85d92f6-233e-48a4-8e5c-08804781ddc5
@@ -6300,6 +6300,7 @@ Battlefield Domination ( Netherpixel ) - DLC 844f03e9-e17c-430c-8d41-f8caebad256
 Land of the Dragon ( King Cube ) - DLC aa075061-916a-4ce9-b429-85ea532f0988
 LUCKY BLOCK: ULTIMATE SKYBLOCK ( Pickaxe Studios ) - DLC f87f2495-c1d7-4190-983c-4494519e5b13
 Colour Block ( Project Moonboot ) - DLC 8329b3a8-ed8f-47cf-8b1a-ddc51b131b89
+MatchCraft: Gems ( House of How ) - DLC b4192a33-78ce-41c2-b0ce-9fe8a325bcc1
 Magic Lucky Blocks ( Pickaxe Studios ) - DLC 91050e0a-3068-445d-b11c-136beb7b79ec
 $1,000,000 Mansions ( Aurrora ) - DLC 592cc583-c0a6-4428-ae21-7d601e017174
 Egyptian Empire ( Impulse ) - DLC 24499e7a-3541-4b73-b79e-24d323615d3e
@@ -6310,10 +6311,12 @@ Origins ( Blocks First ) - DLC 033747fe-59f8-42ec-9bfc-05c654bbeff8
 Haunted High School ( Lifeboat ) - DLC f81c2956-dccf-46d7-926e-27bbf1157309
 Zombie Dungeons ( Nitric Concepts ) - DLC 90ad7ac1-5cfe-4b45-b53b-93e672a7ab0f
 Cute Dragons ( Kubo Studios ) - DLC 2c139ac6-37a8-4547-b582-656118a414ac
+Mining Machines ( Razzleberries ) - DLC c6c865ab-2512-4f59-83aa-718ca8a6efc9
 ONE BLOCK SKYBLOCK! ( Chunklabs ) - DLC 6fb79dbd-f22d-46e7-80d4-3afe33d70d3e
 Fashion Legends ( Everbloom Games ) - DLC ccafbaa5-262b-4039-97c9-92fa56c17f2a
 Mega Lucky World ( Diluvian ) - DLC a3a710c9-515b-48ba-9262-c283dd3a716c
 Lucky Block Islands ( Razzleberries ) - DLC 1095b959-90cb-4ef7-a9bc-295d4d6356cd
+Advanced Village ( Fall Studios ) - DLC 6831e495-4606-4f96-86fc-243fda7becb1
 Lakeside Retreat ( BTWN Creations ) - DLC fde59c1e-fddb-4aa9-a226-6df22cb1f454
 Island of Enchantment ( PixelOneUp ) - DLC a07d010a-2b87-4410-b6cf-cb14d72b4c4d
 Neon City Parkour ( Sandbox Network ) - DLC 3b518d52-0826-4ec2-8828-3d83a0e078b4
@@ -6369,6 +6372,7 @@ Fishing + Add-on ( MobBlocks ) - Addon 308c16a1-ee86-4d62-85aa-2f8efdfdffb8
 Button Challenge ( Lifeboat ) - DLC bffdd39b-4304-4f0a-b688-b984ce5ba2db
 PVP Add-On ( GoE-Craft ) - Addon 094c5d73-e0c0-4918-94ac-f45b5599a293
 Animal Pack 500+ 1.0 ( Cyclone ) - Addon f12c59d7-94b4-49de-853c-dc9e14770280
+Slime Mansion ( BLOCKLAB Studios ) - DLC bd9e73e2-47fa-4ae8-a579-fad6a04ad7d2
 Combine Anything [DX] ( BLOCKLAB Studios ) - DLC c8124bc8-1162-4861-ac0f-a4153f5fda93
 The Horror Legend ( RareLoot ) - DLC 4455e5dc-08dd-426c-980c-9f5e7de15230
 VILLAGERS++ Add-On ( Kubo Studios ) - Addon 5ed0af88-6e06-473e-b646-fbc3281d6b59
@@ -6378,6 +6382,7 @@ Redstone Add-On ( Pixelbiester ) - Addon 42308cfa-9181-41b9-a034-49dda7ba5636
 CUTE Texture Pack ( Pickaxe Studios ) - TexturePack ee897733-d636-4711-9377-3e9e259a0e8c
 PRO Builder Add-On ( Maca Designs ) - Addon c6d27f11-b63b-49aa-8fd5-b9c2dce99a15
 World Editing ( Glowfischdesigns ) - Addon 78cb3501-58bf-46a4-9acd-dd1e8808d988
+Slingshots Add-On ( Polymaps ) - Addon 8f41c6bd-2a3f-448e-8b6c-153600700efb
 AETHER WEAPONS [DX] ( Maca Designs ) - DLC abe7bfec-17a2-4138-a4cc-19d97e91e711
 No More Grind Add-On ( Teplight ) - Addon e5cb264a-d077-45a4-a307-8a3066672ae8
 Hardcore Survival - N. America ( The Craft Stars ) - DLC 4cd127dc-961d-4276-a10c-e772838c8192
@@ -6386,4 +6391,10 @@ Ultimate Trading ( WildPhire ) - Addon cc0eaa1a-077c-4826-8f9c-f68b26f2d02b
 Ultimate Modern Mansion ( Fun Creators ) - DLC 06d49fa7-54bd-4139-9d74-933aca813029
 Drones ( Cubed Creations ) - DLC e41abfbb-1dca-424e-b67d-ed1956734ebe
 $1 vs $1,000,000,000 Skyblock ( Lifeboat ) - DLC ed7623ee-564f-4690-a103-6b54dc1beff4
+Lightning PvP Pack ( Waypoint Studios ) - TexturePack 86558573-3594-432b-94af-bb2c05bf2123
 Wings ( Mine-North ) - Addon 51eea9c1-56c9-4bef-9300-03ce4d5160ec
+MODERN Texture Pack ( Pickaxe Studios ) - TexturePack ae003a5a-43fb-47c6-9108-97be2fead32d
+Towers & Dungeons ( The Craft Stars ) - Addon 5a9b25fd-8527-422a-8295-b03742c53b6a
+Trains Add-On ( Lifeboat ) - Addon d42ac193-22e7-4aaf-a6ba-21349e9f13ca
+Skibidi Toilet Raids ( Logdotzip ) - Addon 56944a50-83a2-4e9b-9d9b-d3c0734d38c4
+Moana 2 ( Starfish Studios ) - DLC 495bb1fc-3b99-4426-85d4-f7effe5eadea
