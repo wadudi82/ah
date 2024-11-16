@@ -5362,7 +5362,7 @@ X-Ray Tools ( Mine-North ) - DLC 8499f6da-f258-4c54-b941-91307c3d0a64
 Lucky Block Flat World ( FTB ) - DLC af10b118-0017-43fc-a956-ba80c0cbf2ee
 Size Shifter ( ASCENT ) - DLC 3d586b79-776c-4c85-814d-23d9223f24e1
 OP Blocks ( CubeCraft Games ) - DLC c2813f67-b748-4b47-ba1b-795ce8002e42
-SB737 100 Days Hardcore ( 5 Frame Studios ) - DLC 2f46d757-8e33-4c9e-80fb-1a018fb12767
+SB737 100 Days Challenge ( 5 Frame Studios ) - DLC 2f46d757-8e33-4c9e-80fb-1a018fb12767
 Secret Toilet Base ( Dodo Studios ) - DLC 3db13227-1530-4ad9-a5ef-46e93a5bf256
 Modern Security Service ( In Mine ) - DLC 4ba9e963-84ef-4baf-af9c-ca5ab52163e2
 WARDEN BEDWARS ( Dig Down Studios ) - DLC 23de3415-a71b-4750-ab64-a2477c5e5805
@@ -6253,7 +6253,7 @@ Life in India ( Lifeboat ) - DLC d3e8f855-6495-4366-a50f-19605a074f7f
 Diwali Add-On ( Entity Builds ) - Addon b22d0079-4707-4bcf-acd5-d4492ceb19df
 Horror Survival ( Mine-North ) - DLC 9857a2dc-68e3-4a6e-9174-5b37f3967382
 James Web Space Telescope ( Minecraft ) - DLC be200f3a-b3ec-422a-a237-b9d5cf7f246b
-Mounts ( Misfits ) - Addon 13f9b245-6f4d-4c90-bd24-7bc9dd5b0f5b
+Mounts Add-On ( Misfits ) - Addon 13f9b245-6f4d-4c90-bd24-7bc9dd5b0f5b
 Security Cameras Pack ( Dodo Studios ) - DLC cb47a39a-8cf4-4750-a5ea-0faca25766cb
 Pop-Ups Add-On ( FingerMaps ) - Addon 3407e22b-1d50-4029-b996-5d3d8c3e6017
 Jetpacks ( In Mine ) - Addon 10cbfe85-7293-4118-94c2-2a19bbdbd4c8
@@ -6370,6 +6370,7 @@ ZOMBIE ( Pickaxe Studios ) - DLC 2ec4ae17-0b14-4b82-9f42-d9ff80432bd9
 Ultimate Lava Bunker ( The Craft Stars ) - DLC 2155758c-69c0-430b-b1a9-1d8fedeb9c3c
 Fishing + Add-on ( MobBlocks ) - Addon 308c16a1-ee86-4d62-85aa-2f8efdfdffb8
 Button Challenge ( Lifeboat ) - DLC bffdd39b-4304-4f0a-b688-b984ce5ba2db
+Battle Mutants Add-On ( Jigarbov Productions ) - Addon 20460ebe-2444-4202-9b84-8dc333d4e201
 PVP Add-On ( GoE-Craft ) - Addon 094c5d73-e0c0-4918-94ac-f45b5599a293
 Animal Pack 500+ 1.0 ( Cyclone ) - Addon f12c59d7-94b4-49de-853c-dc9e14770280
 Slime Mansion ( BLOCKLAB Studios ) - DLC bd9e73e2-47fa-4ae8-a579-fad6a04ad7d2
@@ -6384,10 +6385,12 @@ PRO Builder Add-On ( Maca Designs ) - Addon c6d27f11-b63b-49aa-8fd5-b9c2dce99a15
 World Editing ( Glowfischdesigns ) - Addon 78cb3501-58bf-46a4-9acd-dd1e8808d988
 Slingshots Add-On ( Polymaps ) - Addon 8f41c6bd-2a3f-448e-8b6c-153600700efb
 AETHER WEAPONS [DX] ( Maca Designs ) - DLC abe7bfec-17a2-4138-a4cc-19d97e91e711
+Magic Block Add-On ( AriaCreations ) - Addon 31b254e7-a55a-4dd4-a659-bee1c675d6e5
 No More Grind Add-On ( Teplight ) - Addon e5cb264a-d077-45a4-a307-8a3066672ae8
 Hardcore Survival - N. America ( The Craft Stars ) - DLC 4cd127dc-961d-4276-a10c-e772838c8192
 Axolotl Evolve ( Wonder ) - DLC 9183900d-1f7f-461b-9f55-5b5d132860d5
 Ultimate Trading ( WildPhire ) - Addon cc0eaa1a-077c-4826-8f9c-f68b26f2d02b
+Horror Add-On ( Builders Horizon ) - Addon 25f7ea41-3f0f-43d1-91d4-7a292d06ac1f
 Ultimate Modern Mansion ( Fun Creators ) - DLC 06d49fa7-54bd-4139-9d74-933aca813029
 Drones ( Cubed Creations ) - DLC e41abfbb-1dca-424e-b67d-ed1956734ebe
 $1 vs $1,000,000,000 Skyblock ( Lifeboat ) - DLC ed7623ee-564f-4690-a103-6b54dc1beff4
@@ -6395,6 +6398,8 @@ Lightning PvP Pack ( Waypoint Studios ) - TexturePack 86558573-3594-432b-94af-bb
 Wings ( Mine-North ) - Addon 51eea9c1-56c9-4bef-9300-03ce4d5160ec
 MODERN Texture Pack ( Pickaxe Studios ) - TexturePack ae003a5a-43fb-47c6-9108-97be2fead32d
 Towers & Dungeons ( The Craft Stars ) - Addon 5a9b25fd-8527-422a-8295-b03742c53b6a
+More Potions ( Diamond Studios ) - DLC 0db5f468-bdd2-4f5e-8b53-e6cf39db64bb
+REALISM+ Add-On ( Square Dreams ) - Addon 85bdfa29-4870-4acb-9de3-138552dd08a2
 Trains Add-On ( Lifeboat ) - Addon d42ac193-22e7-4aaf-a6ba-21349e9f13ca
 Skibidi Toilet Raids ( Logdotzip ) - Addon 56944a50-83a2-4e9b-9d9b-d3c0734d38c4
 Moana 2 ( Starfish Studios ) - DLC 495bb1fc-3b99-4426-85d4-f7effe5eadea
