@@ -3766,7 +3766,7 @@ Dragons! Biomes ( Cynosia ) - Addon 12678d9b-a82d-485a-8e15-b7c6ba9def4b
 Waypoints Add-On ( Diamond Studios ) - Addon abe1330b-46f9-4798-9724-4ee586850477
 Tetris Add-On ( Minecraft ) - Addon f3e05d62-6ff0-4de5-a2ff-ad5cecc7d01c
 Craftable Houses Add-On ( Pixell Studio ) - Addon 5031a461-4bbe-445a-947b-23ae28375e49
-RealismCraft 1.4 ( Spark Universe ) - Mashup 5eddc134-bdf3-4a84-b7c5-ee0504402be9
+RealismCraft 1.5 ( Spark Universe ) - Mashup 5eddc134-bdf3-4a84-b7c5-ee0504402be9
 Dragons Add-On 1.1 ( Levelatics ) - Addon d790c8b7-6dcc-43c9-85fd-8ece6627ad42
 Sunnyside Academy ( Imagiverse ) - DLC 454ea3d6-0024-4666-b4a9-0f0b9d518a49
 Castle Architect ( Pathway Studios ) - DLC d67ba040-f170-4c3e-8e73-c566f68d0bfc
@@ -5905,7 +5905,7 @@ One Block: Chunks ( Snail Studios ) - DLC 05696652-466e-4257-b990-91a6aadc0ea6
 Biome Creepers ( HeroPixels ) - DLC 253e34b0-af1c-472e-a429-1a7cceee13f3
 Houseboat Survival Wild Ocean ( Pixelusion ) - DLC 2c3c7144-0145-4621-95d6-366fd9f5a18d
 City Lucky Block Race ( Waypoint Studios ) - DLC 5d4ddc54-ca0a-417e-b0a8-562f7a1b9c0f
-Cliff Research Base ( CrackedCubes ) - DLC b8b419ac-2fb1-4bf1-be6a-bf1d90d39fb0
+Alien Research Station ( CrackedCubes ) - DLC b8b419ac-2fb1-4bf1-be6a-bf1d90d39fb0
 Mob TNT ( Levelatics ) - DLC ae172a50-8459-4b17-a99f-8fe3dd83b14a
 Mountain Retreat ( Impulse ) - DLC 9a8838d7-7758-4218-920a-9756ba985ec5
 Guards Weapons ( RareLoot ) - DLC f3eac4f2-128b-49c3-afdc-31fa9ebbd196
@@ -6197,7 +6197,7 @@ Dino Dig ( Lifeboat ) - DLC e8bc65cc-4de7-45ff-bc81-5f361595daa7
 Ore-Finder Add-On ( ChewMingo ) - Addon 60b4b7de-4721-42f6-a785-0c556175cafd
 Spooky Town ( Eescal Studios ) - DLC b4500a1e-8f5c-4e6f-b1b2-1d3ed54ab25d
 Cruise Ship - Aurora ( GoE-Craft ) - DLC 215993df-fdd5-4376-949e-eafdb171929a
-Wolves Plus Add-On v5.1.3 ( JWolf Creations ) - Addon 9dc8c058-d5ab-417f-bd55-4c277f5021aa
+Wolves Plus Add-On v5.1.4 ( JWolf Creations ) - Addon 9dc8c058-d5ab-417f-bd55-4c277f5021aa
 CASTLE SIEGE ( Minty ) - DLC b5b8d64b-ff0f-47d9-aea3-3bd5a001b917
 The Lurkers Mansion ( DeliSoft Studios ) - DLC b40ed463-8085-4931-b815-1e56cf4b6fb2
 Helpful Pets! ( Some Game Studio ) - Addon e85d92f6-233e-48a4-8e5c-08804781ddc5
@@ -6555,6 +6555,7 @@ Moving Dropper ( Diamond Studios ) - DLC d4eeb9e4-9f62-4794-9c28-1452b869ce94
 Sprite ( Minecraft ) - DLC 5c88dbf6-d1e4-48d3-9dd1-43fe21955c44
 PLENTY OF BLOCKS Add-on ( Owls Cubed ) - Addon e416fae4-7dfa-495d-ade4-63150a058bf3
 Inventory Manager (Lite) ( Mythicus ) - Addon 81938b17-4ab1-480d-adb3-5a6c9d486eb6
+Better Bed Wars ( Waypoint Studios ) - DLC 958f5d04-81e0-4b53-b054-0588c71db409
 OP Stacked Layers ( Nitric Concepts ) - DLC 137c6a32-88c3-4dc7-ad12-2a42879dd46c
 Moving Blocks Parkour ( Cubed Creations ) - DLC 12485027-d250-4c61-8e0f-a8dc88493e98
 Airplane Rush ( Lifeboat ) - DLC 25d5ea55-7569-4b5d-96b8-d506e2f0f4cb
@@ -6562,3 +6563,12 @@ The Backrooms ( Volcano ) - DLC 6f22a027-f003-41f1-ba3f-6d8af90cbccb
 Find the Button Extreme ( Pixelusion ) - DLC 748ce112-726d-44dd-8ae9-6f0486af8d96
 2D Platformer ( Lifeboat ) - DLC 72beca16-c97d-4790-be02-3508df2aab1d
 WorldCrafter Add-On ( Causeway Digital ) - Addon 0d3853d3-d77b-482a-bf84-57776bf743f5
+Evolving Weapons Add-On 1.1 ( Pathway Studios ) - Addon 9e760170-bd69-4096-8ca5-5a2736f5ea95
+ANIME JUTSU Add-On ( Kubo Studios ) - Addon 143d25c4-773b-49e0-85d0-20090b11317f
+Easy Redstone Add-On ( Overtales Studio ) - Addon 269a4573-d3a9-44ad-92e5-3f314510578a
+Italy Build Set ( DeliSoft Studios ) - Addon fb60b6a3-a8c9-48cf-a11a-6d0b583a3c9b
+CAVE DWELLER Add-On (Official) ( XP GAMES ) - Addon ebde13b0-4167-4a7f-a2dd-72217b1476ef
+BLASTERS Add-On ( Pixelusion ) - Addon c051b523-88e7-4e0c-a6a5-ac120c456d3e
+Storage++ Add-On ( Diamond Studios ) - Addon 7ab96dbe-b126-4d98-b987-eed5d71da711
+Phantom Frames Add-On ( The Hive ) - Addon c8e87848-aae0-4b66-bc0d-6c70294a93e0
+Avatar: Rites of Passage ( Gamemode One ) - DLC c65cc4c5-8a2f-46f3-bdc6-5bc7c4f7d54f
