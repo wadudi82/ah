@@ -6003,7 +6003,7 @@ More Crops Add-On ( Diamond Studios ) - Addon b9edd259-be72-46f6-81d5-3a654e3b6e
 Laser Tag ( RareLoot ) - DLC 47e1ab57-803a-45fe-8737-6f674b9ec809
 Monkeys! Add-On ( Hog5kull ) - Addon 778b9e42-bf61-446d-9ec1-5816e4a88e73
 Magical Weapons! ( Lua Studios ) - Addon 149a3409-23e0-4231-8c65-c4146bd35817
-SECURITY SECRET DOORS ( Red Eagle Studios ) - Addon f06479e8-6c94-45e1-9067-fac72e911513
+SECRET DOORS Add-On ( Red Eagle Studios ) - Addon f06479e8-6c94-45e1-9067-fac72e911513
 MatchaCraft ( Blockworks ) - TexturePack ae9f2cb9-01b6-4c82-8e35-fef6d0942aa3
 Atlantic Resort ( Project Moonboot ) - DLC 250658cd-86e9-4cdc-8efe-a4d8c4e8cb60
 DYNAMIC LIGHT Add-On ( XP GAMES ) - Addon 2c9dedd5-0918-41e5-ac58-d952a2bae7a6
@@ -6197,7 +6197,7 @@ Dino Dig ( Lifeboat ) - DLC e8bc65cc-4de7-45ff-bc81-5f361595daa7
 Ore-Finder Add-On ( ChewMingo ) - Addon 60b4b7de-4721-42f6-a785-0c556175cafd
 Spooky Town ( Eescal Studios ) - DLC b4500a1e-8f5c-4e6f-b1b2-1d3ed54ab25d
 Cruise Ship - Aurora ( GoE-Craft ) - DLC 215993df-fdd5-4376-949e-eafdb171929a
-Wolves Plus Add-On v5.1.4 ( JWolf Creations ) - Addon 9dc8c058-d5ab-417f-bd55-4c277f5021aa
+Wolves Plus Add-On v5.1.5 ( JWolf Creations ) - Addon 9dc8c058-d5ab-417f-bd55-4c277f5021aa
 CASTLE SIEGE ( Minty ) - DLC b5b8d64b-ff0f-47d9-aea3-3bd5a001b917
 The Lurkers Mansion ( DeliSoft Studios ) - DLC b40ed463-8085-4931-b815-1e56cf4b6fb2
 Helpful Pets! ( Some Game Studio ) - Addon e85d92f6-233e-48a4-8e5c-08804781ddc5
@@ -6556,7 +6556,9 @@ Sprite ( Minecraft ) - DLC 5c88dbf6-d1e4-48d3-9dd1-43fe21955c44
 PLENTY OF BLOCKS Add-on ( Owls Cubed ) - Addon e416fae4-7dfa-495d-ade4-63150a058bf3
 Inventory Manager (Lite) ( Mythicus ) - Addon 81938b17-4ab1-480d-adb3-5a6c9d486eb6
 Better Bed Wars ( Waypoint Studios ) - DLC 958f5d04-81e0-4b53-b054-0588c71db409
+Alien Secret Base ( BLOCKLAB Studios ) - DLC 4d70d4f4-d65a-4eaa-9ee4-2908e43300ff
 OP Stacked Layers ( Nitric Concepts ) - DLC 137c6a32-88c3-4dc7-ad12-2a42879dd46c
+Ultimate Hacker Tools ( Fall Studios ) - DLC 56d6440b-a653-4e04-a27e-47a92bbdc293
 Moving Blocks Parkour ( Cubed Creations ) - DLC 12485027-d250-4c61-8e0f-a8dc88493e98
 Airplane Rush ( Lifeboat ) - DLC 25d5ea55-7569-4b5d-96b8-d506e2f0f4cb
 The Backrooms ( Volcano ) - DLC 6f22a027-f003-41f1-ba3f-6d8af90cbccb
@@ -6564,7 +6566,10 @@ Find the Button Extreme ( Pixelusion ) - DLC 748ce112-726d-44dd-8ae9-6f0486af8d9
 2D Platformer ( Lifeboat ) - DLC 72beca16-c97d-4790-be02-3508df2aab1d
 WorldCrafter Add-On ( Causeway Digital ) - Addon 0d3853d3-d77b-482a-bf84-57776bf743f5
 Evolving Weapons Add-On 1.1 ( Pathway Studios ) - Addon 9e760170-bd69-4096-8ca5-5a2736f5ea95
+Monster Food Add-On ( Noxcrew ) - Addon c3f19cc3-ef8e-4e9f-bf47-a7c1a2a3ada6
+MOB LIGHTS Add-On ( HorizonBlocks ) - Addon 716983cc-ce5d-487c-b5b8-841ba004a721
 ANIME JUTSU Add-On ( Kubo Studios ) - Addon 143d25c4-773b-49e0-85d0-20090b11317f
+Scary Furniture ( Honeyfrost ) - Addon c55406eb-589f-4466-99e1-544db3b8132f
 Easy Redstone Add-On ( Overtales Studio ) - Addon 269a4573-d3a9-44ad-92e5-3f314510578a
 Italy Build Set ( DeliSoft Studios ) - Addon fb60b6a3-a8c9-48cf-a11a-6d0b583a3c9b
 CAVE DWELLER Add-On (Official) ( XP GAMES ) - Addon ebde13b0-4167-4a7f-a2dd-72217b1476ef
