@@ -3703,7 +3703,7 @@ FTB Skies ( FTB ) - DLC 3ccbc939-d497-4dfa-9f8a-49ffc78d4587
 Villain Bunker ( Shapescape ) - DLC d84bb63d-e441-4b3f-9a90-5a680d90f5ca
 ULTRA Hardcore Difficulty [DX] ( Logdotzip ) - DLC 4533d494-0552-4203-b634-76bfba1e1b47
 Skyblock Lucky Block 2 ( Blocky ) - DLC bb317f95-5874-4a26-a90a-e7299bed7605
-Classic Shaders ( Square Dreams ) - TexturePack 8d32594c-0a07-4d76-9c87-63413de28b84
+Classic Shadows ( Square Dreams ) - TexturePack 8d32594c-0a07-4d76-9c87-63413de28b84
 It Lurks 3 ( DeliSoft Studios ) - DLC c6803397-4fe5-4839-991b-f3f52c488d94
 Skyblock Generator ( Panascais ) - DLC ad43a1b1-3d49-438d-96d3-309d0ddb4f54
 3000 Weapons ( Starfish Studios ) - DLC cef3acb1-8935-4503-b9ce-c606d7646126
@@ -5443,7 +5443,7 @@ Shipwrecked: At Neverland ( DeliSoft Studios ) - DLC 9ce4ec85-97e2-426d-99b7-7b6
 Super Cars Add-On ( Octovon ) - Addon da7a290e-1555-434e-98d8-29b305d7e365
 Hydra Bosses Add-On ( Spectral Studios ) - Addon 1eba3c61-c89a-48c3-a6e2-5688b5062cf9
 Fairy Tales ( Chillcraft ) - Addon 6fbe33f8-2f7e-4917-b445-f30027d6191f
-Dinosaurs Add-On 1.1 ( Honeyfrost ) - Addon bbc3adf7-b481-47f2-9a3d-749ae5421508
+Dinosaurs Add-On 2.0 ( Honeyfrost ) - Addon bbc3adf7-b481-47f2-9a3d-749ae5421508
 Portal Blasters Add-On ( Starfish Studios ) - Addon 40a06c68-b94b-4fea-b375-e2c5ac785305
 Sniffer Village ( Pathway Studios ) - DLC eb5eb1a4-72df-4992-8b99-ace0da8598a7
 Wither Evolve ( Eescal Studios ) - DLC c2c6b98e-c724-48c5-b33d-3c8543e10ff7
@@ -6025,7 +6025,7 @@ Escape the Monster ( Waypoint Studios ) - DLC 4a92b220-e93f-487b-8077-015c228beb
 Safest Mansion! ( Dodo Studios ) - DLC 1da4e872-e15a-4924-b3b0-5edcfbe231cc
 HIDE AND SEEK IN THE CASTLE ( Team VoidFeather ) - DLC fd9f08d7-dc11-4da8-8ede-edf08e7dfbb9
 Transformers ( Syclone Studios ) - DLC 9b2f5477-8845-4912-9c07-da0e876cd5b9
-DWELLERS Add-On ( Panascais ) - Addon 2e5049f1-cf17-4fba-b60d-d1d92284e3bc
+DWELLERS 2.0 Add-On ( Panascais ) - Addon 2e5049f1-cf17-4fba-b60d-d1d92284e3bc
 Fallen Titan ( Cyclone ) - DLC 2cb0976c-468e-44ce-9fed-5d3bc1fcdd42
 Ultimate Pig Race ( Everbloom Games ) - DLC f10fbe06-91fe-4776-9e12-0684bae92687
 The Kingdom of Torchwall ( Imagiverse ) - DLC c1564cc4-fb64-43ce-8343-dfbbc9822bfc
@@ -6246,7 +6246,7 @@ Raft Survival ( SandBlock Studios ) - DLC 799fd234-bdc2-4402-bd30-53494cc0812b
 Deluxe Furniture: Retreat ( Blockception ) - DLC 39bc2a03-45b7-4388-ba7e-d5ed7699473c
 Spellbooks ( 4KS Studios ) - DLC 3b58abf7-2c43-417e-94f5-e69cdae490e4
 Evolving Weapons Add-On ( Snail Studios ) - Addon 1c8c0032-8825-4eb5-af26-174250268327
-Realistic Biomes Add-On 1.1 ( Oreville Studios ) - Addon 2249c366-c812-4fe5-a6ec-abe9d6bea6bc
+Realistic Biomes 1.2 Add-On ( Oreville Studios ) - Addon 2249c366-c812-4fe5-a6ec-abe9d6bea6bc
 Security Bunkers ( Cubed Creations ) - DLC 6a34b46e-55c2-4bd1-8cdf-87e557cc720c
 Dream Kawaii Texture Pack ( MelonBP ) - TexturePack bdd77884-c73e-4c45-930e-7c353e6ab533
 Life in India ( Lifeboat ) - DLC d3e8f855-6495-4366-a50f-19605a074f7f
@@ -6438,7 +6438,7 @@ Security Bunker ( Cubed Creations ) - DLC 9710e554-073a-4019-8daa-6dbba7c3a6ed
 Haunted Ship ( Pixelusion ) - DLC 4c538734-88eb-4df9-ad44-ef21eb96c103
 Wild West Expansion ( Nitric Concepts ) - DLC a11ae56f-afc2-4dbb-a25d-1b553bc1a4b2
 Apocalypse Arena ( Pathway Studios ) - DLC fa55e1a5-87c9-4b7f-a142-205ac86aee86
-Morrowvale ( 555Comic ) - DLC bdf41ff0-d2dc-48e7-bf1b-573c46cd24b5
+Morrowvale ( FineArts ) - DLC bdf41ff0-d2dc-48e7-bf1b-573c46cd24b5
 Hacker Base ( Chillcraft ) - DLC e2c44ac2-c757-4b24-89b3-ca0e5d9cc21d
 Backrooms 100 Levels Parkour ( Pixelusion ) - DLC f5de8b23-ecc4-4a19-a269-e0f7b3473699
 Don't Touch the Sand ( BLOCKLAB Studios ) - DLC 935ef0a3-47f2-4a8d-8ac0-f74efd5d32f5
@@ -6555,8 +6555,12 @@ Moving Dropper ( Diamond Studios ) - DLC d4eeb9e4-9f62-4794-9c28-1452b869ce94
 Sprite ( Minecraft ) - DLC 5c88dbf6-d1e4-48d3-9dd1-43fe21955c44
 PLENTY OF BLOCKS Add-on ( Owls Cubed ) - Addon e416fae4-7dfa-495d-ade4-63150a058bf3
 Inventory Manager (Lite) ( Mythicus ) - Addon 81938b17-4ab1-480d-adb3-5a6c9d486eb6
+Space Station 0077 ( Shaliquinn's Schematics ) - DLC b7ed6fff-168d-4efa-a8b7-806b5714ca97
+House of Secrets ( Dodo Studios ) - DLC 820522cd-e7bd-4fe1-a0f9-66313d29b756
 Better Bed Wars ( Waypoint Studios ) - DLC 958f5d04-81e0-4b53-b054-0588c71db409
+Venice Waterways ( Shaliquinn's Schematics ) - DLC 3a23105f-0857-4c1b-9eed-5cacda0f6378
 Alien Secret Base ( BLOCKLAB Studios ) - DLC 4d70d4f4-d65a-4eaa-9ee4-2908e43300ff
+Hacker Mansion ( Fall Studios ) - DLC 844af5d1-7c17-4849-aa5a-3da89b617a34
 OP Stacked Layers ( Nitric Concepts ) - DLC 137c6a32-88c3-4dc7-ad12-2a42879dd46c
 Ultimate Hacker Tools ( Fall Studios ) - DLC 56d6440b-a653-4e04-a27e-47a92bbdc293
 Moving Blocks Parkour ( Cubed Creations ) - DLC 12485027-d250-4c61-8e0f-a8dc88493e98
@@ -6565,15 +6569,32 @@ The Backrooms ( Volcano ) - DLC 6f22a027-f003-41f1-ba3f-6d8af90cbccb
 Find the Button Extreme ( Pixelusion ) - DLC 748ce112-726d-44dd-8ae9-6f0486af8d96
 2D Platformer ( Lifeboat ) - DLC 72beca16-c97d-4790-be02-3508df2aab1d
 WorldCrafter Add-On ( Causeway Digital ) - Addon 0d3853d3-d77b-482a-bf84-57776bf743f5
+The Storage Expansion ( Cleverlike ) - Addon 6bfa652c-dcc3-4c0a-97c4-0f45e4c5f59a
+Isekai Buddy: Juss the Cacta ( Carper Creative ) - Addon 1f03cf3d-0b3d-4a8e-81d9-283e0ee9aa8c
+MORPH + Hide and Seek ( Ninja Squirrel Gaming ) - Addon 0fdca504-d441-41b6-a644-a843219b9046
 Evolving Weapons Add-On 1.1 ( Pathway Studios ) - Addon 9e760170-bd69-4096-8ca5-5a2736f5ea95
+Unicorns ( Plank ) - Addon cf4b2b4c-a0b8-44f4-9209-542fcd2dd306
+Advanced Compass Add-On ( Jigarbov Productions ) - Addon 07478d89-c0df-4eb5-a75b-701eab9191a7
+More Blocks Statues Add-On ( MrAniman2 ) - Addon feb0a8ba-cd7b-431c-9cee-e3be6fcf21e6
+Boomerangs Add-On v1.1.1 ( JWolf Creations ) - Addon ae09df32-7cd8-40df-9a53-24814bdbda1f
+Monsters Add-on ( Ninja Block ) - Addon 9ea24b15-bebc-48e9-9759-90e46941209b
+Soundscapes+ Add-On ( The Hive ) - Addon 181c5ffd-a694-4418-9d46-969903678d13
 Monster Food Add-On ( Noxcrew ) - Addon c3f19cc3-ef8e-4e9f-bf47-a7c1a2a3ada6
 MOB LIGHTS Add-On ( HorizonBlocks ) - Addon 716983cc-ce5d-487c-b5b8-841ba004a721
+AsianCraft Building Add-On ( RareLoot ) - Addon 537f800a-8b58-46ae-9e6b-dccef957ce47
 ANIME JUTSU Add-On ( Kubo Studios ) - Addon 143d25c4-773b-49e0-85d0-20090b11317f
+Weapons & Armors Add-on ( Pixell Studio ) - Addon 548b99ff-688e-4689-a0fd-354f4e32e698
 Scary Furniture ( Honeyfrost ) - Addon c55406eb-589f-4466-99e1-544db3b8132f
 Easy Redstone Add-On ( Overtales Studio ) - Addon 269a4573-d3a9-44ad-92e5-3f314510578a
 Italy Build Set ( DeliSoft Studios ) - Addon fb60b6a3-a8c9-48cf-a11a-6d0b583a3c9b
 CAVE DWELLER Add-On (Official) ( XP GAMES ) - Addon ebde13b0-4167-4a7f-a2dd-72217b1476ef
 BLASTERS Add-On ( Pixelusion ) - Addon c051b523-88e7-4e0c-a6a5-ac120c456d3e
+TRAINS Add-On ( Pickaxe Studios ) - Addon 2f2a7437-8e2e-4b81-9479-74a4652a8d27
 Storage++ Add-On ( Diamond Studios ) - Addon 7ab96dbe-b126-4d98-b987-eed5d71da711
+Gadgets Add-On ( FingerMaps ) - Addon 408b225c-fe90-4d65-b7d5-50e377e38ac2
 Phantom Frames Add-On ( The Hive ) - Addon c8e87848-aae0-4b66-bc0d-6c70294a93e0
 Avatar: Rites of Passage ( Gamemode One ) - DLC c65cc4c5-8a2f-46f3-bdc6-5bc7c4f7d54f
+Mountable Pets! ( Lua Studios ) - Addon 2f255daf-d18f-4504-8fb4-70cdca673e29
+Realism Effects Add-On ( Cubed Creations ) - Addon c34660dc-7c8d-4ebe-9069-bc38b9066a6a
+Lava Chicken Add-On ( Minecraft ) - Addon b8294b31-2d62-4823-a13e-52d5ea6e6ef4
+Actions & Stuff 1.0 ( Oreville Studios ) - TexturePack 61c7a786-d7ad-49e0-a710-817121cd9795
