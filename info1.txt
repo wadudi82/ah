@@ -6625,6 +6625,7 @@ Gadgets Add-On ( FingerMaps ) - Addon 408b225c-fe90-4d65-b7d5-50e377e38ac2
 1,000,000 Horses! ( Cynosia ) - Addon 59a14394-d168-4803-8780-0218ce69325c
 Phantom Frames Add-On ( The Hive ) - Addon c8e87848-aae0-4b66-bc0d-6c70294a93e0
 Avatar: Rites of Passage ( Gamemode One ) - DLC c65cc4c5-8a2f-46f3-bdc6-5bc7c4f7d54f
+Furniture Life Add-On ( PixelHeads ) - Addon e29104d2-1d25-4ece-8d8b-9507ca78c32f
 Mountable Pets! ( Lua Studios ) - Addon 2f255daf-d18f-4504-8fb4-70cdca673e29
 Realism Effects Add-On ( Cubed Creations ) - Addon c34660dc-7c8d-4ebe-9069-bc38b9066a6a
 Lava Chicken Add-On ( Minecraft ) - Addon b8294b31-2d62-4823-a13e-52d5ea6e6ef4
@@ -6634,8 +6635,9 @@ Economy Add-On ( Endorah ) - Addon 821cecaf-25ef-4b13-9773-52389fd9c4b9
 Gifts Add-On ( Tetrascape ) - Addon 1d9d5c9d-ed46-4f87-a0a6-b41d6992e7f3
 Journey to the great shiai ( The Wizard and Wyld ) - DLC 631c8076-1651-45b5-a3f3-4102d126d8b4
 Actions & Stuff 1.0 ( Oreville Studios ) - TexturePack 61c7a786-d7ad-49e0-a710-817121cd9795
+Storage Plus ( Giggle Block Studios ) - Addon 0975042f-8574-465c-a896-566b05a041ea
 THEIA DIMENSION ( BLOCKLAB Studios ) - DLC c3ae311a-5209-495d-b019-985aecb952dd
+Ninjas Add-On ( Diveblocks ) - Addon 72226960-e3e8-4da4-bceb-b4432a975bbe
+Mob Menagerie Add-On ( StacyPlays ) - Addon cc9ef452-fdb3-424b-b2ba-247c9bce7314
+PARASITE OUTBREAK Add-On ( Mythicus ) - Addon f5bdb521-807e-4280-9335-0cbded4a7276
 Sonic Add-On ( Gamemode One ) - Addon f3e0a4be-8858-44d3-9ae8-91643db1b3f6
-Furniture Life Add-On (PixelHeads) - Addon e29104d2-1d25-4ece-8d8b-9507ca78c32f
-Ninjas Add-On (Diveblocks) - Addon 72226960-e3e8-4da4-bceb-b4432a975bbe
-PARASITE OUTBREAK Add-On (Mythicus) - Addon f5bdb521-807e-4280-9335-0cbded4a7276
