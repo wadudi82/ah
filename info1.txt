@@ -6636,3 +6636,6 @@ Journey to the great shiai ( The Wizard and Wyld ) - DLC 631c8076-1651-45b5-a3f3
 Actions & Stuff 1.0 ( Oreville Studios ) - TexturePack 61c7a786-d7ad-49e0-a710-817121cd9795
 THEIA DIMENSION ( BLOCKLAB Studios ) - DLC c3ae311a-5209-495d-b019-985aecb952dd
 Sonic Add-On ( Gamemode One ) - Addon f3e0a4be-8858-44d3-9ae8-91643db1b3f6
+Furniture Life Add-On (PixelHeads) - Addon e29104d2-1d25-4ece-8d8b-9507ca78c32f
+Ninjas Add-On (Diveblocks) - Addon 72226960-e3e8-4da4-bceb-b4432a975bbe
+PARASITE OUTBREAK Add-On (Mythicus) - Addon f5bdb521-807e-4280-9335-0cbded4a7276
