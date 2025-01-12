@@ -5734,7 +5734,7 @@ Gaming Furniture ( Withercore ) - DLC 9c97769a-5fde-4b8c-8c52-fc3cd876dbb5
 Fantasy Delight Texture Pack ( Mine-North ) - TexturePack ebd6a536-2023-49e7-aa61-32afcbe5dcf7
 PvP MINI GAME ( Pickaxe Studios ) - DLC 65fa147c-b0be-472e-a67b-2c8395844578
 Furniture ( Kora Studios ) - DLC 3d330f5e-4fb4-45ed-8ac3-dfb4e32498cf
-Forest Craft Add-On ( Float Studios ) - Addon b72d5e11-09a6-4f55-9bdd-fae5388e1866
+Forest Craft Add-On 2.0 ( Float Studios ) - Addon b72d5e11-09a6-4f55-9bdd-fae5388e1866
 RPG Skills ( Podcrash ) - Addon 76427135-f29f-4d2b-8d97-4b66258a7e13
 Cute Golems ( inPixel ) - Addon 80e3e32e-fca5-49fb-92db-55bc4239cc88
 Slimey Boyos ( Razzleberries ) - Addon cf7b804b-e827-4ea1-b86c-6f9aecde6e49
@@ -6560,10 +6560,13 @@ Space Station 0077 ( Shaliquinn's Schematics ) - DLC b7ed6fff-168d-4efa-a8b7-806
 Rapid Racers ( Cyclone ) - DLC 2f82a95c-045d-4e00-9026-dc14658d5b81
 House of Secrets ( Dodo Studios ) - DLC 820522cd-e7bd-4fe1-a0f9-66313d29b756
 Better Bed Wars ( Waypoint Studios ) - DLC 958f5d04-81e0-4b53-b054-0588c71db409
+Cursed Mines ( The Craft Stars ) - DLC b2f146bf-d630-47df-96fd-110cfe35ca2d
 Venice Waterways ( Shaliquinn's Schematics ) - DLC 3a23105f-0857-4c1b-9eed-5cacda0f6378
+Better Villages ( Razzleberries ) - DLC 1a3f4098-37dd-431c-9e99-3759e01d33e4
 Payload: Medium Rare ( Sapphire Studios ) - DLC 9a0fc792-16d0-4bcc-8eb8-b6dc6da5e4c7
 Alien Secret Base ( BLOCKLAB Studios ) - DLC 4d70d4f4-d65a-4eaa-9ee4-2908e43300ff
 Hacker Mansion ( Fall Studios ) - DLC 844af5d1-7c17-4849-aa5a-3da89b617a34
+Rainbow Ore Roleplay! ( Pickaxe Studios ) - DLC f2421268-a9ec-4ab0-b2d5-6990458dda45
 OP Stacked Layers ( Nitric Concepts ) - DLC 137c6a32-88c3-4dc7-ad12-2a42879dd46c
 Ultimate Hacker Tools ( Fall Studios ) - DLC 56d6440b-a653-4e04-a27e-47a92bbdc293
 Tropical Resort ( RareLoot ) - DLC 98515ed0-bc0e-4cc1-bc5f-5461953d7bec
@@ -6584,6 +6587,7 @@ WorldCrafter Add-On ( Causeway Digital ) - Addon 0d3853d3-d77b-482a-bf84-57776bf
 The Storage Expansion ( Cleverlike ) - Addon 6bfa652c-dcc3-4c0a-97c4-0f45e4c5f59a
 Isekai Buddy: Juss the Cacta ( Carper Creative ) - Addon 1f03cf3d-0b3d-4a8e-81d9-283e0ee9aa8c
 MORPH + Hide and Seek ( Ninja Squirrel Gaming ) - Addon 0fdca504-d441-41b6-a644-a843219b9046
+The Ultimate Survival World ( RareLoot ) - DLC d55afbe4-27d9-4e68-bb08-f943026e2fdb
 Totems Add-On ( Glorious Studios ) - Addon 152d6013-badf-44bb-acd9-227de91ab566
 Evolving Weapons Add-On 1.1 ( Pathway Studios ) - Addon 9e760170-bd69-4096-8ca5-5a2736f5ea95
 Unicorns ( Plank ) - Addon cf4b2b4c-a0b8-44f4-9209-542fcd2dd306
@@ -6636,6 +6640,7 @@ Gifts Add-On ( Tetrascape ) - Addon 1d9d5c9d-ed46-4f87-a0a6-b41d6992e7f3
 Journey to the great shiai ( The Wizard and Wyld ) - DLC 631c8076-1651-45b5-a3f3-4102d126d8b4
 Actions & Stuff 1.0 ( Oreville Studios ) - TexturePack 61c7a786-d7ad-49e0-a710-817121cd9795
 Storage Plus ( Giggle Block Studios ) - Addon 0975042f-8574-465c-a896-566b05a041ea
+Ore Armor Expansion! ( Lua Studios ) - Addon 1d05baec-8fcc-4c3f-b626-265a38b66d38
 THEIA DIMENSION ( BLOCKLAB Studios ) - DLC c3ae311a-5209-495d-b019-985aecb952dd
 Ninjas Add-On ( Diveblocks ) - Addon 72226960-e3e8-4da4-bceb-b4432a975bbe
 Mob Menagerie Add-On ( StacyPlays ) - Addon cc9ef452-fdb3-424b-b2ba-247c9bce7314
