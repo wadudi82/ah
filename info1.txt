@@ -6274,7 +6274,7 @@ Comic Weapons ( Chillcraft ) - DLC a79c7448-fc27-47e3-96a8-c51fa776518d
 HORROR: THE ESCAPE ( Square Dreams ) - DLC 62524830-a899-442c-bcf5-e9819a23df79
 MORPH ( Builders Horizon ) - DLC 9b1ca018-76d7-45ce-8b15-de0e3b2921d7
 Beastly Backpacks ( CHRONICOVERRIDE LLC ) - Addon 4e8867a8-99bf-4256-a424-1ad7144397b1
-Mage Mania Add-On ( House of How ) - Addon b1b6a214-c636-4cff-ad99-bd57e1d79775
+Magic Armor Add-On ( House of How ) - Addon b1b6a214-c636-4cff-ad99-bd57e1d79775
 BOB'S PLANES ( Team Workbench ) - Addon f8cb99b7-cafa-4057-a967-d2254b380768
 Flying Car ( Cubed Creations ) - DLC 395c616b-f073-48ad-ae44-5f3c697b2288
 REALEX Moonlight ( Pathway Studios ) - TexturePack 4eefe85d-a583-4478-bf2f-ec37ac62e72c
@@ -6542,7 +6542,7 @@ More Potions ( Diamond Studios ) - DLC 0db5f468-bdd2-4f5e-8b53-e6cf39db64bb
 Funline Texture Pack ( Mine-North ) - TexturePack 4ec87e21-44c3-44a4-873c-6dded2686432
 Horror Defense ( RareLoot ) - DLC 84fdfa36-6c1e-4f37-8177-b7a82b8291e2
 REALISM+ Add-On ( Square Dreams ) - Addon 85bdfa29-4870-4acb-9de3-138552dd08a2
-Trains Add-On ( Lifeboat ) - Addon d42ac193-22e7-4aaf-a6ba-21349e9f13ca
+Trains Add-On 1.1 ( Lifeboat ) - Addon d42ac193-22e7-4aaf-a6ba-21349e9f13ca
 HOUSES EVOLVE! ( Chunklabs ) - DLC c08190ec-3f9c-4844-91f7-0edce26b912b
 Skibidi Toilet Raids ( Logdotzip ) - Addon 56944a50-83a2-4e9b-9d9b-d3c0734d38c4
 Block Expansion ( Diveblocks ) - DLC 50c23842-32ea-475e-b167-fd48729ee45b
@@ -6654,6 +6654,8 @@ Gifts Add-On ( Tetrascape ) - Addon 1d9d5c9d-ed46-4f87-a0a6-b41d6992e7f3
 Biomes + Realism Add-On ( Block Factory ) - Addon a995a919-46ca-4ade-a1c9-b634f98b7a72
 Journey to the great shiai ( The Wizard and Wyld ) - DLC 631c8076-1651-45b5-a3f3-4102d126d8b4
 Actions & Stuff 1.1 ( Oreville Studios ) - TexturePack 61c7a786-d7ad-49e0-a710-817121cd9795
+Laser Blasters Add-On ( HorizonBlocks ) - Addon 3b0affd8-2d66-432f-bf28-3f39411fb63e
+Top Parkour Map! ( Owls Cubed ) - DLC c8dcb97a-444b-4924-b0b3-a37e01277cad
 Storage Plus ( Giggle Block Studios ) - Addon 0975042f-8574-465c-a896-566b05a041ea
 Carry More Add-On ( Cubical ) - Addon d14998d3-93a4-46fc-aa07-9e83261f679a
 Ore Armor Expansion! ( Lua Studios ) - Addon 1d05baec-8fcc-4c3f-b626-265a38b66d38
